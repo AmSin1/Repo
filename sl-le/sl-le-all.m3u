@@ -1,18 +1,6 @@
 #EXTM3U
 
-# Playlist from sl-le-1.m3u (last updated 23-01-2026 22:32 IST) : 3 streams 
+# Playlist from sl-le-1.m3u (last updated 23-01-2026 23:45 IST) : 1 streams 
 
 #EXTINF:-1 tvg-id="1090498688" tvg-name="Shark Tank India" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013880/176900423941321_sti26_simulcast_21jan_landscape_thumb.jpg" group-title="Reality",Shark Tank India
-https://dai.google.com/ssai/event/-9b6XJc7R-6Qneau7JKlJg/master.m3u8?hdnea=exp=1769214602~acl=/*~id=d70061ec994b06ebf55134feb2613495-1769171400166~hmac=29ed3a16e3b5a7761c3acaf9b29ba541bb7664d68c30d41a462923c8f2ef5838|User-Agent=com.sonyliv/6.22.4 (Android 8; en_GB; CPH1901; Build/OPM1.171019.026)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=5c6d1a0f523df011ceddab7acc37d009-1769187000103
-#EXTINF:-1 tvg-id="1090501038" tvg-name="Pro Wrestling League 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013444/1768476387062858_PWL_26_Maharashtra-Kesari-vs-Haryana-Thunders_15jan_landscape_thumb.jpg" tvg-language="English" group-title="Wrestling",ENG | Maharashtra Kesari vs Haryana Thunders - 23 Jan 2026
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1769214602~acl=/*~id=d70061ec994b06ebf55134feb2613495-1769171400166~hmac=29ed3a16e3b5a7761c3acaf9b29ba541bb7664d68c30d41a462923c8f2ef5838|User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; SM-X910N; Build/PQ3A.190605.03202111)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=5c6d1a0f523df011ceddab7acc37d009-1769187000103
-#EXTINF:-1 tvg-id="1090501038" tvg-name="Pro Wrestling League 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013444/1768476387062858_PWL_26_Maharashtra-Kesari-vs-Haryana-Thunders_15jan_landscape_thumb.jpg" tvg-language="Hindi" group-title="Wrestling",HIN | Maharashtra Kesari vs Haryana Thunders - 23 Jan 2026
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/master.m3u8?hdnea=exp=1769214602~acl=/*~id=d70061ec994b06ebf55134feb2613495-1769171400166~hmac=29ed3a16e3b5a7761c3acaf9b29ba541bb7664d68c30d41a462923c8f2ef5838|User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; SM-X910N; Build/PQ3A.190605.03202111)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=5c6d1a0f523df011ceddab7acc37d009-1769187000103
-
-
-# Playlist from sl-le-2.m3u (last updated 23-01-2026 22:32 IST) : 2 streams 
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013444/1768476387062858_PWL_26_Maharashtra-Kesari-vs-Haryana-Thunders_15jan_landscape_thumb.jpg" group-title="sonyliv-Wrestling", Maharashtra Kesari vs Haryana Thunders - 23 Jan 2026 [ENG] - Pro Wrestling League 2026
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769230431~acl=/*~id=92423115774848035441023084216892~hmac=9fa4b1e4e44d72b7c0c354366a50bbb0837507fe9b90a7fbf3e3fb40a0701c74
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013444/1768476387062858_PWL_26_Maharashtra-Kesari-vs-Haryana-Thunders_15jan_landscape_thumb.jpg" group-title="sonyliv-Wrestling", Maharashtra Kesari vs Haryana Thunders - 23 Jan 2026 [HIN] - Pro Wrestling League 2026
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769230431~acl=/*~id=92423115774848035441023084216892~hmac=9fa4b1e4e44d72b7c0c354366a50bbb0837507fe9b90a7fbf3e3fb40a0701c74
+https://dai.google.com/ssai/event/-9b6XJc7R-6Qneau7JKlJg/master.m3u8?hdnea=exp=1769214602~acl=/*~id=d70061ec994b06ebf55134feb2613495-1769171400166~hmac=29ed3a16e3b5a7761c3acaf9b29ba541bb7664d68c30d41a462923c8f2ef5838|User-Agent=com.sonyliv/6.22.4 (Android 7; en_GB; TV BOX; Build/NHG47K)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6e1f2c39d4b201f463a1223a994419e4-1769191800109
