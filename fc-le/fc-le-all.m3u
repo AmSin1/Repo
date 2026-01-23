@@ -1,6 +1,6 @@
 #EXTM3U
 
-# Playlist from fc-le-1.m3u (last updated 24-01-2026 02:00 IST) : 9 streams 
+# Playlist from fc-le-1.m3u (last updated 24-01-2026 02:04 IST) : 9 streams 
 
 #EXTINF:-1 tvg-id="139761" tvg-name="Trinidad And Tobago Women Vs Guyana Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Trinidad And Tobago Women Vs Guyana Women
 https://in-mc-fdlive.fancode.com/mumbai/139761_english_hls_99c69b8e8927484_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
@@ -22,7 +22,7 @@ https://in-mc-fdlive.fancode.com/mumbai/139996_english_hls_c45089e8af96830_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/139997_english_hls_06dee3b8a183340_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 
 
-# Playlist from fc-le-2.m3u (last updated 24-01-2026 02:00 IST) : 9 streams 
+# Playlist from fc-le-2.m3u (last updated 24-01-2026 02:04 IST) : 9 streams 
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg" group-title="Fancode-Cricket", Trinidad and Tobago Women vs Guyana Women (CWI T20 Blaze 2026)
 https://in-mc-fdlive.fancode.com/mumbai/139761_english_hls_99c69b8e8927484_1ta-di_h264/index.m3u8
@@ -44,7 +44,7 @@ https://in-mc-fdlive.fancode.com/mumbai/139996_english_hls_c45089e8af96830_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/139997_english_hls_06dee3b8a183340_1ta-di_h264/index.m3u8
 
 
-# Playlist from fc-le-3.m3u (last updated 24-01-2026 02:00 IST) : 9 streams 
+# Playlist from fc-le-3.m3u (last updated 24-01-2026 02:04 IST) : 9 streams 
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg" group-title="Fancode-Cricket", Trinidad and Tobago Women vs Guyana Women (CWI T20 Blaze 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/139761_english_hls_99c69b8e8927484_1ta-di_h264/index.m3u8
