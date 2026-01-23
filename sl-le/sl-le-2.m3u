@@ -1,28 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013656/1768575407866561_UEL_26_MD7_Braga-vs-Nottm-Forest_landscape_thumb.jpg" group-title="sonyliv-Football", Braga vs Nott'm Forest - MD 7 - 23 Jan 2026 [ENG] - UEFA Europa League 2025-26
-https://liveakmt-p.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769160071~acl=/*~id=22009710348528389437214563694242~hmac=638f3555f2f7b3a0255316818728840594b175b298fc8baaa71282d6eb36631a
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013993/1769110083340443_AO2026_Landscape_Thumb_Alcaraz_V_Moutet_SP.jpg" group-title="sonyliv-Tennis", Alcaraz vs Moutet - Round 3 - 23 Jan 2026	 [ENG] - Australian Open 2026
+https://liveakmt-p.slivcdn.com/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769184606~acl=/*~id=06068250782400531332904285587418~hmac=6ddefcfe8492bd1e6da9ca30e93b95ae0e1bb6fae35246a9ab5434777095bde1
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013656/1768570174319560_UEL_26_MD7_AS-Roma-vs-Stuttgart_landscape_thumb.jpg" group-title="sonyliv-Football", AS Roma vs Stuttgart - MD 7 - 23 Jan 2026 [ENG] - UEFA Europa League 2025-26
-https://liveakmt-p.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769160071~acl=/*~id=22009710348528389437214563694242~hmac=638f3555f2f7b3a0255316818728840594b175b298fc8baaa71282d6eb36631a
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013993/1769110083340443_AO2026_Landscape_Thumb_Alcaraz_V_Moutet_SP.jpg" group-title="sonyliv-Tennis", Alcaraz vs Moutet - Round 3 - 23 Jan 2026	 [HIN] - Australian Open 2026
+https://liveakmt-p.slivcdn.com/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769184606~acl=/*~id=06068250782400531332904285587418~hmac=6ddefcfe8492bd1e6da9ca30e93b95ae0e1bb6fae35246a9ab5434777095bde1
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013656/1768576763032561_UEL_26_MD7_Celta-vs-Lille_landscape_thumb.jpg" group-title="sonyliv-Football", Celta vs Lille - MD 7 - 23 Jan 2026 [ENG] - UEFA Europa League 2025-26
-https://liveakmt-p.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769160071~acl=/*~id=22009710348528389437214563694242~hmac=638f3555f2f7b3a0255316818728840594b175b298fc8baaa71282d6eb36631a
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013993/1769110083340443_AO2026_Landscape_Thumb_Alcaraz_V_Moutet_SP.jpg" group-title="sonyliv-Tennis", Alcaraz vs Moutet - Round 3 - 23 Jan 2026	 [TAM] - Australian Open 2026
+https://liveakmt-p.slivcdn.com/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769184606~acl=/*~id=06068250782400531332904285587418~hmac=6ddefcfe8492bd1e6da9ca30e93b95ae0e1bb6fae35246a9ab5434777095bde1
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013656/1768578309704561_UEL_26_MD7_GNK-Dinamo-vs-FCSB_landscape_thumb.jpg" group-title="sonyliv-Football", GNK Dinamo vs FCSB - MD 7 - 23 Jan 2026 [ENG] - UEFA Europa League 2025-26
-https://liveakmt-p.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769160071~acl=/*~id=22009710348528389437214563694242~hmac=638f3555f2f7b3a0255316818728840594b175b298fc8baaa71282d6eb36631a
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013993/1769110083340443_AO2026_Landscape_Thumb_Alcaraz_V_Moutet_SP.jpg" group-title="sonyliv-Tennis", Alcaraz vs Moutet - Round 3 - 23 Jan 2026	 [TEL] - Australian Open 2026
+https://liveakmt-p.slivcdn.com/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769184606~acl=/*~id=06068250782400531332904285587418~hmac=6ddefcfe8492bd1e6da9ca30e93b95ae0e1bb6fae35246a9ab5434777095bde1
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013660/1768629441637798_UEL_26_MD7_Utrecht-vs-Genk_landscape_thumb.jpg" group-title="sonyliv-Football", Utrecht vs Genk - MD 7 - 23 Jan 2026 [ENG] - UEFA Europa League 2025-26
-https://liveakmt-p.slivcdn.com/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769160071~acl=/*~id=22009710348528389437214563694242~hmac=638f3555f2f7b3a0255316818728840594b175b298fc8baaa71282d6eb36631a
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013992/1769110084043967_AO2026_Landscape_Thumb_Medvedev_v_Marozsan_SP.jpg" group-title="sonyliv-Tennis", Daniil Medvedev vs Fabian Marozsan - Men's Singles - 23 Jan 2026 [ENG] - Australian Open 2026
+https://liveakmt-p.slivcdn.com/hls/live/2018457/DAI09ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769184606~acl=/*~id=06068250782400531332904285587418~hmac=6ddefcfe8492bd1e6da9ca30e93b95ae0e1bb6fae35246a9ab5434777095bde1
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013660/1768659309302798_UEL_26_MD7_Ferencvaros-vs-Panathinaikos_landscape_thumb.jpg" group-title="sonyliv-Football", Ferencvaros vs Panathinaikos - MD 7 - 23 Jan 2026 [ENG] - UEFA Europa League 2025-26
-https://liveakmt-p.slivcdn.com/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769160071~acl=/*~id=22009710348528389437214563694242~hmac=638f3555f2f7b3a0255316818728840594b175b298fc8baaa71282d6eb36631a
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013660/1768659628134798_UEL_26_MD7_Nice-vs-Go-Ahead-Eagles_landscape_thumb.jpg" group-title="sonyliv-Football", Nice vs Go Ahead Eagles - MD 7 - 23 Jan 2026 [ENG] - UEFA Europa League 2025-26
-https://liveakmt-p.slivcdn.com/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769160071~acl=/*~id=22009710348528389437214563694242~hmac=638f3555f2f7b3a0255316818728840594b175b298fc8baaa71282d6eb36631a
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013660/1768663425595798_UEL_26_MD7_Rangers-vs-Ludogorets_landscape_thumb.jpg" group-title="sonyliv-Football", Rangers vs Ludogorets - MD 7 - 23 Jan 2026 [ENG] - UEFA Europa League 2025-26
-https://liveakmt-p.slivcdn.com/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769160071~acl=/*~id=22009710348528389437214563694242~hmac=638f3555f2f7b3a0255316818728840594b175b298fc8baaa71282d6eb36631a
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013660/1768802270252798_UEL_26_MD7_Salzburg-vs-Basel_landscape_thumb.jpg" group-title="sonyliv-Football", Salzburg vs Basel - MD 7 - 23 Jan 2026 [ENG] - UEFA Europa League 2025-26
-https://liveakmt-p.slivcdn.com/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769160071~acl=/*~id=22009710348528389437214563694242~hmac=638f3555f2f7b3a0255316818728840594b175b298fc8baaa71282d6eb36631a
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013020/1767678022596714_SuperSmash2526_womens_Canterbury_Magicians_vs_Wellington_Blaze_6jan_landscape_thumb.jpg" group-title="sonyliv-Cricket", Canterbury Magicians vs Wellington Blaze - 23 Jan 2026 [ENG] - Super Smash 2025/26 Women's
+https://liveakmt-p.slivcdn.com/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769184606~acl=/*~id=06068250782400531332904285587418~hmac=6ddefcfe8492bd1e6da9ca30e93b95ae0e1bb6fae35246a9ab5434777095bde1
 
