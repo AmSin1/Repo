@@ -1,6 +1,6 @@
 #EXTM3U
 
-# Playlist from sl-le-1.m3u (last updated 24-01-2026 11:08 IST) : 4 streams 
+# Playlist from sl-le-1.m3u (last updated 24-01-2026 11:10 IST) : 4 streams 
 
 #EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013925/1769053129247613_AO26_Round3_stream1_22jan_landscape_thumb.jpg" tvg-language="English" group-title="Tennis",ENG | Elise Mertens vs Nikola Bartunkova - Women's Singles - 24 Jan 2026
 https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/master.m3u8?hdnea=exp=1769257803~acl=/*~id=9f593328573fe0a2d8e08e6ed89b298a-1769214600123~hmac=21ad09ce72b690b7a2261ad5e8c6c4954f8378cd3bf144c4736f610b30aa9674|User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; SM-G985F; Build/TP1A.220624.014)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=0b017c4426df7db31480b389fd417e73-1769232600126
@@ -12,23 +12,23 @@ https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/master.m3u8?hdnea
 https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/master.m3u8?hdnea=exp=1769257803~acl=/*~id=9f593328573fe0a2d8e08e6ed89b298a-1769214600123~hmac=21ad09ce72b690b7a2261ad5e8c6c4954f8378cd3bf144c4736f610b30aa9674|User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; SM-G985F; Build/TP1A.220624.014)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=0b017c4426df7db31480b389fd417e73-1769232600126
 
 
-# Playlist from sl-le-2.m3u (last updated 24-01-2026 11:08 IST) : 9 streams 
+# Playlist from sl-le-2.m3u (last updated 24-01-2026 11:10 IST) : 9 streams 
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013925/1769053129247613_AO26_Round3_stream1_22jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Elise Mertens vs Nikola Bartunkova - Women's Singles - 24 Jan 2026 [ENG] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769275672~acl=/*~id=84419903190698140766708267267511~hmac=f34c0f86344f358ce496303300803efd4bb7bc010d273454a16818e0aa5f9d20
+https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769276284~acl=/*~id=53731375025569604858721417497324~hmac=404091395541440da8f13b375ffc0060693c7f610e6e2dab9299901c53bbe345
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013925/1769053129247613_AO26_Round3_stream1_22jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Elise Mertens vs Nikola Bartunkova - Women's Singles - 24 Jan 2026 [HIN] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769275672~acl=/*~id=84419903190698140766708267267511~hmac=f34c0f86344f358ce496303300803efd4bb7bc010d273454a16818e0aa5f9d20
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769276284~acl=/*~id=53731375025569604858721417497324~hmac=404091395541440da8f13b375ffc0060693c7f610e6e2dab9299901c53bbe345
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013925/1769053129247613_AO26_Round3_stream1_22jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Elise Mertens vs Nikola Bartunkova - Women's Singles - 24 Jan 2026 [TAM] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769275672~acl=/*~id=84419903190698140766708267267511~hmac=f34c0f86344f358ce496303300803efd4bb7bc010d273454a16818e0aa5f9d20
+https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769276284~acl=/*~id=53731375025569604858721417497324~hmac=404091395541440da8f13b375ffc0060693c7f610e6e2dab9299901c53bbe345
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013925/1769053129247613_AO26_Round3_stream1_22jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Elise Mertens vs Nikola Bartunkova - Women's Singles - 24 Jan 2026 [TEL] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769275672~acl=/*~id=84419903190698140766708267267511~hmac=f34c0f86344f358ce496303300803efd4bb7bc010d273454a16818e0aa5f9d20
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769276284~acl=/*~id=53731375025569604858721417497324~hmac=404091395541440da8f13b375ffc0060693c7f610e6e2dab9299901c53bbe345
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012997/1767622869328117_SuperSmash2526_mens_Central_Stags_vs_Otago_Volts_5jan_landscape_thumb.jpg" group-title="sonyliv-Cricket", Central Stags vs Otago Volts - 24 Jan 2026 [ENG] - Super Smash 2025/26 Men's
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769275672~acl=/*~id=84419903190698140766708267267511~hmac=f34c0f86344f358ce496303300803efd4bb7bc010d273454a16818e0aa5f9d20
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769276284~acl=/*~id=53731375025569604858721417497324~hmac=404091395541440da8f13b375ffc0060693c7f610e6e2dab9299901c53bbe345
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014066/1769195912671286_AO2026_Landscape_Thumb_Shelton_V_Vacherot_SP.jpg" group-title="sonyliv-Tennis", Ben Shelton vs Valentin Vacherot - Men's Singles - 24 Jan 2026 [ENG] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769275672~acl=/*~id=84419903190698140766708267267511~hmac=f34c0f86344f358ce496303300803efd4bb7bc010d273454a16818e0aa5f9d20
+https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769276284~acl=/*~id=53731375025569604858721417497324~hmac=404091395541440da8f13b375ffc0060693c7f610e6e2dab9299901c53bbe345
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014066/1769195911599286_AO2026_Landscape_Thumb_Mertens_V_Bartunkova_SP.jpg" group-title="sonyliv-Tennis", Elise Mertens vs Nikola Bartunkova - Women's Singles - 24 Jan 2026 [ENG] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769275672~acl=/*~id=84419903190698140766708267267511~hmac=f34c0f86344f358ce496303300803efd4bb7bc010d273454a16818e0aa5f9d20
+https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769276284~acl=/*~id=53731375025569604858721417497324~hmac=404091395541440da8f13b375ffc0060693c7f610e6e2dab9299901c53bbe345
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013925/1769053122255613_AO26_Round3_stream2_22jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Stream 2 - 24 Jan 2026 [ENG] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769275672~acl=/*~id=84419903190698140766708267267511~hmac=f34c0f86344f358ce496303300803efd4bb7bc010d273454a16818e0aa5f9d20
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769276284~acl=/*~id=53731375025569604858721417497324~hmac=404091395541440da8f13b375ffc0060693c7f610e6e2dab9299901c53bbe345
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013925/1769053115024613_AO26_Round3_stream3_22jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Stream 3 - 24 Jan 2026 [ENG] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769275672~acl=/*~id=84419903190698140766708267267511~hmac=f34c0f86344f358ce496303300803efd4bb7bc010d273454a16818e0aa5f9d20
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769276284~acl=/*~id=53731375025569604858721417497324~hmac=404091395541440da8f13b375ffc0060693c7f610e6e2dab9299901c53bbe345
