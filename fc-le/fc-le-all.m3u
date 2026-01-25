@@ -1,14 +1,14 @@
 #EXTM3U
 
-# Playlist from fc-le-1.m3u (last updated 25-01-2026 10:42 IST) : 1 streams 
-# Last updated 25-01-2026 10:42 IST 
+# Playlist from fc-le-1.m3u : 1 streams 
+# (last updated 25-01-2026 10:49 IST) 
 
 #EXTINF:-1 tvg-id="138759" tvg-name="Northern Districts Vs Canterbury" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138759_5800_CTB_ND_fc-web_1766641251700.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Northern Districts Vs Canterbury
 https://in-mc-fdlive.fancode.com/mumbai/138759_english_hls_c2d380057a91084_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 
 
-# Playlist from fc-le-2.m3u (last updated 24-01-2026 22:04 IST) : 4 streams 
-# Last updated 24-01-2026 22:04 IST 
+# Playlist from fc-le-2.m3u : 4 streams 
+# (last updated 24-01-2026 22:04 IST) 
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139343_5489_HUL_SWA_FC-Web.jpg" group-title="Fancode-Football", Hull City vs Swansea City A.F.C. (EFL Championship 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/139343_english_hls_52cbbff8d530114_1ta-di_h264/index.m3u8
@@ -20,8 +20,8 @@ https://in-mc-fdlive.fancode.com/mumbai/139282_english_hls_fdd432887438875_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/139998_english_hls_13c6b5c16767327_1ta-di_h264/index.m3u8
 
 
-# Playlist from fc-le-3.m3u (last updated 24-01-2026 22:13 IST) : 4 streams 
-# Last updated 24-01-2026 22:13 IST 
+# Playlist from fc-le-3.m3u : 4 streams 
+# (last updated 24-01-2026 22:13 IST) 
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139343_5489_HUL_SWA_FC-Web.jpg" group-title="Fancode-Football", Hull City vs Swansea City A.F.C. (EFL Championship 2025-26)
 https://bd-mc-fdlive.fancode.com/mumbai/139343_english_hls_52cbbff8d530114_1ta-di_h264/index.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U
 
-# Playlist from sl-le-1.m3u (last updated 25-01-2026 10:40 IST) : 17 streams 
-# Last updated 25-01-2026 10:40 IST 
+# Playlist from sl-le-1.m3u : 17 streams 
+# (last updated 25-01-2026 10:40 IST) 
 
 #EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014133/1769283083630208_AO2026_Landscape_Thumb_Alcaraz_V_Paul_SP.jpg" tvg-language="English" group-title="Tennis",ENG | Carlos Alcaraz vs Tommy Paul - Men's Singles - 25 Jan 2026
 https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-AO/master.m3u8?hdnea=exp=1769344201~acl=/*~id=92100713302134621063596638630581~hmac=628914ab6894344cabcd5bfce3462e219f36fa509c6b0e00974879f3a9ae94fe|User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; motorola edge 50 fusion; Build/U2UUIS34.40-108-3-2)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=779f2501a8154751c3968d09d7463eb9-1769317800118
@@ -39,8 +39,8 @@ https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-AO/master.m3u8?hdnea=e
 https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-AO/master.m3u8?hdnea=exp=1769344201~acl=/*~id=92100713302134621063596638630581~hmac=628914ab6894344cabcd5bfce3462e219f36fa509c6b0e00974879f3a9ae94fe|User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; 2404ARN45A; Build/AP3A.240905.015.A2)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=779f2501a8154751c3968d09d7463eb9-1769317800118
 
 
-# Playlist from sl-le-2.m3u (last updated 24-01-2026 22:24 IST) : 1 streams 
-# Last updated 24-01-2026 22:24 IST 
+# Playlist from sl-le-2.m3u : 1 streams 
+# (last updated 24-01-2026 22:24 IST) 
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013252/1768142506296360_bliga26_MD18_Union_Berlin_vs_Dortmund_11jan_landscape_thumb.jpg" group-title="sonyliv-Football", Union Berlin vs Borussia Dortmund - MD 19 - 24 Jan 2026 [ENG] - Bundesliga 2025-26
 https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769316867~acl=/*~id=97967357229698516699091465562589~hmac=a5ee3b12ec1a7768ccce15cf4b34281bc921011f3b7f12f09841af25947a7667
