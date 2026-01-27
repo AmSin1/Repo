@@ -4,15 +4,15 @@
 # (last updated 28-01-2026 01:40 IST ([✓]API verified)) 
 
 #EXTINF:-1 tvg-id="1090499170" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013116/1767857645751351_Bundesliga_MD16_Werder-Bremen-vs-Hoffenheim_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Werder Bremen vs Hoffenheim - MD 16 - 28 Jan 2026
-https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/master.m3u8?hdnea=exp=1769581802~acl=/*~id=02235853326820481479575673402455~hmac=0cd5308c17476c000b40fa79170103121e2acf2cda6595f09656a7584e9d2b28|User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; SM-G990B2; Build/AP3A.240905.015.A2)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e52b5c6e6a818adcbf7cec89a3e4ae81-1769543400100
+https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/master.m3u8?hdnea=exp=1769581802~acl=/*~id=02235853326820481479575673402455~hmac=0cd5308c17476c000b40fa79170103121e2acf2cda6595f09656a7584e9d2b28|User-Agent=com.sonyliv/6.22.4 (Android 8; en_GB; Z61; Build/O11019)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c774c54638dee8b8c91609ed382261fa-1769544600114
 #EXTINF:-1 tvg-id="1090501687" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013116/1767855576402351_Bundesliga_MD16_St-Pauli-vs-RB-Leipzig_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | St. Pauli vs RB Leipzig - MD 16 - 28 Jan 2026
-https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master.m3u8?hdnea=exp=1769581802~acl=/*~id=02235853326820481479575673402455~hmac=0cd5308c17476c000b40fa79170103121e2acf2cda6595f09656a7584e9d2b28|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; Lenovo YT-J706X; Build/RP1A.200720.011)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e52b5c6e6a818adcbf7cec89a3e4ae81-1769543400100
+https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master.m3u8?hdnea=exp=1769581802~acl=/*~id=02235853326820481479575673402455~hmac=0cd5308c17476c000b40fa79170103121e2acf2cda6595f09656a7584e9d2b28|User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; moto g42; Build/S2SES32.28-67-10)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c774c54638dee8b8c91609ed382261fa-1769544600114
 
 
 # Playlist from sl-le-2.m3u : 2 stream(s) 
 # (last updated 28-01-2026 01:41 IST ([✓]API verified)) 
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013116/1767857645751351_Bundesliga_MD16_Werder-Bremen-vs-Hoffenheim_landscape_thumb.jpg" group-title="sonyliv-Football", Werder Bremen vs Hoffenheim - MD 16 - 28 Jan 2026 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769587275~acl=/*~id=82110493791014191139962053589876~hmac=9778d0846201d650f38d3d584b89b2e0684b1e5f63e01758d0c85caa52a618e5
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769587881~acl=/*~id=50979134615958814242477408574093~hmac=9ec939c4d4d62d0cb16ce7850b4845b8575ae05fbd6f1d0a1129209f4168488e
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013116/1767855576402351_Bundesliga_MD16_St-Pauli-vs-RB-Leipzig_landscape_thumb.jpg" group-title="sonyliv-Football", St. Pauli vs RB Leipzig - MD 16 - 28 Jan 2026 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769587275~acl=/*~id=82110493791014191139962053589876~hmac=9778d0846201d650f38d3d584b89b2e0684b1e5f63e01758d0c85caa52a618e5
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769587881~acl=/*~id=50979134615958814242477408574093~hmac=9ec939c4d4d62d0cb16ce7850b4845b8575ae05fbd6f1d0a1129209f4168488e
