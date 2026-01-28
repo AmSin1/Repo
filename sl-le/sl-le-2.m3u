@@ -1,16 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014269/1769496463023465_World_Legends_Pro_T20_League_2026_Delhi-Warriors-vs-Pune-Panthers_landscape_thumb.jpg" group-title="sonyliv-Cricket", Delhi Warriors vs Pune Panthers - 28 Jan 2026 [ENG] - World Legends Pro T20 League 2026
-https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769659790~acl=/*~id=88017904930656214118878665806494~hmac=91bcf801522abafafc47b7d7d602e898e49a6112954b5e9642edec52937ed7f5
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013943/1769065388328186_UCL_26_MD8_Benfica-vs-Real-Madrid_landscape_thumb.jpg" group-title="sonyliv-Football", Benfica vs Real Madrid - MD 8 - 29 Jan 2026 [ENG] - UEFA Champions League 2025-26
+https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769675038~acl=/*~id=63106134926304854875732026065001~hmac=dfecfdaac03f05a9038389d26a0a03c5df1c6ee16728123093355a5faa9141c7
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014269/1769496463023465_World_Legends_Pro_T20_League_2026_Delhi-Warriors-vs-Pune-Panthers_landscape_thumb.jpg" group-title="sonyliv-Cricket", Delhi Warriors vs Pune Panthers - 28 Jan 2026 [HIN] - World Legends Pro T20 League 2026
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769659790~acl=/*~id=88017904930656214118878665806494~hmac=91bcf801522abafafc47b7d7d602e898e49a6112954b5e9642edec52937ed7f5
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013943/1769065388328186_UCL_26_MD8_Benfica-vs-Real-Madrid_landscape_thumb.jpg" group-title="sonyliv-Football", Benfica vs Real Madrid - MD 8 - 29 Jan 2026 [HIN] - UEFA Champions League 2025-26
+https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769675038~acl=/*~id=63106134926304854875732026065001~hmac=dfecfdaac03f05a9038389d26a0a03c5df1c6ee16728123093355a5faa9141c7
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013448/1768486285851344_PWL_26_UP-Dominators-VS-Haryana-Thunders_15jan_landscape_thumb.jpg" group-title="sonyliv-Wrestling", UP Dominators vs Haryana Thunders - 28 Jan 2026 [ENG] - Pro Wrestling League 2026
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769659790~acl=/*~id=88017904930656214118878665806494~hmac=91bcf801522abafafc47b7d7d602e898e49a6112954b5e9642edec52937ed7f5
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013943/1769065388328186_UCL_26_MD8_Benfica-vs-Real-Madrid_landscape_thumb.jpg" group-title="sonyliv-Football", Benfica vs Real Madrid - MD 8 - 29 Jan 2026 [TAM] - UEFA Champions League 2025-26
+https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769675038~acl=/*~id=63106134926304854875732026065001~hmac=dfecfdaac03f05a9038389d26a0a03c5df1c6ee16728123093355a5faa9141c7
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013448/1768486285851344_PWL_26_UP-Dominators-VS-Haryana-Thunders_15jan_landscape_thumb.jpg" group-title="sonyliv-Wrestling", UP Dominators vs Haryana Thunders - 28 Jan 2026 [HIN] - Pro Wrestling League 2026
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769659790~acl=/*~id=88017904930656214118878665806494~hmac=91bcf801522abafafc47b7d7d602e898e49a6112954b5e9642edec52937ed7f5
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013943/1769065388328186_UCL_26_MD8_Benfica-vs-Real-Madrid_landscape_thumb.jpg" group-title="sonyliv-Football", Benfica vs Real Madrid - MD 8 - 29 Jan 2026 [TEL] - UEFA Champions League 2025-26
+https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769675038~acl=/*~id=63106134926304854875732026065001~hmac=dfecfdaac03f05a9038389d26a0a03c5df1c6ee16728123093355a5faa9141c7
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014231/1769428659953334_WPL26_Jaipur_vs_Hyderabad_26jan_landscape_thumb.jpg" group-title="sonyliv-Pickleball", Rajasthan Titans vs Hyderabad Super Stars - 28 Jan 2026 [ENG] - World Pickleball League 2026
-https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769659790~acl=/*~id=88017904930656214118878665806494~hmac=91bcf801522abafafc47b7d7d602e898e49a6112954b5e9642edec52937ed7f5
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014016/1769146194725865_UCL_MD8_Napoli-vs-Chelsea_landscape_thumb.jpg" group-title="sonyliv-Football", Napoli vs Chelsea - MD 8 - 29 Jan 2026 [ENG] - UEFA Champions League 2025-26
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769675038~acl=/*~id=63106134926304854875732026065001~hmac=dfecfdaac03f05a9038389d26a0a03c5df1c6ee16728123093355a5faa9141c7
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014333/1769566812377875_UCL_26_MD8_Barcelona-vs-Copenhagen_landscape_thumb_re1.jpg" group-title="sonyliv-Football", Barcelona vs Copenhagen - MD 8 - 29 Jan 2026 [ENG] - UEFA Champions League 2025-26
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769675038~acl=/*~id=63106134926304854875732026065001~hmac=dfecfdaac03f05a9038389d26a0a03c5df1c6ee16728123093355a5faa9141c7
 
