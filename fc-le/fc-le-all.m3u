@@ -1,7 +1,7 @@
 #EXTM3U
 
 # Playlist from fc-le-1.m3u : 6 stream(s) 
-# [last updated 30-01-2026 01:56 IST ([✓]API verified)] 
+# [last updated 30-01-2026 02:00 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="140164" tvg-name="Day 2   Centre Court" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1769529100515.png" tvg-language="ENGLISH" group-title="Padel",ENG | Day 2   Centre Court
 https://in-mc-fdlive.fancode.com/mumbai/140164_english_hls_318f4d02a767737_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
