@@ -1,13 +1,14 @@
 #EXTM3U
 
-# Playlist from sl-le-1.m3u : 4 stream(s) 
-# [last updated 29-01-2026 03:40 IST ([✓]API verified)] 
+# Playlist from sl-le-1.m3u : 1 stream(s) 
+# [last updated 29-01-2026 05:40 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="1090501773" tvg-name="UEFA Champions League 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013943/1769065388328186_UCL_26_MD8_Benfica-vs-Real-Madrid_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Benfica vs Real Madrid - MD 8 - 29 Jan 2026
-https://sonymtmnew.akamaized.net/hls/live/2005444/DAI07ME-V3/master.m3u8?hdnea=exp=1769667027~acl=/*~id=89576894557804945646977799219833~hmac=c84cff305ff479b2d0a22fbc95dd975e30854c43d9a0d33d3367244c148fa92c|User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; I2305; Build/UP1A.231005.007)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=02f15ea3f9fc4ff2d62d1a625a7ac067-1769638200128
-#EXTINF:-1 tvg-id="1090501773" tvg-name="UEFA Champions League 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013943/1769065388328186_UCL_26_MD8_Benfica-vs-Real-Madrid_landscape_thumb.jpg" tvg-language="Hindi" group-title="Football",HIN | Benfica vs Real Madrid - MD 8 - 29 Jan 2026
-https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20ME-V3/master.m3u8?hdnea=exp=1769667027~acl=/*~id=89576894557804945646977799219833~hmac=c84cff305ff479b2d0a22fbc95dd975e30854c43d9a0d33d3367244c148fa92c|User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; I2305; Build/UP1A.231005.007)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=02f15ea3f9fc4ff2d62d1a625a7ac067-1769638200128
-#EXTINF:-1 tvg-id="1090501773" tvg-name="UEFA Champions League 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013943/1769065388328186_UCL_26_MD8_Benfica-vs-Real-Madrid_landscape_thumb.jpg" tvg-language="Tamil" group-title="Football",TAM | Benfica vs Real Madrid - MD 8 - 29 Jan 2026
-https://sonymtmnew.akamaized.net/hls/live/2037143/DAI23ME-V3/master.m3u8?hdnea=exp=1769667027~acl=/*~id=89576894557804945646977799219833~hmac=c84cff305ff479b2d0a22fbc95dd975e30854c43d9a0d33d3367244c148fa92c|User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; I2305; Build/UP1A.231005.007)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=02f15ea3f9fc4ff2d62d1a625a7ac067-1769638200128
-#EXTINF:-1 tvg-id="1090501773" tvg-name="UEFA Champions League 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013943/1769065388328186_UCL_26_MD8_Benfica-vs-Real-Madrid_landscape_thumb.jpg" tvg-language="Telugu" group-title="Football",TEL | Benfica vs Real Madrid - MD 8 - 29 Jan 2026
-https://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/master.m3u8?hdnea=exp=1769667027~acl=/*~id=89576894557804945646977799219833~hmac=c84cff305ff479b2d0a22fbc95dd975e30854c43d9a0d33d3367244c148fa92c|User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; I2305; Build/UP1A.231005.007)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=02f15ea3f9fc4ff2d62d1a625a7ac067-1769638200128
+#EXTINF:-1 tvg-id="1090498773" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014397/1769623666708417_AO26_SF_stream2_Landscape_thumb.jpg" tvg-language="English" group-title="Tennis",ENG | Stream 2 - 29 Jan 2026
+https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-AO/master.m3u8?hdnea=exp=1769668202~acl=/*~id=47009077593777515021023771792472~hmac=2d51a85b46eadde10b026a46fe61ff62f0c4239846be15f899d5e6e9c8d67efd|User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; I2203; Build/TP1A.220624.014)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c9c6e3950b1844933e08c2e94e28cf4b-1769645400114
+
+
+# Playlist from sl-le-2.m3u : 1 stream(s) 
+# [last updated 29-01-2026 05:46 IST ([✓]API verified)] 
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014397/1769623666708417_AO26_SF_stream2_Landscape_thumb.jpg" group-title="sonyliv-Tennis", Stream 2 - 29 Jan 2026 [ENG] - Australian Open 2026
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769689002~acl=/*~id=76808502338655790417622070491387~hmac=3968b531aca3c8015c88c3ba88bee90112b300ccb58075c9345906b37171f43f
