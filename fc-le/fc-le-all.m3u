@@ -1,2 +1,7 @@
 #EXTM3U
 
+# Playlist from fc-le-1.m3u : 1 stream(s) 
+# [last updated 29-01-2026 11:14 IST ([✓]API verified)] 
+
+#EXTINF:-1 tvg-id="139889" tvg-name="Lebanon Vs Vietnam" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png" tvg-language="ENGLISH" group-title="Futsal",ENG | Lebanon Vs Vietnam
+https://in-mc-fdlive.fancode.com/mumbai/139889_english_hls_f0b105dfc749642_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
