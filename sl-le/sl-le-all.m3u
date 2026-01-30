@@ -4,7 +4,7 @@
 # [last updated 30-01-2026 14:40 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-1.m3u 30-01-2026 14:40 IST ([✓]API verified) ★●----
-http://152.41.42.68/66309451
+http://27.176.75.255/80417494
 #EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014447/1769678080358889_AO2026_SF_mens_Alcaraz_vs_Zverev_29jan_SP_landscape_thumb.jpg" tvg-language="English" group-title="Tennis",ENG | Carlos Alcaraz vs Alexander Zverev - Semi-final - 30 Jan 2026	
 https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-AO/master.m3u8?hdnea=exp=1769797802~acl=/*~id=60972176582364541351306708528465~hmac=6a7edf7deaf60b8ac406cea0e6c1bc8b63bed0293b4896e030a9235466e27ea4|User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; SmartTV 4K; Build/STT2.230929.001.080)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=05a29574b95a316a580c6fba08e4abbd-1769764200100
 #EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014447/1769678080358889_AO2026_SF_mens_Alcaraz_vs_Zverev_29jan_SP_landscape_thumb.jpg" tvg-language="Hindi" group-title="Tennis",HIN | Carlos Alcaraz vs Alexander Zverev - Semi-final - 30 Jan 2026	
@@ -27,7 +27,7 @@ https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/master.m3u8?hdnea=e
 # [last updated 30-01-2026 14:49 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-2.m3u 30-01-2026 14:49 IST ([✓]API verified) ★●----
-http://97.73.5.200/17762184
+http://252.76.81.216/79940642
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014447/1769678080358889_AO2026_SF_mens_Alcaraz_vs_Zverev_29jan_SP_landscape_thumb.jpg" group-title="sonyliv-Tennis", Carlos Alcaraz vs Alexander Zverev - Semi-final - 30 Jan 2026	 [ENG] - Australian Open 2026
 https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769807946~acl=/*~id=83969961991002800333384092809585~hmac=88ecdbc5cf65f1be1f4ec393fb275b805a46890e7fb082e4fbeb4f3016cc69b8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014447/1769678080358889_AO2026_SF_mens_Alcaraz_vs_Zverev_29jan_SP_landscape_thumb.jpg" group-title="sonyliv-Tennis", Carlos Alcaraz vs Alexander Zverev - Semi-final - 30 Jan 2026	 [HIN] - Australian Open 2026
