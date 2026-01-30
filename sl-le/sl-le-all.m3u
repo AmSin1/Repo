@@ -4,7 +4,7 @@
 # [last updated 30-01-2026 18:20 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-1.m3u 30-01-2026 18:20 IST ([✓]API verified) ★●----
-http://52.217.215.158/59367613
+http://1.242.159.118/89919933
 #EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014540/176973697800048_AO2026_Landscape_Thumb_Djokovic_vs_Sinner_SP.jpg" tvg-language="English" group-title="Tennis",ENG | Novak Djokovic vs Jannik Sinner - Semi-final - 30 Jan 2026
 https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-AO/master.m3u8?hdnea=exp=1769797802~acl=/*~id=60972176582364541351306708528465~hmac=6a7edf7deaf60b8ac406cea0e6c1bc8b63bed0293b4896e030a9235466e27ea4|User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; V2029; Build/SP1A.210812.003)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=1946947fef11f8183e42b6cbc5133924-1769777400110
 #EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014540/176973697800048_AO2026_Landscape_Thumb_Djokovic_vs_Sinner_SP.jpg" tvg-language="Hindi" group-title="Tennis",HIN | Novak Djokovic vs Jannik Sinner - Semi-final - 30 Jan 2026
@@ -31,7 +31,7 @@ https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/master.m3u8?hdnea=e
 # [last updated 30-01-2026 18:32 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-2.m3u 30-01-2026 18:32 IST ([✓]API verified) ★●----
-http://151.160.188.142/07907576
+http://12.31.78.71/99985109
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014540/176973697800048_AO2026_Landscape_Thumb_Djokovic_vs_Sinner_SP.jpg" group-title="sonyliv-Tennis", Novak Djokovic vs Jannik Sinner - Semi-final - 30 Jan 2026 [ENG] - Australian Open 2026
 https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769821328~acl=/*~id=67144391826729086461011961799963~hmac=f92908f706bc08f1fb2c95cb2d9f60e064d52d2639ff4f9c990041ad0cafa7d3
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014540/176973697800048_AO2026_Landscape_Thumb_Djokovic_vs_Sinner_SP.jpg" group-title="sonyliv-Tennis", Novak Djokovic vs Jannik Sinner - Semi-final - 30 Jan 2026 [HIN] - Australian Open 2026
