@@ -1,10 +1,10 @@
 #EXTM3U
 
 # Playlist from fc-le-1.m3u : 5 stream(s) 
-# [last updated 30-01-2026 17:42 IST ([✓]API verified)] 
+# [last updated 30-01-2026 17:49 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 30-01-2026 17:42 IST ([✓]API verified) ★●----
-http://22.110.182.61/62602969
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 30-01-2026 17:49 IST ([✓]API verified) ★●----
+http://13.142.21.0/11548811
 #EXTINF:-1 tvg-id="139599" tvg-name="Emirates Red Vs Abu Dhabi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Emirates Red Vs Abu Dhabi
 https://in-mc-fdlive.fancode.com/mumbai/139599_english_hls_1a852517c485393_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140166" tvg-name="Day 3   Centre Court" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1769529100515.png" tvg-language="ENGLISH" group-title="Live Events",ENG | Day 3   Centre Court
@@ -21,7 +21,7 @@ https://in-mc-fdlive.fancode.com/mumbai/140080_hindi_hls_725b9d748a63489_1ta-di_
 # [last updated 30-01-2026 17:42 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-2.m3u 30-01-2026 17:42 IST ([✓]API verified) ★●----
-http://237.204.178.206/27353249
+http://140.141.1.83/16421954
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg" group-title="Fancode-Cricket", Emirates Red vs Abu Dhabi (Emirates D10, 2026)
 https://in-mc-fdlive.fancode.com/mumbai/139599_english_hls_1a852517c485393_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1769529100515.png" group-title="Fancode-Live Events", Day 3 - Centre Court vs Madrid, Spain (Hexagon Cup 2026)
@@ -36,7 +36,7 @@ https://in-mc-fdlive.fancode.com/mumbai/140080_english_hls_f547f7669e52892_1ta-d
 # [last updated 30-01-2026 17:24 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-3.m3u 30-01-2026 17:24 IST ([✓]API verified) ★●----
-http://53.240.237.226/04133230
+http://112.69.188.92/40271041
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg" group-title="Fancode-Cricket", Emirates Red vs Abu Dhabi (Emirates D10- 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/139599_english_hls_1a852517c485393_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png" group-title="Fancode-Futsal", Malaysia vs Afghanistan (AFC Futsal Asian Cup- 2026)
