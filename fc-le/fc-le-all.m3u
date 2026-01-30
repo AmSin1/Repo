@@ -4,7 +4,7 @@
 # [last updated 30-01-2026 17:14 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 30-01-2026 17:14 IST ([✓]API verified) ★●----
-http://134.7.169.192/01505330
+http://175.46.112.219/30967179
 #EXTINF:-1 tvg-id="139599" tvg-name="Emirates Red Vs Abu Dhabi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Emirates Red Vs Abu Dhabi
 https://in-mc-fdlive.fancode.com/mumbai/139599_english_hls_1a852517c485393_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139895" tvg-name="Malaysia Vs Afghanistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png" tvg-language="ENGLISH" group-title="Futsal",ENG | Malaysia Vs Afghanistan
@@ -23,7 +23,7 @@ https://in-mc-fdlive.fancode.com/mumbai/139896_english_hls_5af3284e3475850_1ta-d
 # [last updated 30-01-2026 17:12 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-2.m3u 30-01-2026 17:12 IST ([✓]API verified) ★●----
-http://192.121.199.165/47647358
+http://222.155.108.138/11502041
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg" group-title="Fancode-Cricket", Emirates Red vs Abu Dhabi (Emirates D10, 2026)
 https://in-mc-fdlive.fancode.com/mumbai/139599_english_hls_1a852517c485393_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png" group-title="Fancode-Futsal", Malaysia vs Afghanistan (AFC Futsal Asian Cup, 2026)
@@ -38,7 +38,7 @@ https://in-mc-fdlive.fancode.com/mumbai/140080_english_hls_f547f7669e52892_1ta-d
 # [last updated 30-01-2026 17:05 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-3.m3u 30-01-2026 17:05 IST ([✓]API verified) ★●----
-http://207.158.23.179/00316473
+http://237.102.221.142/59084523
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg" group-title="Fancode-Cricket", Abu Dhabi vs Emirates Red (Emirates D10- 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/139599_english_hls_1a852517c485393_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png" group-title="Fancode-Futsal", Malaysia vs Afghanistan (AFC Futsal Asian Cup- 2026)
