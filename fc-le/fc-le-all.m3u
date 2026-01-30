@@ -4,7 +4,7 @@
 # [last updated 30-01-2026 23:07 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 30-01-2026 23:07 IST ([✓]API verified) ★●----
-http://49.31.142.189/26187322
+http://167.215.217.193/67529202
 #EXTINF:-1 tvg-id="139292" tvg-name="Sri Lanka Vs England" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4).png" tvg-language="ENGLISH" group-title="Cricket",ENG | Sri Lanka Vs England
 https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-ENGVSSL/master.m3u8?hdnea=exp=1769797802~acl=/*~id=60972176582364541351306708528465~hmac=6a7edf7deaf60b8ac406cea0e6c1bc8b63bed0293b4896e030a9235466e27ea4|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139832" tvg-name="Al Kholood Club Vs Al Nassr Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139832_5655_ALK_ANF_FC-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Al Kholood Club Vs Al Nassr Fc
@@ -24,10 +24,10 @@ https://in-mc-fdlive.fancode.com/mumbai/139601_english_hls_9b220821a853642_1ta-d
 
 
 # Playlist from fc-le-2.m3u : 7 stream(s) 
-# [last updated 30-01-2026 22:57 IST ([✓]API verified)] 
+# [last updated 30-01-2026 23:17 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-2.m3u 30-01-2026 22:57 IST ([✓]API verified) ★●----
-http://81.26.222.194/88935267
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-2.m3u 30-01-2026 23:17 IST ([✓]API verified) ★●----
+http://234.181.147.95/26358300
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4).png" group-title="Fancode-Cricket", Sri Lanka vs England (England tour of Sri Lanka, 2026)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-ENGVSSL/master.m3u8?hdnea=exp=1769823210~acl=/*~id=41243574289036387126957372911430~hmac=bf89a8a3a054bf245d1afa93ef86174c5115e176c7ddee5d175e2462b6242597
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139832_5655_ALK_ANF_FC-Web.jpg" group-title="Fancode-Football", Al-Kholood Club vs Al-Nassr FC (Roshn Saudi League 2025-2026)
@@ -48,7 +48,7 @@ https://in-mc-fdlive.fancode.com/mumbai/139601_english_hls_9b220821a853642_1ta-d
 # [last updated 30-01-2026 23:09 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-3.m3u 30-01-2026 23:09 IST ([✓]API verified) ★●----
-http://81.250.224.6/11416851
+http://73.10.37.20/46282154
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139832_5655_ALK_ANF_FC-Web.jpg" group-title="Fancode-Football", Al-Kholood Club vs Al-Nassr FC (Roshn Saudi League 2025-2026)
 https://bd-mc-fdlive.fancode.com/mumbai/139832_english_hls_2235df2b4a59204_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1769529100515.png" group-title="Fancode-Live Events", Day 3 - Centre Court vs Madrid- Spain (Hexagon Cup 2026)
