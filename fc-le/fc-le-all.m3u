@@ -1,10 +1,10 @@
 #EXTM3U
 
-# Playlist from fc-le-1.m3u : 5 stream(s) 
-# [last updated 30-01-2026 15:07 IST ([✓]API verified)] 
+# Playlist from fc-le-1.m3u : 6 stream(s) 
+# [last updated 30-01-2026 15:14 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 30-01-2026 15:07 IST ([✓]API verified) ★●----
-http://191.95.159.25/89502440
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 30-01-2026 15:14 IST ([✓]API verified) ★●----
+http://219.127.245.204/15394575
 #EXTINF:-1 tvg-id="140080" tvg-name="Maharashtra Tycoons Vs Delhi Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140080_5928_MTY_DW_FC-Web_1769654116007.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Maharashtra Tycoons Vs Delhi Warriors
 https://in-mc-fdlive.fancode.com/mumbai/140080_english_hls_f547f7669e52892_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140080" tvg-name="Maharashtra Tycoons Vs Delhi Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140080_5928_MTY_DW_FC-Web_1769654116007.jpg" tvg-language="HINDI" group-title="Cricket",HIN | Maharashtra Tycoons Vs Delhi Warriors
@@ -15,28 +15,30 @@ https://in-mc-fdlive.fancode.com/mumbai/139243_english_hls_fb55b2dcaa16365_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/139397_english_hls_bc7229d64d25632_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139894" tvg-name="Australia Vs Uzbekistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png" tvg-language="ENGLISH" group-title="Futsal",ENG | Australia Vs Uzbekistan
 https://in-mc-fdlive.fancode.com/mumbai/139894_english_hls_3aab23c1d721010_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="139895" tvg-name="Malaysia Vs Afghanistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png" tvg-language="ENGLISH" group-title="Futsal",ENG | Malaysia Vs Afghanistan
+https://in-mc-fdlive.fancode.com/mumbai/139895_english_hls_81ef4b717c17538_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 
 
 # Playlist from fc-le-2.m3u : 4 stream(s) 
-# [last updated 30-01-2026 14:40 IST ([✓]API verified)] 
+# [last updated 30-01-2026 15:10 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-2.m3u 30-01-2026 14:40 IST ([✓]API verified) ★●----
-http://219.88.188.23/09932228
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140080_5928_MTY_DW_FC-Web_1769654116007.jpg" group-title="Fancode-Cricket", Maharashtra Tycoons vs Delhi Warriors (World Legends Pro T20 League, 2026)
-https://in-mc-fdlive.fancode.com/mumbai/140080_english_hls_f547f7669e52892_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-2.m3u 30-01-2026 15:10 IST ([✓]API verified) ★●----
+http://94.146.84.90/11414298
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png" group-title="Fancode-Cricket", USA Women vs Thailand Women (ICC Women's T20 World Cup Global Qualifier, 2026)
 https://in-mc-fdlive.fancode.com/mumbai/139243_english_hls_fb55b2dcaa16365_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139397_5802_ADL_MAC_FC-Web.jpg" group-title="Fancode-Football", Adelaide United vs Macarthur (A League 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/139397_english_hls_bc7229d64d25632_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png" group-title="Fancode-Futsal", Australia vs Uzbekistan (AFC Futsal Asian Cup, 2026)
 https://in-mc-fdlive.fancode.com/mumbai/139894_english_hls_3aab23c1d721010_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140080_5928_MTY_DW_FC-Web_1769654116007.jpg" group-title="Fancode-Cricket", Maharashtra Tycoons vs Delhi Warriors (World Legends Pro T20 League, 2026)
+https://in-mc-fdlive.fancode.com/mumbai/140080_english_hls_f547f7669e52892_1ta-di_h264/index.m3u8
 
 
 # Playlist from fc-le-3.m3u : 4 stream(s) 
 # [last updated 30-01-2026 14:54 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-3.m3u 30-01-2026 14:54 IST ([✓]API verified) ★●----
-http://160.74.241.1/86027744
+http://127.54.145.9/17779623
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140080_5928_MTY_DW_FC-Web_1769654116007.jpg" group-title="Fancode-Cricket", Maharashtra Tycoons vs Delhi Warriors (World Legends Pro T20 League- 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/140080_english_hls_f547f7669e52892_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png" group-title="Fancode-Cricket", USA Women vs Thailand Women (ICC Women's T20 World Cup Global Qualifier- 2026)
