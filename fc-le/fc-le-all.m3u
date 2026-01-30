@@ -1,18 +1,12 @@
 #EXTM3U
 
-# Playlist from fc-le-1.m3u : 9 stream(s) 
-# [last updated 30-01-2026 22:49 IST ([✓]API verified)] 
+# Playlist from fc-le-1.m3u : 7 stream(s) 
+# [last updated 30-01-2026 22:56 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 30-01-2026 22:49 IST ([✓]API verified) ★●----
-http://223.145.200.193/13028801
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 30-01-2026 22:56 IST ([✓]API verified) ★●----
+http://7.141.154.6/09389230
 #EXTINF:-1 tvg-id="139292" tvg-name="Sri Lanka Vs England" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4).png" tvg-language="ENGLISH" group-title="Cricket",ENG | Sri Lanka Vs England
 https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-ENGVSSL/master.m3u8?hdnea=exp=1769797802~acl=/*~id=60972176582364541351306708528465~hmac=6a7edf7deaf60b8ac406cea0e6c1bc8b63bed0293b4896e030a9235466e27ea4|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140081" tvg-name="Pune Panthers Vs Rajasthan Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140081_5928_PPT_RLS_FC-Web_1769654908421.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Pune Panthers Vs Rajasthan Lions
-https://in-mc-fdlive.fancode.com/mumbai/140081_english_hls_4beb0dc9889432_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140081" tvg-name="Pune Panthers Vs Rajasthan Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140081_5928_PPT_RLS_FC-Web_1769654908421.jpg" tvg-language="HINDI" group-title="Cricket",HIN | Pune Panthers Vs Rajasthan Lions
-https://in-mc-fdlive.fancode.com/mumbai/140081_hindi_hls_d65895669c10871_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="139601" tvg-name="Abu Dhabi Vs Dubai" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates_web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Abu Dhabi Vs Dubai
-https://in-mc-fdlive.fancode.com/mumbai/139601_english_hls_9b220821a853642_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139832" tvg-name="Al Kholood Club Vs Al Nassr Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139832_5655_ALK_ANF_FC-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Al Kholood Club Vs Al Nassr Fc
 https://in-mc-fdlive.fancode.com/mumbai/139832_english_hls_2235df2b4a59204_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140166" tvg-name="Day 3   Centre Court" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1769529100515.png" tvg-language="ENGLISH" group-title="Live Events",ENG | Day 3   Centre Court
@@ -23,13 +17,15 @@ https://in-mc-fdlive.fancode.com/mumbai/140026_english_hls_52b1513fd137556_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/140029_english_hls_6bcd3247e853583_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140028" tvg-name="Featured Groups   Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" tvg-language="ENGLISH" group-title="Golf",ENG | Featured Groups   Day 2
 https://in-mc-fdlive.fancode.com/mumbai/140028_english_hls_c12538667399400_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="139601" tvg-name="Abu Dhabi Vs Dubai" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates_web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Abu Dhabi Vs Dubai
+https://in-mc-fdlive.fancode.com/mumbai/139601_english_hls_9b220821a853642_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 
 
 # Playlist from fc-le-2.m3u : 8 stream(s) 
 # [last updated 30-01-2026 22:47 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-2.m3u 30-01-2026 22:47 IST ([✓]API verified) ★●----
-http://245.26.146.154/06924271
+http://214.202.53.218/10133934
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4).png" group-title="Fancode-Cricket", Sri Lanka vs England (England tour of Sri Lanka, 2026)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-ENGVSSL/master.m3u8?hdnea=exp=1769823210~acl=/*~id=41243574289036387126957372911430~hmac=bf89a8a3a054bf245d1afa93ef86174c5115e176c7ddee5d175e2462b6242597
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140081_5928_PPT_RLS_FC-Web_1769654908421.jpg" group-title="Fancode-Cricket", Pune Panthers vs Rajasthan Lions (World Legends Pro T20 League, 2026)
@@ -52,7 +48,7 @@ https://in-mc-fdlive.fancode.com/mumbai/140028_english_hls_c12538667399400_1ta-d
 # [last updated 30-01-2026 22:31 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-3.m3u 30-01-2026 22:31 IST ([✓]API verified) ★●----
-http://202.197.103.89/22145131
+http://215.242.78.237/81985395
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140081_5928_PPT_RLS_FC-Web_1769654908421.jpg" group-title="Fancode-Cricket", Pune Panthers vs Rajasthan Lions (World Legends Pro T20 League- 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/140081_english_hls_4beb0dc9889432_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates_web.jpg" group-title="Fancode-Cricket", Abu Dhabi vs Dubai (Emirates D10- 2026)
