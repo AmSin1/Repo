@@ -1,25 +1,19 @@
 #EXTM3U
 
-# Playlist from fc-le-1.m3u : 3 stream(s) 
-# [last updated 30-01-2026 05:28 IST ([✓]API verified)] 
+# Playlist from fc-le-1.m3u : 2 stream(s) 
+# [last updated 30-01-2026 05:35 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="133973" tvg-name="Tasmania Women Vs Western Australia Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2_1758034980092.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Tasmania Women Vs Western Australia Women
 https://in-mc-fdlive.fancode.com/mumbai/133973_english_hls_6dcdbca7d166875_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140024" tvg-name="Featured Holes   Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-.png" tvg-language="ENGLISH" group-title="Golf",ENG | Featured Holes   Day 1
-https://in-mc-fdlive.fancode.com/mumbai/140024_english_hls_bab0487a5a76887_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140020" tvg-name="World Feed   Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" tvg-language="ENGLISH" group-title="Golf",ENG | World Feed   Day 1
 https://in-mc-fdlive.fancode.com/mumbai/140020_english_hls_5ec79ec2341569_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 
 
-# Playlist from fc-le-2.m3u : 4 stream(s) 
-# [last updated 30-01-2026 04:53 IST ([✓]API verified)] 
+# Playlist from fc-le-2.m3u : 2 stream(s) 
+# [last updated 30-01-2026 05:34 IST ([✓]API verified)] 
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2_1758034980092.jpg" group-title="Fancode-Cricket", Tasmania Women vs Western Australia Women (Women's National Cricket League, 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/133973_english_hls_6dcdbca7d166875_1ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-.png" group-title="Fancode-Golf", Featured Holes - Day 1 vs Torrey Pines Golf Course (Farmers Insurance Open 2026)
-https://in-mc-fdlive.fancode.com/mumbai/140024_english_hls_bab0487a5a76887_1ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-.png" group-title="Fancode-Golf", Featured Groups - Day 1 vs Torrey Pines Golf Course (Farmers Insurance Open 2026)
-https://in-mc-fdlive.fancode.com/mumbai/140023_english_hls_f1dfe15fef93729_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" group-title="Fancode-Golf", World Feed - Day 1 vs Torrey Pines Golf Course (Farmers Insurance Open 2026)
 https://in-mc-fdlive.fancode.com/mumbai/140020_english_hls_5ec79ec2341569_1ta-di_h264/index.m3u8
 
