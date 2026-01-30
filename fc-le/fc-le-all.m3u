@@ -1,10 +1,10 @@
 #EXTM3U
 
 # Playlist from fc-le-1.m3u : 9 stream(s) 
-# [last updated 31-01-2026 02:49 IST ([✓]API verified)] 
+# [last updated 31-01-2026 03:00 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 31-01-2026 02:49 IST ([✓]API verified) ★●----
-http://233.26.234.54/06430023
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 31-01-2026 03:00 IST ([✓]API verified) ★●----
+http://234.15.178.249/99166437
 #EXTINF:-1 tvg-id="131049" tvg-name="Rcd Espanyol Vs Deportivo Alaves" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131049_5427_ESL_ALA_FC-Web.png" tvg-language="ENGLISH" group-title="Football",ENG | Rcd Espanyol Vs Deportivo Alaves
 https://in-mc-fdlive.fancode.com/mumbai/131049_english_hls_ad38dd050340759_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139345" tvg-name="Bristol City F.c. Vs Derby County Football Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139345_5489_BRI_DER_FC-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Bristol City F.c. Vs Derby County Football Club
@@ -29,7 +29,7 @@ https://in-mc-fdlive.fancode.com/mumbai/140025_english_hls_8f0440044384792_1ta-d
 # [last updated 31-01-2026 01:29 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-2.m3u 31-01-2026 01:29 IST ([✓]API verified) ★●----
-http://115.150.24.224/57903849
+http://119.127.117.187/10036786
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131049_5427_ESL_ALA_FC-Web.png" group-title="Fancode-Football", RCD Espanyol vs Deportivo Alaves (LALIGA 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/131049_english_hls_ad38dd050340759_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139345_5489_BRI_DER_FC-Web.jpg" group-title="Fancode-Football", Bristol City F.C. vs Derby County Football Club (EFL Championship 2025-26)
@@ -54,7 +54,7 @@ https://in-mc-fdlive.fancode.com/mumbai/140025_english_hls_8f0440044384792_1ta-d
 # [last updated 31-01-2026 01:31 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-3.m3u 31-01-2026 01:31 IST ([✓]API verified) ★●----
-http://151.42.7.164/00436320
+http://105.246.64.117/60751587
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131049_5427_ESL_ALA_FC-Web.png" group-title="Fancode-Football", RCD Espanyol vs Deportivo Alaves (LALIGA 2025-26)
 https://bd-mc-fdlive.fancode.com/mumbai/131049_english_hls_ad38dd050340759_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139345_5489_BRI_DER_FC-Web.jpg" group-title="Fancode-Football", Bristol City F.C. vs Derby County Football Club (EFL Championship 2025-26)
