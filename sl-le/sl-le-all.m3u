@@ -15,6 +15,8 @@ https://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-AO/master.m3u8?hdnea=e
 https://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/master.m3u8?hdnea=exp=1769776204~acl=/*~id=66824920654288953436076887666891~hmac=c9b32d1da12c0d78d3002d38c611b2235608c0bd329361e3ac2a9321c961331d|User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; ONI41F; Build/UKR9.250717.003)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=453901e31e2620ff1a913033248218a5-1769748600118
 #EXTINF:-1 tvg-id="1090498773" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014460/1769684801522533_AO26_SF_stream2_29jan_SP_landscape_thumb.jpg" tvg-language="English" group-title="Tennis",ENG | Stream 2 - 30 Jan 2026
 https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-AO/master.m3u8?hdnea=exp=1769776204~acl=/*~id=66824920654288953436076887666891~hmac=c9b32d1da12c0d78d3002d38c611b2235608c0bd329361e3ac2a9321c961331d|User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; V2109; Build/SP1A.210812.003)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=453901e31e2620ff1a913033248218a5-1769748600118
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo= group-title=,---●★ sl-le-1.m3u : 30-01-2026 10:20 IST ([✓]API verified) ★●--- 
+http://0.0.0.0 
 
 
 # Playlist from sl-le-2.m3u : 6 stream(s) 
@@ -32,3 +34,5 @@ https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010
 https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769792152~acl=/*~id=72765945141187931466901218601714~hmac=01172713d43eebe1a37562adf15ec6d21b76acec8acd95bb48298ce066df2a81
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014460/1769684801522533_AO26_SF_stream2_29jan_SP_landscape_thumb.jpg" group-title="sonyliv-Tennis", Stream 2 - 30 Jan 2026 [ENG] - Australian Open 2026
 https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769792152~acl=/*~id=72765945141187931466901218601714~hmac=01172713d43eebe1a37562adf15ec6d21b76acec8acd95bb48298ce066df2a81
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo= group-title=,---●★ sl-le-2.m3u : 30-01-2026 10:25 IST ([✓]API verified) ★●--- 
+http://0.0.0.0 
