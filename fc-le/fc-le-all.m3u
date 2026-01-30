@@ -4,7 +4,7 @@
 # [last updated 30-01-2026 22:14 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 30-01-2026 22:14 IST ([✓]API verified) ★●----
-http://91.155.71.247/04019782
+http://84.220.143.211/12851292
 #EXTINF:-1 tvg-id="139292" tvg-name="Sri Lanka Vs England" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4).png" tvg-language="ENGLISH" group-title="Cricket",ENG | Sri Lanka Vs England
 https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-ENGVSSL/master.m3u8?hdnea=exp=1769797802~acl=/*~id=60972176582364541351306708528465~hmac=6a7edf7deaf60b8ac406cea0e6c1bc8b63bed0293b4896e030a9235466e27ea4|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140081" tvg-name="Pune Panthers Vs Rajasthan Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140081_5928_PPT_RLS_FC-Web_1769654908421.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Pune Panthers Vs Rajasthan Lions
@@ -17,11 +17,11 @@ https://in-mc-fdlive.fancode.com/mumbai/139601_english_hls_9b220821a853642_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/140166_english_hls_03a071c2e382439_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 
 
-# Playlist from fc-le-2.m3u : 4 stream(s) 
-# [last updated 30-01-2026 21:05 IST ([✓]API verified)] 
+# Playlist from fc-le-2.m3u : 5 stream(s) 
+# [last updated 30-01-2026 22:17 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-2.m3u 30-01-2026 21:05 IST ([✓]API verified) ★●----
-http://51.150.146.210/19047490
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-2.m3u 30-01-2026 22:17 IST ([✓]API verified) ★●----
+http://195.152.1.40/78365421
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4).png" group-title="Fancode-Cricket", Sri Lanka vs England (England tour of Sri Lanka, 2026)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-ENGVSSL/master.m3u8?hdnea=exp=1769823210~acl=/*~id=41243574289036387126957372911430~hmac=bf89a8a3a054bf245d1afa93ef86174c5115e176c7ddee5d175e2462b6242597
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140081_5928_PPT_RLS_FC-Web_1769654908421.jpg" group-title="Fancode-Cricket", Pune Panthers vs Rajasthan Lions (World Legends Pro T20 League, 2026)
@@ -30,13 +30,15 @@ https://in-mc-fdlive.fancode.com/mumbai/140081_english_hls_4beb0dc9889432_1ta-di
 https://in-mc-fdlive.fancode.com/mumbai/139601_english_hls_9b220821a853642_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1769529100515.png" group-title="Fancode-Live Events", Day 3 - Centre Court vs Madrid, Spain (Hexagon Cup 2026)
 https://in-mc-fdlive.fancode.com/mumbai/140166_english_hls_03a071c2e382439_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" group-title="Fancode-Golf", Main Feed - Day 2 vs Torrey Pines Golf Course (Farmers Insurance Open 2026)
+https://in-mc-fdlive.fancode.com/mumbai/140026_english_hls_52b1513fd137556_1ta-di_h264/index.m3u8
 
 
 # Playlist from fc-le-3.m3u : 3 stream(s) 
 # [last updated 30-01-2026 21:22 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-3.m3u 30-01-2026 21:22 IST ([✓]API verified) ★●----
-http://20.215.152.245/75239721
+http://108.216.15.25/97538506
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140081_5928_PPT_RLS_FC-Web_1769654908421.jpg" group-title="Fancode-Cricket", Pune Panthers vs Rajasthan Lions (World Legends Pro T20 League- 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/140081_english_hls_4beb0dc9889432_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates_web.jpg" group-title="Fancode-Cricket", Abu Dhabi vs Dubai (Emirates D10- 2026)
