@@ -1,1 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="ICC_HLS_1",ICC Highlight HLS 1
+https://vod-i-01-icc-we.akamaized.net/Content/HLSv4/VOD/10027/15200/a0088ba0-89ff-4085-a568-79eb32622e11/bc57f716-2de1-5767-3056-8fa378c33d7c/master.m3u8
+#EXTINF:-1 tvg-name="ICC_DASH_1",ICC Highlight DASH 1
+https://infinity-c33.youboranqs01.com/init
+#EXTINF:-1 tvg-name="ICC_DASH_2",ICC Highlight DASH 2
+https://vod-d-01-icc-we.akamaized.net/Content/DASH/VOD/10027/15200/a0088ba0-89ff-4085-a568-79eb32622e11/bc57f716-2de1-5767-3056-8fa378c33d7c/manifest.mpd
+#EXTINF:-1 tvg-name="ICC_DASH_3",ICC Highlight DASH 3
+https://vod-d-01-icc-we.akamaized.net/Content/DASH/VOD/10027/15200/a0088ba0-89ff-4085-a568-79eb32622e11/bc57f716-2de1-5767-3056-8fa378c33d7c/hdntl=exp=1769829002~acl=%2fContent%2fDASH%2fVOD%2f10027%2f15200%2fa0088ba0-89ff-4085-a568-79eb32622e11%2fbc57f716-2de1-5767-3056-8fa378c33d7c%2f*~data=hdntl~hmac=6514496d3e07121f9f37b85e040e46de9a2f702f2d5423b75556083ea9627fd8/manifest.mpd
+#EXTINF:-1 tvg-name="ICC_DASH_4",ICC Highlight DASH 4
+https://infinity-c33.youboranqs01.com/start
