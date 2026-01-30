@@ -4,7 +4,7 @@
 # [last updated 30-01-2026 20:40 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-1.m3u 30-01-2026 20:40 IST ([✓]API verified) ★●----
-http://190.225.29.66/51338750
+http://16.216.216.187/92626978
 #EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014561/1769771393202979_studio_show_30jan_landscape_thumb.jpg" tvg-language="English" group-title="Tennis",ENG | Stream 1 - 30 Jan 2026
 https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-AO/master.m3u8?hdnea=exp=1769819402~acl=/*~id=80698557106589672545816922871418~hmac=9bb5b09bccada45c298b147ca715d7a2b5538bc9e45626c9145d6c5d82a62c20|User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; SM-M426B; Build/TP1A.220624.014)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e7a8b91a5af5e170d8e38f3ab031ada0-1769785800106
 #EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014561/1769771393202979_studio_show_30jan_landscape_thumb.jpg" tvg-language="Hindi" group-title="Tennis",HIN | Stream 1 - 30 Jan 2026
@@ -37,7 +37,7 @@ https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/master.m3u8?hdnea=e
 # [last updated 30-01-2026 20:44 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-2.m3u 30-01-2026 20:44 IST ([✓]API verified) ★●----
-http://240.219.45.39/97163221
+http://185.53.254.71/51428391
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014561/1769771393202979_studio_show_30jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Stream 1 - 30 Jan 2026 [ENG] - Australian Open 2026
 https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769829250~acl=/*~id=18563337713336969337228277400026~hmac=ba5f7f1bc5bf1a0a62bb6356ed27f5df33dc01c89aad4849db4f4fcd54a3d078
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014561/1769771393202979_studio_show_30jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Stream 1 - 30 Jan 2026 [HIN] - Australian Open 2026
