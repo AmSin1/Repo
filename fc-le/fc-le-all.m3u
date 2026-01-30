@@ -1,10 +1,10 @@
 #EXTM3U
 
 # Playlist from fc-le-1.m3u : 5 stream(s) 
-# [last updated 30-01-2026 14:14 IST ([✓]API verified)] 
+# [last updated 30-01-2026 14:21 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 30-01-2026 14:14 IST ([✓]API verified) ★●----
-http://232.168.60.208/52320990
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 30-01-2026 14:21 IST ([✓]API verified) ★●----
+http://159.233.179.61/45743115
 #EXTINF:-1 tvg-id="139243" tvg-name="Usa Women Vs Thailand Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png" tvg-language="ENGLISH" group-title="Cricket",ENG | Usa Women Vs Thailand Women
 https://in-mc-fdlive.fancode.com/mumbai/139243_english_hls_fb55b2dcaa16365_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139397" tvg-name="Adelaide United Vs Macarthur" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139397_5802_ADL_MAC_FC-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Adelaide United Vs Macarthur
@@ -21,36 +21,27 @@ https://in-mc-fdlive.fancode.com/mumbai/140080_hindi_hls_725b9d748a63489_1ta-di_
 # [last updated 30-01-2026 14:20 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-2.m3u 30-01-2026 14:20 IST ([✓]API verified) ★●----
-http://97.186.94.94/33888238
+http://126.163.92.228/88638563
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png" group-title="Fancode-Cricket", USA Women vs Thailand Women (ICC Women's T20 World Cup Global Qualifier, 2026)
 https://in-mc-fdlive.fancode.com/mumbai/139243_english_hls_fb55b2dcaa16365_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139397_5802_ADL_MAC_FC-Web.jpg" group-title="Fancode-Football", Adelaide United vs Macarthur (A League 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/139397_english_hls_bc7229d64d25632_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png" group-title="Fancode-Futsal", Australia vs Uzbekistan (AFC Futsal Asian Cup, 2026)
 https://in-mc-fdlive.fancode.com/mumbai/139894_english_hls_3aab23c1d721010_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140080_5928_MTY_DW_FC-Web_1769654116007.jpg" group-title="Fancode-Cricket", Maharashtra Tycoons vs Delhi Warriors (World Legends Pro T20 League, 2026)
 https://in-mc-fdlive.fancode.com/mumbai/140080_english_hls_f547f7669e52892_1ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139397_5802_ADL_MAC_FC-Web.jpg" group-title="Fancode-Football", Adelaide United vs Macarthur (A League 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/139397_english_hls_bc7229d64d25632_1ta-di_h264/index.m3u8
 
 
-# Playlist from fc-le-3.m3u : 3 stream(s) 
-# [last updated 30-01-2026 13:32 IST ([✓]API verified)] 
+# Playlist from fc-le-3.m3u : 4 stream(s) 
+# [last updated 30-01-2026 14:22 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-3.m3u 30-01-2026 13:32 IST ([✓]API verified) ★●----
-http://15.67.227.154/29502221
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-3.m3u 30-01-2026 14:22 IST ([✓]API verified) ★●----
+http://129.210.216.155/19939694
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png" group-title="Fancode-Cricket", USA Women vs Thailand Women (ICC Women's T20 World Cup Global Qualifier- 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/139243_english_hls_fb55b2dcaa16365_1ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Wellington-Phoenix-vs-Melbourne-City_fc-web.jpg" group-title="Fancode-Football", Wellington Phoenix vs Melbourne City (A League 2025-26)
-https://bd-mc-fdlive.fancode.com/mumbai/139396_english_hls_9b3723b4c441716_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139397_5802_ADL_MAC_FC-Web.jpg" group-title="Fancode-Football", Adelaide United vs Macarthur (A League 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/139397_english_hls_bc7229d64d25632_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png" group-title="Fancode-Futsal", Australia vs Uzbekistan (AFC Futsal Asian Cup- 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/139894_english_hls_3aab23c1d721010_1ta-di_h264/index.m3u8
-
-
-# Playlist from fc-le-4.m3u : 2 stream(s) 
-# [last updated 30-01-2026 13:30 IST ([✓]API verified)] 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-4.m3u 30-01-2026 13:30 IST ([✓]API verified) ★●----
-http://237.138.108.18/30772025
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138749_5800_AA_CTB_fc-web_1766641251656.jpg" group-title="Fancode-Cricket", Auckland Aces vs Canterbury (Super Smash- 2025-26)
-https://bd-mc-fdlive.fancode.com/mumbai/138761_english_hls_95eb8471dd79330_1ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png" group-title="Fancode-Futsal", Saudi Arabia vs IR Iran (AFC Futsal Asian Cup- 2026)
-https://bd-mc-fdlive.fancode.com/mumbai/139893_english_hls_fd95d45e3a10803_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140080_5928_MTY_DW_FC-Web_1769654116007.jpg" group-title="Fancode-Cricket", Maharashtra Tycoons vs Delhi Warriors (World Legends Pro T20 League- 2026)
+https://bd-mc-fdlive.fancode.com/mumbai/140080_english_hls_f547f7669e52892_1ta-di_h264/index.m3u8
