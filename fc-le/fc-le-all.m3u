@@ -1,10 +1,10 @@
 #EXTM3U
 
 # Playlist from fc-le-1.m3u : 5 stream(s) 
-# [last updated 31-01-2026 04:42 IST ([✓]API verified)] 
+# [last updated 31-01-2026 04:49 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 31-01-2026 04:42 IST ([✓]API verified) ★●----
-http://9.59.156.237/92244528
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 31-01-2026 04:49 IST ([✓]API verified) ★●----
+http://63.127.225.205/08138203
 #EXTINF:-1 tvg-id="140026" tvg-name="Main Feed   Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" tvg-language="ENGLISH" group-title="Golf",ENG | Main Feed   Day 2
 https://in-mc-fdlive.fancode.com/mumbai/140026_english_hls_52b1513fd137556_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140029" tvg-name="Featured Holes   Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" tvg-language="ENGLISH" group-title="Golf",ENG | Featured Holes   Day 2
@@ -21,7 +21,7 @@ https://in-mc-fdlive.fancode.com/mumbai/140025_english_hls_8f0440044384792_1ta-d
 # [last updated 31-01-2026 04:11 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-2.m3u 31-01-2026 04:11 IST ([✓]API verified) ★●----
-http://231.79.117.152/44863547
+http://16.161.95.162/31419850
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" group-title="Fancode-Golf", Main Feed - Day 2 vs Torrey Pines Golf Course (Farmers Insurance Open 2026)
 https://in-mc-fdlive.fancode.com/mumbai/140026_english_hls_52b1513fd137556_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" group-title="Fancode-Golf", Featured Holes - Day 2 vs Torrey Pines Golf Course (Farmers Insurance Open 2026)
@@ -38,7 +38,7 @@ https://in-mc-fdlive.fancode.com/mumbai/140025_english_hls_8f0440044384792_1ta-d
 # [last updated 31-01-2026 04:15 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-3.m3u 31-01-2026 04:15 IST ([✓]API verified) ★●----
-http://64.44.112.187/48148618
+http://154.218.241.194/09861975
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" group-title="Fancode-Golf", Main Feed - Day 2 vs Torrey Pines Golf Course (Farmers Insurance Open 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/140026_english_hls_52b1513fd137556_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" group-title="Fancode-Golf", Featured Holes - Day 2 vs Torrey Pines Golf Course (Farmers Insurance Open 2026)
