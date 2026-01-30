@@ -4,7 +4,7 @@
 # [last updated 30-01-2026 22:20 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-1.m3u 30-01-2026 22:20 IST ([✓]API verified) ★●----
-http://234.175.246.240/53669512
+http://132.1.62.122/70220596
 #EXTINF:-1 tvg-id="1090498688" tvg-name="Shark Tank India" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014476/1769692585073510_STI_S5_29jan_simulcast_landscape_thumb.jpg" tvg-language="Hindi" group-title="Reality",HIN | Shark Tank India
 https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/master.m3u8?hdnea=exp=1769819402~acl=/*~id=80698557106589672545816922871418~hmac=9bb5b09bccada45c298b147ca715d7a2b5538bc9e45626c9145d6c5d82a62c20|User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; SWTV-24AE-4K NF; Build/UKN3.250415.040)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=72b86243a8aed36a4fa3b6f8bb1ba3d3-1769791800111
 #EXTINF:-1 tvg-id="1090502552" tvg-name="England Tour of Sri Lanka 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014532/1769749407936553_SLvsENG26_1t20i_30jan_landscape_thumb.jpg" tvg-language="English" group-title="Cricket",ENG | 1st T20I - 30 Jan 2026
@@ -22,19 +22,19 @@ https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/master.m3u8?hdnea=e
 
 
 # Playlist from sl-le-2.m3u : 6 stream(s) 
-# [last updated 30-01-2026 22:16 IST ([✓]API verified)] 
+# [last updated 30-01-2026 22:26 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-2.m3u 30-01-2026 22:16 IST ([✓]API verified) ★●----
-http://101.53.174.21/39943614
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-2.m3u 30-01-2026 22:26 IST ([✓]API verified) ★●----
+http://5.199.24.17/88578010
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014532/1769749407936553_SLvsENG26_1t20i_30jan_landscape_thumb.jpg" group-title="sonyliv-Cricket", 1st T20I - 30 Jan 2026 [ENG] - England Tour of Sri Lanka 2026
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1769834757~acl=/*~id=45757177372093095070259411011131~hmac=14530b42b4b4c4d0ed8aeece2509946f995e4e834e92504c15854b9888d7f3c4
+https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1769835365~acl=/*~id=88553560273131348708980347324716~hmac=9558c931f85aa08d399801829b06d851ce3016d51d1e952757495c5a8c6b8aa5
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014553/1769765068330871_PWL_SemiFinal_HaryanaThunders_vs_PunjabRoyals_landscape_thumb.jpg" group-title="sonyliv-Wrestling", Haryana Thunders vs Punjab Royals - 30 Jan 2026 [ENG] - Pro Wrestling League 2026
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769834757~acl=/*~id=45757177372093095070259411011131~hmac=14530b42b4b4c4d0ed8aeece2509946f995e4e834e92504c15854b9888d7f3c4
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769835365~acl=/*~id=88553560273131348708980347324716~hmac=9558c931f85aa08d399801829b06d851ce3016d51d1e952757495c5a8c6b8aa5
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014553/1769765068330871_PWL_SemiFinal_HaryanaThunders_vs_PunjabRoyals_landscape_thumb.jpg" group-title="sonyliv-Wrestling", Haryana Thunders vs Punjab Royals - 30 Jan 2026 [HIN] - Pro Wrestling League 2026
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769834757~acl=/*~id=45757177372093095070259411011131~hmac=14530b42b4b4c4d0ed8aeece2509946f995e4e834e92504c15854b9888d7f3c4
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769835365~acl=/*~id=88553560273131348708980347324716~hmac=9558c931f85aa08d399801829b06d851ce3016d51d1e952757495c5a8c6b8aa5
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014272/1769503462352453_World_Legends_Pro_T20_League_2026_Pune-Panthers-vs-Rajasthan-Lions_landscape_thumb.jpg" group-title="sonyliv-Cricket", Pune Panthers vs Rajasthan Lions - 30 Jan 2026 [ENG] - World Legends Pro T20 League 2026
-https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769834757~acl=/*~id=45757177372093095070259411011131~hmac=14530b42b4b4c4d0ed8aeece2509946f995e4e834e92504c15854b9888d7f3c4
+https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769835365~acl=/*~id=88553560273131348708980347324716~hmac=9558c931f85aa08d399801829b06d851ce3016d51d1e952757495c5a8c6b8aa5
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014272/1769503462352453_World_Legends_Pro_T20_League_2026_Pune-Panthers-vs-Rajasthan-Lions_landscape_thumb.jpg" group-title="sonyliv-Cricket", Pune Panthers vs Rajasthan Lions - 30 Jan 2026 [HIN] - World Legends Pro T20 League 2026
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769834757~acl=/*~id=45757177372093095070259411011131~hmac=14530b42b4b4c4d0ed8aeece2509946f995e4e834e92504c15854b9888d7f3c4
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769835365~acl=/*~id=88553560273131348708980347324716~hmac=9558c931f85aa08d399801829b06d851ce3016d51d1e952757495c5a8c6b8aa5
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014355/1769592214749674_WPL26_Bengaluru-vs-Delhi_landscape_thumb.jpg" group-title="sonyliv-Pickleball", Bengaluru Jawans vs Dilli Dillwale - 30 Jan 2026 [ENG] - World Pickleball League 2026
-https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769834757~acl=/*~id=45757177372093095070259411011131~hmac=14530b42b4b4c4d0ed8aeece2509946f995e4e834e92504c15854b9888d7f3c4
+https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769835365~acl=/*~id=88553560273131348708980347324716~hmac=9558c931f85aa08d399801829b06d851ce3016d51d1e952757495c5a8c6b8aa5
