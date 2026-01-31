@@ -1,10 +1,10 @@
 #EXTM3U
 
 # Playlist from fc-le-1.m3u : 7 stream(s) 
-# [last updated 01-02-2026 04:07 IST ([✓]API verified)] 
+# [last updated 01-02-2026 04:14 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 01-02-2026 04:07 IST ([✓]API verified) ★●----
-http://111.193.119.138/47552730
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 01-02-2026 04:14 IST ([✓]API verified) ★●----
+http://186.199.72.81/15125018
 #EXTINF:-1 tvg-id="140031" tvg-name="Main Feed   Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" tvg-language="ENGLISH" group-title="Golf",ENG | Main Feed   Day 3
 https://in-mc-fdlive.fancode.com/mumbai/140031_english_hls_ba0311953b17264_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140034" tvg-name="Featured Holes   Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" tvg-language="ENGLISH" group-title="Golf",ENG | Featured Holes   Day 3
@@ -25,7 +25,7 @@ https://in-mc-fdlive.fancode.com/mumbai/131041_bengali_hls_24ab3ffe9d40372_1ta-d
 # [last updated 01-02-2026 03:50 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-2.m3u 01-02-2026 03:50 IST ([✓]API verified) ★●----
-http://170.134.95.151/74354004
+http://0.201.199.38/82495932
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" group-title="Fancode-Golf", Main Feed - Day 3 vs Torrey Pines Golf Course (Farmers Insurance Open 2026)
 https://in-mc-fdlive.fancode.com/mumbai/140031_english_hls_ba0311953b17264_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" group-title="Fancode-Golf", Featured Holes - Day 3 vs Torrey Pines Golf Course (Farmers Insurance Open 2026)
@@ -38,19 +38,17 @@ https://in-mc-fdlive.fancode.com/mumbai/140030_english_hls_2df3d9260570747_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/131041_english_hls_3cab0967848633_1ta-di_h264/index.m3u8
 
 
-# Playlist from fc-le-3.m3u : 6 stream(s) 
-# [last updated 01-02-2026 03:42 IST ([✓]API verified)] 
+# Playlist from fc-le-3.m3u : 5 stream(s) 
+# [last updated 01-02-2026 04:08 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-3.m3u 01-02-2026 03:42 IST ([✓]API verified) ★●----
-http://32.157.139.189/00413039
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-3.m3u 01-02-2026 04:08 IST ([✓]API verified) ★●----
+http://221.155.102.150/44086695
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" group-title="Fancode-Golf", Main Feed - Day 3 vs Torrey Pines Golf Course (Farmers Insurance Open 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/140031_english_hls_ba0311953b17264_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" group-title="Fancode-Golf", Featured Holes - Day 3 vs Torrey Pines Golf Course (Farmers Insurance Open 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/140034_english_hls_bc9889b7b389576_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" group-title="Fancode-Golf", Featured Groups - Day 3 vs Torrey Pines Golf Course (Farmers Insurance Open 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/140033_english_hls_97fcdda9ad89287_1ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" group-title="Fancode-Golf", Marquee Group - Day 3 vs Torrey Pines Golf Course (Farmers Insurance Open 2026)
-https://bd-mc-fdlive.fancode.com/mumbai/140032_english_hls_6ce940b61978129_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" group-title="Fancode-Golf", World Feed - Day 3 vs Torrey Pines Golf Course (Farmers Insurance Open 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/140030_english_hls_2df3d9260570747_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131041_5427_ELC_BAR_FC-Web.png" group-title="Fancode-Football", Elche CF vs FC Barcelona (LALIGA 2025-26)
