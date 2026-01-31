@@ -1,10 +1,10 @@
 #EXTM3U
 
 # Playlist from fc-le-1.m3u : 13 stream(s) 
-# [last updated 31-01-2026 22:35 IST ([✓]API verified)] 
+# [last updated 31-01-2026 22:42 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 31-01-2026 22:35 IST ([✓]API verified) ★●----
-http://229.201.50.118/83848422
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 31-01-2026 22:42 IST ([✓]API verified) ★●----
+http://77.101.170.165/04133403
 #EXTINF:-1 tvg-id="140083" tvg-name="Pune Panthers Vs Dubai Royals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140083_5928_DR_PPT_FC-Web_1769805880964.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Pune Panthers Vs Dubai Royals
 https://in-mc-fdlive.fancode.com/mumbai/140083_english_hls_1c689b86ca82425_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140083" tvg-name="Pune Panthers Vs Dubai Royals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140083_5928_DR_PPT_FC-Web_1769805880964.jpg" tvg-language="HINDI" group-title="Cricket",HIN | Pune Panthers Vs Dubai Royals
@@ -37,7 +37,7 @@ https://in-mc-fdlive.fancode.com/mumbai/140032_english_hls_6ce940b61978129_1ta-d
 # [last updated 31-01-2026 22:36 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-2.m3u 31-01-2026 22:36 IST ([✓]API verified) ★●----
-http://228.5.238.159/57426408
+http://204.8.47.69/29910728
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140083_5928_DR_PPT_FC-Web_1769805880964.jpg" group-title="Fancode-Cricket", Pune Panthers vs Dubai Royals (World Legends Pro T20 League, 2026)
 https://in-mc-fdlive.fancode.com/mumbai/140083_english_hls_1c689b86ca82425_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-Super-50-Cup-2026_Old_match-card_2025_FC-WEB_1-(1).jpg" group-title="Fancode-Cricket", Trinidad and Tobago Women vs Barbados Women (CG United Women's Super 50 Cup 2026)
@@ -68,7 +68,7 @@ https://in-mc-fdlive.fancode.com/mumbai/140032_english_hls_6ce940b61978129_1ta-d
 # [last updated 31-01-2026 22:25 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-3.m3u 31-01-2026 22:25 IST ([✓]API verified) ★●----
-http://136.240.244.39/31413941
+http://196.113.160.179/76779406
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140083_5928_DR_PPT_FC-Web_1769805880964.jpg" group-title="Fancode-Cricket", Pune Panthers vs Dubai Royals (World Legends Pro T20 League- 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/140083_english_hls_1c689b86ca82425_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-Super-50-Cup-2026_Old_match-card_2025_FC-WEB_1-(1).jpg" group-title="Fancode-Cricket", Trinidad and Tobago Women vs Barbados Women (CG United Women's Super 50 Cup 2026)
