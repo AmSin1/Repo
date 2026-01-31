@@ -4,7 +4,7 @@
 # [last updated 31-01-2026 12:00 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-1.m3u 31-01-2026 12:00 IST ([✓]API verified) ★●----
-http://34.141.153.181/89218191
+http://66.143.15.160/66605322
 #EXTINF:-1 tvg-id="1090502632" tvg-name="Super Smash 2025/26 Men's" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014625/1769816489071275_SS_mens_FINAL_Northen-Districts-V-Canterbury-Kings_Landscape_thumb.jpg" tvg-language="English" group-title="Cricket",ENG | Northen Brave vs Canterbury Kings - Final - 31 Jan 2026
 https://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/master.m3u8?hdnea=exp=1769862601~acl=/*~id=94023811122499002538687116489496~hmac=a0d208c289517bdd12280c5d896db80551e159267f5b2a69d5d790a493c387fa|User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; OXF-AN00; Build/PQ3A.190605.09261140)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=3ed2798f6590b43e59276e2664c5e722-1769841000147
 #EXTINF:-1 tvg-id="1090498781" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014577/1769774745614353_AO26_final_KIA_Arena_30jan_landscape_thumb.jpg" tvg-language="English" group-title="Tennis",ENG | Martin De la Puente vs Tokito Oda - 31 Jan 2026
@@ -14,10 +14,10 @@ https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-AO/master.m3u8?hdnea=e
 
 
 # Playlist from sl-le-2.m3u : 3 stream(s) 
-# [last updated 31-01-2026 12:04 IST ([✓]API verified)] 
+# [last updated 31-01-2026 12:14 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-2.m3u 31-01-2026 12:04 IST ([✓]API verified) ★●----
-http://90.124.26.74/07748328
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-2.m3u 31-01-2026 12:14 IST ([✓]API verified) ★●----
+http://226.23.19.66/16908029
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014625/1769816489071275_SS_mens_FINAL_Northen-Districts-V-Canterbury-Kings_Landscape_thumb.jpg" group-title="sonyliv-Cricket", Northen Brave vs Canterbury Kings - Final - 31 Jan 2026 [ENG] - Super Smash 2025/26 Men's
 https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769884448~acl=/*~id=06193440170511826967917649628235~hmac=65a76a7b52efe1ec829af4e0e2c2954623b86ec0367ac7af693c97db8f859558
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014577/1769774745614353_AO26_final_KIA_Arena_30jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Martin De la Puente vs Tokito Oda - 31 Jan 2026 [ENG] - Australian Open 2026
