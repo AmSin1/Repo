@@ -4,7 +4,7 @@
 # [last updated 31-01-2026 07:00 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-1.m3u 31-01-2026 07:00 IST ([✓]API verified) ★●----
-http://68.210.102.165/19582659
+http://244.102.93.115/81183923
 #EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014585/1769739316000782_AO2026_Landscape_Thumb_WoMens_Doubles_Danilina_Krunic_vs_Zhang_Mertens_SP.jpg" tvg-language="English" group-title="Tennis",ENG | Danilina/Krunic vs Mertens/Zhang - Final - 31 Jan 2026
 https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-AO/master.m3u8?hdnea=exp=1769860221~acl=/*~id=07075625923197736969797461300325~hmac=23d7d8eb99e55edf66b0ef72fa89e4313213ff1c0d62ddfb76b4c6a74ccda17e|User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; Infinix X6825; Build/SP1A.210812.016)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=d6ce2ca270552f592d96d806101f48bd-1769823000154
 #EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014585/1769739316000782_AO2026_Landscape_Thumb_WoMens_Doubles_Danilina_Krunic_vs_Zhang_Mertens_SP.jpg" tvg-language="Hindi" group-title="Tennis",HIN | Danilina/Krunic vs Mertens/Zhang - Final - 31 Jan 2026
@@ -25,7 +25,7 @@ https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-AO/master.m3u8?hdnea=e
 # [last updated 31-01-2026 07:00 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-2.m3u 31-01-2026 07:00 IST ([✓]API verified) ★●----
-http://143.8.84.183/43692702
+http://33.13.111.166/10417811
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014585/1769739316000782_AO2026_Landscape_Thumb_WoMens_Doubles_Danilina_Krunic_vs_Zhang_Mertens_SP.jpg" group-title="sonyliv-Tennis", Danilina/Krunic vs Mertens/Zhang - Final - 31 Jan 2026 [ENG] - Australian Open 2026
 https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769866229~acl=/*~id=75681955294180443893034490338612~hmac=ecbfd1c98d44ab0dcc5395273b8edbeb748b7f959656c5d1c2c1c32870ddd14f
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014585/1769739316000782_AO2026_Landscape_Thumb_WoMens_Doubles_Danilina_Krunic_vs_Zhang_Mertens_SP.jpg" group-title="sonyliv-Tennis", Danilina/Krunic vs Mertens/Zhang - Final - 31 Jan 2026 [HIN] - Australian Open 2026
