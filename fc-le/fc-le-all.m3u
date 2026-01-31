@@ -1,10 +1,10 @@
 #EXTM3U
 
 # Playlist from fc-le-1.m3u : 11 stream(s) 
-# [last updated 31-01-2026 17:35 IST ([✓]API verified)] 
+# [last updated 31-01-2026 17:42 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 31-01-2026 17:35 IST ([✓]API verified) ★●----
-http://163.245.204.27/81363618
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 31-01-2026 17:42 IST ([✓]API verified) ★●----
+http://134.219.77.112/28357915
 #EXTINF:-1 tvg-id="140082" tvg-name="Rajasthan Lions Vs Gurugram Thunders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140082_5928_GT_RLS_FC-Web_1769655566346.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Rajasthan Lions Vs Gurugram Thunders
 https://in-mc-fdlive.fancode.com/mumbai/140082_english_hls_e6ba31439b63607_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140082" tvg-name="Rajasthan Lions Vs Gurugram Thunders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140082_5928_GT_RLS_FC-Web_1769655566346.jpg" tvg-language="HINDI" group-title="Cricket",HIN | Rajasthan Lions Vs Gurugram Thunders
@@ -33,7 +33,7 @@ https://in-mc-fdlive.fancode.com/mumbai/139899_english_hls_66b347027f82585_1ta-d
 # [last updated 31-01-2026 17:31 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-2.m3u 31-01-2026 17:31 IST ([✓]API verified) ★●----
-http://155.9.220.36/50704986
+http://60.124.207.48/63793885
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140082_5928_GT_RLS_FC-Web_1769655566346.jpg" group-title="Fancode-Cricket", Rajasthan Lions vs Gurugram Thunders (World Legends Pro T20 League, 2026)
 https://in-mc-fdlive.fancode.com/mumbai/140082_english_hls_e6ba31439b63607_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769265237104.jpg" group-title="Fancode-Cricket", Dubai vs Emirates Blues (Emirates D10, 2026)
@@ -60,7 +60,7 @@ https://in-mc-fdlive.fancode.com/mumbai/139899_english_hls_66b347027f82585_1ta-d
 # [last updated 31-01-2026 17:04 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-3.m3u 31-01-2026 17:04 IST ([✓]API verified) ★●----
-http://114.85.115.189/34035610
+http://204.219.154.250/69384141
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140082_5928_GT_RLS_FC-Web_1769655566346.jpg" group-title="Fancode-Cricket", Rajasthan Lions vs Gurugram Thunders (World Legends Pro T20 League- 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/140082_english_hls_e6ba31439b63607_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769265237104.jpg" group-title="Fancode-Cricket", Dubai vs Emirates Blues (Emirates D10- 2026)
