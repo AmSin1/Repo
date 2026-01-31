@@ -4,7 +4,7 @@
 # [last updated 31-01-2026 11:00 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-1.m3u 31-01-2026 11:00 IST ([✓]API verified) ★●----
-http://6.94.125.30/63630817
+http://235.54.184.235/81188934
 #EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014624/1769813999455209_AO2026_Landscape_Thumb_Mens_Doubles_Kubler_Polmans_vs_Harrison_Skupsi_SP.jpg" tvg-language="English" group-title="Tennis",ENG | Kubler/Polmans vs Harrison/Skupsi - Final - 31 Jan 2026
 https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-AO/master.m3u8?hdnea=exp=1769862601~acl=/*~id=94023811122499002538687116489496~hmac=a0d208c289517bdd12280c5d896db80551e159267f5b2a69d5d790a493c387fa|User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; RMX3201; Build/QP1A.190711.020)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c7d94dab825fdc14b2cdd673a5d365f8-1769837400122
 #EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014624/1769813999455209_AO2026_Landscape_Thumb_Mens_Doubles_Kubler_Polmans_vs_Harrison_Skupsi_SP.jpg" tvg-language="Hindi" group-title="Tennis",HIN | Kubler/Polmans vs Harrison/Skupsi - Final - 31 Jan 2026
@@ -25,7 +25,7 @@ https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-AO/master.m3u8?hdnea=e
 # [last updated 31-01-2026 10:53 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-2.m3u 31-01-2026 10:53 IST ([✓]API verified) ★●----
-http://8.176.242.199/13244931
+http://214.11.201.137/05604373
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014624/1769813999455209_AO2026_Landscape_Thumb_Mens_Doubles_Kubler_Polmans_vs_Harrison_Skupsi_SP.jpg" group-title="sonyliv-Tennis", Kubler/Polmans vs Harrison/Skupsi - Final - 31 Jan 2026 [ENG] - Australian Open 2026
 https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769880195~acl=/*~id=77315681812494826972895327174846~hmac=2b2197464eb18e46505b46c0598804742782b08500f73fceb8bf4f3dadc2a083
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014624/1769813999455209_AO2026_Landscape_Thumb_Mens_Doubles_Kubler_Polmans_vs_Harrison_Skupsi_SP.jpg" group-title="sonyliv-Tennis", Kubler/Polmans vs Harrison/Skupsi - Final - 31 Jan 2026 [HIN] - Australian Open 2026
