@@ -4,7 +4,7 @@
 # [last updated 01-02-2026 01:14 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 01-02-2026 01:14 IST ([✓]API verified) ★●----
-http://216.46.41.166/87384617
+http://8.56.6.41/02204104
 #EXTINF:-1 tvg-id="139771" tvg-name="Trinidad And Tobago Women Vs Barbados Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-Super-50-Cup-2026_Old_match-card_2025_FC-WEB_1-(1).jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Trinidad And Tobago Women Vs Barbados Women
 https://in-mc-fdlive.fancode.com/mumbai/139771_english_hls_c91209300573504_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139770" tvg-name="Leeward Islands Women Vs Jamaica Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-Super-50-Cup-2026_Old_match-card_2025_FC-WEB_2-(1).jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Leeward Islands Women Vs Jamaica Women
@@ -37,19 +37,17 @@ https://in-mc-fdlive.fancode.com/mumbai/140030_english_hls_2df3d9260570747_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/131040_english_hls_86a8497dc77036_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 
 
-# Playlist from fc-le-2.m3u : 13 stream(s) 
-# [last updated 01-02-2026 01:08 IST ([✓]API verified)] 
+# Playlist from fc-le-2.m3u : 12 stream(s) 
+# [last updated 01-02-2026 01:18 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-2.m3u 01-02-2026 01:08 IST ([✓]API verified) ★●----
-http://139.192.215.154/35808416
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-2.m3u 01-02-2026 01:18 IST ([✓]API verified) ★●----
+http://210.28.11.240/29021258
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-Super-50-Cup-2026_Old_match-card_2025_FC-WEB_1-(1).jpg" group-title="Fancode-Cricket", Trinidad and Tobago Women vs Barbados Women (CG United Women's Super 50 Cup 2026)
 https://in-mc-fdlive.fancode.com/mumbai/139771_english_hls_c91209300573504_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-Super-50-Cup-2026_Old_match-card_2025_FC-WEB_2-(1).jpg" group-title="Fancode-Cricket", Leeward Islands Women vs Jamaica Women (CG United Women's Super 50 Cup 2026)
 https://in-mc-fdlive.fancode.com/mumbai/139770_english_hls_0ea4ec86db77405_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-Super-50-Cup-2026_Old_match-card_2025_FC-WEB_1-(1).jpg" group-title="Fancode-Cricket", Windward Islands Women vs Guyana Women (CG United Women's Super 50 Cup 2026)
 https://in-mc-fdlive.fancode.com/mumbai/139769_english_hls_fc8cb32e1e37514_1ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg" group-title="Fancode-Cricket", Abu Dhabi vs Fujairah (Emirates D10, 2026)
-https://in-mc-fdlive.fancode.com/mumbai/139606_english_hls_213cb2f12a68997_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131041_5427_ELC_BAR_FC-Web.png" group-title="Fancode-Football", Elche CF vs FC Barcelona (LALIGA 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/131041_english_hls_3cab0967848633_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/140010_CASACARDS_APP.png" group-title="Fancode-Football", Cultural Leonesa vs Deportivo La Coruna (LALIGA Hypermotion 2025-26)
@@ -70,19 +68,17 @@ https://in-mc-fdlive.fancode.com/mumbai/140030_english_hls_2df3d9260570747_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/131040_english_hls_86a8497dc77036_1ta-di_h264/index.m3u8
 
 
-# Playlist from fc-le-3.m3u : 13 stream(s) 
-# [last updated 01-02-2026 01:10 IST ([✓]API verified)] 
+# Playlist from fc-le-3.m3u : 12 stream(s) 
+# [last updated 01-02-2026 01:19 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-3.m3u 01-02-2026 01:10 IST ([✓]API verified) ★●----
-http://220.174.139.243/50275755
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-3.m3u 01-02-2026 01:19 IST ([✓]API verified) ★●----
+http://228.142.184.74/13605875
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-Super-50-Cup-2026_Old_match-card_2025_FC-WEB_1-(1).jpg" group-title="Fancode-Cricket", Trinidad and Tobago Women vs Barbados Women (CG United Women's Super 50 Cup 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/139771_english_hls_c91209300573504_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-Super-50-Cup-2026_Old_match-card_2025_FC-WEB_2-(1).jpg" group-title="Fancode-Cricket", Leeward Islands Women vs Jamaica Women (CG United Women's Super 50 Cup 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/139770_english_hls_0ea4ec86db77405_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-Super-50-Cup-2026_Old_match-card_2025_FC-WEB_1-(1).jpg" group-title="Fancode-Cricket", Windward Islands Women vs Guyana Women (CG United Women's Super 50 Cup 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/139769_english_hls_fc8cb32e1e37514_1ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg" group-title="Fancode-Cricket", Abu Dhabi vs Fujairah (Emirates D10- 2026)
-https://bd-mc-fdlive.fancode.com/mumbai/139606_english_hls_213cb2f12a68997_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131041_5427_ELC_BAR_FC-Web.png" group-title="Fancode-Football", Elche CF vs FC Barcelona (LALIGA 2025-26)
 https://bd-mc-fdlive.fancode.com/mumbai/131041_english_hls_3cab0967848633_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/140010_CASACARDS_APP.png" group-title="Fancode-Football", Cultural Leonesa vs Deportivo La Coruna (LALIGA Hypermotion 2025-26)
@@ -101,3 +97,12 @@ https://bd-mc-fdlive.fancode.com/mumbai/140032_english_hls_6ce940b61978129_1ta-d
 https://bd-mc-fdlive.fancode.com/mumbai/140030_english_hls_2df3d9260570747_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131040_5427_LE_ATL_FC-Web.png" group-title="Fancode-Football", Levante vs Atletico de Madrid (LALIGA 2025-26)
 https://bd-mc-fdlive.fancode.com/mumbai/131040_english_hls_86a8497dc77036_1ta-di_h264/index.m3u8
+
+
+# Playlist from fc-le-4.m3u : 1 stream(s) 
+# [last updated 01-02-2026 01:17 IST ([✓]API verified)] 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-4.m3u 01-02-2026 01:17 IST ([✓]API verified) ★●----
+http://90.231.46.15/92512532
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg" group-title="Fancode-Cricket", Abu Dhabi vs Fujairah (Emirates D10- 2026)
+https://bd-mc-fdlive.fancode.com/mumbai/139606_english_hls_213cb2f12a68997_1ta-di_h264/index.m3u8
