@@ -4,7 +4,7 @@
 # [last updated 31-01-2026 08:00 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-1.m3u 31-01-2026 08:00 IST ([✓]API verified) ★●----
-http://36.3.166.68/95863027
+http://172.17.44.34/96548747
 #EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014585/1769739316000782_AO2026_Landscape_Thumb_WoMens_Doubles_Danilina_Krunic_vs_Zhang_Mertens_SP.jpg" tvg-language="English" group-title="Tennis",ENG | Danilina/Krunic vs Mertens/Zhang - Final - 31 Jan 2026
 https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-AO/master.m3u8?hdnea=exp=1769860221~acl=/*~id=07075625923197736969797461300325~hmac=23d7d8eb99e55edf66b0ef72fa89e4313213ff1c0d62ddfb76b4c6a74ccda17e|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; Projector; Build/RD2A.211001.002)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=bfbee1eaa18baff5c307d963ee90621b-1769826600141
 #EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014585/1769739316000782_AO2026_Landscape_Thumb_WoMens_Doubles_Danilina_Krunic_vs_Zhang_Mertens_SP.jpg" tvg-language="Hindi" group-title="Tennis",HIN | Danilina/Krunic vs Mertens/Zhang - Final - 31 Jan 2026
@@ -22,21 +22,21 @@ https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-AO/master.m3u8?hdnea=e
 
 
 # Playlist from sl-le-2.m3u : 7 stream(s) 
-# [last updated 31-01-2026 08:01 IST ([✓]API verified)] 
+# [last updated 31-01-2026 08:11 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-2.m3u 31-01-2026 08:01 IST ([✓]API verified) ★●----
-http://72.85.176.46/42504212
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-2.m3u 31-01-2026 08:11 IST ([✓]API verified) ★●----
+http://216.93.120.145/73686970
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014585/1769739316000782_AO2026_Landscape_Thumb_WoMens_Doubles_Danilina_Krunic_vs_Zhang_Mertens_SP.jpg" group-title="sonyliv-Tennis", Danilina/Krunic vs Mertens/Zhang - Final - 31 Jan 2026 [ENG] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769869875~acl=/*~id=29112391176879007236143471082335~hmac=c8c86f83567bb4abb0b6e30ebb15c03f58cbc3935ca13af10825f08b9f704f4c
+https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769870482~acl=/*~id=58115049736603710996604038624958~hmac=d7ffa3838996cb83d3b1c701af26740f6ac9c589ed70a355cfe15395fbaa8388
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014585/1769739316000782_AO2026_Landscape_Thumb_WoMens_Doubles_Danilina_Krunic_vs_Zhang_Mertens_SP.jpg" group-title="sonyliv-Tennis", Danilina/Krunic vs Mertens/Zhang - Final - 31 Jan 2026 [HIN] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769869875~acl=/*~id=29112391176879007236143471082335~hmac=c8c86f83567bb4abb0b6e30ebb15c03f58cbc3935ca13af10825f08b9f704f4c
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769870482~acl=/*~id=58115049736603710996604038624958~hmac=d7ffa3838996cb83d3b1c701af26740f6ac9c589ed70a355cfe15395fbaa8388
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014585/1769739316000782_AO2026_Landscape_Thumb_WoMens_Doubles_Danilina_Krunic_vs_Zhang_Mertens_SP.jpg" group-title="sonyliv-Tennis", Danilina/Krunic vs Mertens/Zhang - Final - 31 Jan 2026 [TAM] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769869875~acl=/*~id=29112391176879007236143471082335~hmac=c8c86f83567bb4abb0b6e30ebb15c03f58cbc3935ca13af10825f08b9f704f4c
+https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769870482~acl=/*~id=58115049736603710996604038624958~hmac=d7ffa3838996cb83d3b1c701af26740f6ac9c589ed70a355cfe15395fbaa8388
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014585/1769739316000782_AO2026_Landscape_Thumb_WoMens_Doubles_Danilina_Krunic_vs_Zhang_Mertens_SP.jpg" group-title="sonyliv-Tennis", Danilina/Krunic vs Mertens/Zhang - Final - 31 Jan 2026 [TEL] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769869875~acl=/*~id=29112391176879007236143471082335~hmac=c8c86f83567bb4abb0b6e30ebb15c03f58cbc3935ca13af10825f08b9f704f4c
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769870482~acl=/*~id=58115049736603710996604038624958~hmac=d7ffa3838996cb83d3b1c701af26740f6ac9c589ed70a355cfe15395fbaa8388
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014560/1769771106140816_SS_womens_FINAL_Auckland-Hearts-v-Wellington-Blaze_landscape_thumb.jpg" group-title="sonyliv-Cricket", Auckland Hearts vs Wellington Blaze - Final - 31 Jan 2026 [ENG] - Super Smash 2025/26 Women's
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769869875~acl=/*~id=29112391176879007236143471082335~hmac=c8c86f83567bb4abb0b6e30ebb15c03f58cbc3935ca13af10825f08b9f704f4c
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769870482~acl=/*~id=58115049736603710996604038624958~hmac=d7ffa3838996cb83d3b1c701af26740f6ac9c589ed70a355cfe15395fbaa8388
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014577/1769774745614353_AO26_final_KIA_Arena_30jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Kia Arena - 31 Jan 2026 [ENG] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769869875~acl=/*~id=29112391176879007236143471082335~hmac=c8c86f83567bb4abb0b6e30ebb15c03f58cbc3935ca13af10825f08b9f704f4c
+https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769870482~acl=/*~id=58115049736603710996604038624958~hmac=d7ffa3838996cb83d3b1c701af26740f6ac9c589ed70a355cfe15395fbaa8388
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014573/1769774281955989_AO26_final_stream2_30jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Stream 2 - 31 Jan 2026 [ENG] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769869875~acl=/*~id=29112391176879007236143471082335~hmac=c8c86f83567bb4abb0b6e30ebb15c03f58cbc3935ca13af10825f08b9f704f4c
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769870482~acl=/*~id=58115049736603710996604038624958~hmac=d7ffa3838996cb83d3b1c701af26740f6ac9c589ed70a355cfe15395fbaa8388
