@@ -1,14 +1,10 @@
 #EXTM3U
 
-# Playlist from fc-le-1.m3u : 3 stream(s) 
-# [last updated 01-02-2026 04:28 IST ([✓]API verified)] 
+# Playlist from fc-le-1.m3u : 1 stream(s) 
+# [last updated 01-02-2026 04:35 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 01-02-2026 04:28 IST ([✓]API verified) ★●----
-http://147.225.184.207/62613929
-#EXTINF:-1 tvg-id="140031" tvg-name="Main Feed   Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" tvg-language="ENGLISH" group-title="Golf",ENG | Main Feed   Day 3
-https://in-mc-fdlive.fancode.com/mumbai/140031_english_hls_ba0311953b17264_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140033" tvg-name="Featured Groups   Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" tvg-language="ENGLISH" group-title="Golf",ENG | Featured Groups   Day 3
-https://in-mc-fdlive.fancode.com/mumbai/140033_english_hls_97fcdda9ad89287_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 01-02-2026 04:35 IST ([✓]API verified) ★●----
+http://33.96.213.31/73272910
 #EXTINF:-1 tvg-id="140030" tvg-name="World Feed   Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" tvg-language="ENGLISH" group-title="Golf",ENG | World Feed   Day 3
 https://in-mc-fdlive.fancode.com/mumbai/140030_english_hls_2df3d9260570747_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 
@@ -17,7 +13,7 @@ https://in-mc-fdlive.fancode.com/mumbai/140030_english_hls_2df3d9260570747_1ta-d
 # [last updated 01-02-2026 04:20 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-2.m3u 01-02-2026 04:20 IST ([✓]API verified) ★●----
-http://84.244.232.154/39065823
+http://43.98.144.253/98072141
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" group-title="Fancode-Golf", Main Feed - Day 3 vs Torrey Pines Golf Course (Farmers Insurance Open 2026)
 https://in-mc-fdlive.fancode.com/mumbai/140031_english_hls_ba0311953b17264_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" group-title="Fancode-Golf", Featured Groups - Day 3 vs Torrey Pines Golf Course (Farmers Insurance Open 2026)
@@ -30,7 +26,7 @@ https://in-mc-fdlive.fancode.com/mumbai/140030_english_hls_2df3d9260570747_1ta-d
 # [last updated 01-02-2026 04:23 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-3.m3u 01-02-2026 04:23 IST ([✓]API verified) ★●----
-http://201.101.192.9/50997695
+http://230.194.8.25/94178216
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" group-title="Fancode-Golf", Main Feed - Day 3 vs Torrey Pines Golf Course (Farmers Insurance Open 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/140031_english_hls_ba0311953b17264_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" group-title="Fancode-Golf", Featured Groups - Day 3 vs Torrey Pines Golf Course (Farmers Insurance Open 2026)
