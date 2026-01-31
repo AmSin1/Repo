@@ -1,18 +1,9 @@
 #EXTM3U
 
-# Playlist from fc-le-2.m3u : 1 stream(s) 
-# [last updated 01-02-2026 04:40 IST ([✓]API verified)] 
+# Playlist from fc-le-4.m3u : 1 stream(s) 
+# [last updated 01-02-2026 05:02 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-2.m3u 01-02-2026 04:40 IST ([✓]API verified) ★●----
-http://92.179.51.191/53642838
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" group-title="Fancode-Golf", World Feed - Day 3 vs Torrey Pines Golf Course (Farmers Insurance Open 2026)
-https://in-mc-fdlive.fancode.com/mumbai/140030_english_hls_2df3d9260570747_1ta-di_h264/index.m3u8
-
-
-# Playlist from fc-le-3.m3u : 1 stream(s) 
-# [last updated 01-02-2026 04:55 IST ([✓]API verified)] 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-3.m3u 01-02-2026 04:55 IST ([✓]API verified) ★●----
-http://105.37.104.8/36550347
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-4.m3u 01-02-2026 05:02 IST ([✓]API verified) ★●----
+http://76.108.6.94/52334419
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" group-title="Fancode-Golf", World Feed - Day 3 vs Torrey Pines Golf Course (Farmers Insurance Open 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/140030_english_hls_2df3d9260570747_1ta-di_h264/index.m3u8
