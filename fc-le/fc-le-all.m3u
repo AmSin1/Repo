@@ -1,21 +1,19 @@
 #EXTM3U
 
 # Playlist from fc-le-1.m3u : 1 stream(s) 
-# [last updated 31-01-2026 10:00 IST ([✓]API verified)] 
+# [last updated 31-01-2026 10:07 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 31-01-2026 10:00 IST ([✓]API verified) ★●----
-http://30.35.218.141/63714770
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 31-01-2026 10:07 IST ([✓]API verified) ★●----
+http://134.173.11.199/44544245
 #EXTINF:-1 tvg-id="140136" tvg-name="Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Icons-Series-Golf_2026_FC-Web.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Day 1
 https://in-mc-fdlive.fancode.com/mumbai/140136_english_hls_03471c5e7053101_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 
 
-# Playlist from fc-le-2.m3u : 2 stream(s) 
-# [last updated 31-01-2026 06:42 IST ([✓]API verified)] 
+# Playlist from fc-le-2.m3u : 1 stream(s) 
+# [last updated 31-01-2026 10:04 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-2.m3u 31-01-2026 06:42 IST ([✓]API verified) ★●----
-http://28.82.206.73/23760628
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138766_5801_WB-W_AH-W_fc-web_1766596522064.jpg" group-title="Fancode-Cricket", Auckland Hearts vs Wellington Blaze (Women's Super Smash, 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/138794_english_hls_b9779fb4e927951_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-2.m3u 31-01-2026 10:04 IST ([✓]API verified) ★●----
+http://94.117.157.146/55693320
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Icons-Series-Golf_2026_FC-Web.jpg" group-title="Fancode-Golf", Day 1 vs Bangkok (Icons of Football, 2026)
 https://in-mc-fdlive.fancode.com/mumbai/140136_english_hls_03471c5e7053101_1ta-di_h264/index.m3u8
 
@@ -24,7 +22,7 @@ https://in-mc-fdlive.fancode.com/mumbai/140136_english_hls_03471c5e7053101_1ta-d
 # [last updated 31-01-2026 07:15 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-3.m3u 31-01-2026 07:15 IST ([✓]API verified) ★●----
-http://226.142.102.225/57690081
+http://140.192.74.192/98702998
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138766_5801_WB-W_AH-W_fc-web_1766596522064.jpg" group-title="Fancode-Cricket", Auckland Hearts vs Wellington Blaze (Women's Super Smash- 2025-26)
 https://bd-mc-fdlive.fancode.com/mumbai/138794_english_hls_b9779fb4e927951_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Icons-Series-Golf_2026_FC-Web.jpg" group-title="Fancode-Golf", Day 1 vs Bangkok (Icons of Football- 2026)
