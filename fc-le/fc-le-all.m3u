@@ -1,10 +1,10 @@
 #EXTM3U
 
 # Playlist from fc-le-1.m3u : 10 stream(s) 
-# [last updated 31-01-2026 15:56 IST ([✓]API verified)] 
+# [last updated 31-01-2026 16:00 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 31-01-2026 15:56 IST ([✓]API verified) ★●----
-http://132.234.82.191/97515363
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 31-01-2026 16:00 IST ([✓]API verified) ★●----
+http://0.48.193.131/07332195
 #EXTINF:-1 tvg-id="140082" tvg-name="Rajasthan Lions Vs Gurugram Thunders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140082_5928_GT_RLS_FC-Web_1769655566346.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Rajasthan Lions Vs Gurugram Thunders
 https://in-mc-fdlive.fancode.com/mumbai/140082_english_hls_e6ba31439b63607_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140082" tvg-name="Rajasthan Lions Vs Gurugram Thunders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140082_5928_GT_RLS_FC-Web_1769655566346.jpg" tvg-language="HINDI" group-title="Cricket",HIN | Rajasthan Lions Vs Gurugram Thunders
@@ -28,10 +28,10 @@ https://in-mc-fdlive.fancode.com/mumbai/140168_english_hls_735e4dbfcd78236_1ta-d
 
 
 # Playlist from fc-le-2.m3u : 8 stream(s) 
-# [last updated 31-01-2026 15:39 IST ([✓]API verified)] 
+# [last updated 31-01-2026 15:59 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-2.m3u 31-01-2026 15:39 IST ([✓]API verified) ★●----
-http://243.169.62.17/52272924
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-2.m3u 31-01-2026 15:59 IST ([✓]API verified) ★●----
+http://191.31.102.55/74695921
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140082_5928_GT_RLS_FC-Web_1769655566346.jpg" group-title="Fancode-Cricket", Rajasthan Lions vs Gurugram Thunders (World Legends Pro T20 League, 2026)
 https://in-mc-fdlive.fancode.com/mumbai/140082_english_hls_e6ba31439b63607_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/139399_CASACARDS_APP.png" group-title="Fancode-Football", Sydney FC vs Western Sydney Wanderers (A League 2025-26)
@@ -54,7 +54,7 @@ https://in-mc-fdlive.fancode.com/mumbai/140168_english_hls_735e4dbfcd78236_1ta-d
 # [last updated 31-01-2026 15:44 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-3.m3u 31-01-2026 15:44 IST ([✓]API verified) ★●----
-http://212.164.184.42/40277145
+http://166.86.171.75/10218808
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140082_5928_GT_RLS_FC-Web_1769655566346.jpg" group-title="Fancode-Cricket", Rajasthan Lions vs Gurugram Thunders (World Legends Pro T20 League- 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/140082_english_hls_e6ba31439b63607_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/139399_CASACARDS_APP.png" group-title="Fancode-Football", Sydney FC vs Western Sydney Wanderers (A League 2025-26)
@@ -77,7 +77,7 @@ https://bd-mc-fdlive.fancode.com/mumbai/140168_english_hls_735e4dbfcd78236_1ta-d
 # [last updated 31-01-2026 15:30 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-4.m3u 31-01-2026 15:30 IST ([✓]API verified) ★●----
-http://131.174.62.146/43875348
+http://183.85.123.44/33206284
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png" group-title="Fancode-Futsal", Kuwait vs Lebanon (AFC Futsal Asian Cup- 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/139898_english_hls_e73ad2fd6f57332_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png" group-title="Fancode-Futsal", Thailand vs Vietnam (AFC Futsal Asian Cup- 2026)
