@@ -1,22 +1,22 @@
 #EXTM3U
 
 # Playlist from sl-le-1.m3u : 2 stream(s) 
-# [last updated 01-02-2026 00:20 IST ([✓]API verified)] 
+# [last updated 01-02-2026 00:40 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-1.m3u 01-02-2026 00:20 IST ([✓]API verified) ★●----
-http://252.134.181.20/92018598
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-1.m3u 01-02-2026 00:40 IST ([✓]API verified) ★●----
+http://159.4.214.67/96568633
 #EXTINF:-1 tvg-id="1090502782" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014668/1769855535899643_Bundesliga_2025_26_Hamburger_SV_vs_Bayern_Munich_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Hamburger SV vs Bayern Munich - MD 20 - 31 Jan 2026
-https://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/master.m3u8?hdnea=exp=1769905802~acl=/*~id=81358414868689894218092496036514~hmac=bc4b6644059360d9ed7d2cd7eed8f8bc73a76baf803a514018cc7fcafd7ed834|User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; Haier MatrixTV EE; Build/UKN2.241219.053)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=46947c015db384aa0a886ca1a6600cc5-1769885400133
+https://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/master.m3u8?hdnea=exp=1769905802~acl=/*~id=81358414868689894218092496036514~hmac=bc4b6644059360d9ed7d2cd7eed8f8bc73a76baf803a514018cc7fcafd7ed834|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; W-K630-TRU; Build/RP1A.201005.001)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=01d11eeaca3ab5c937eddea76c44c540-1769886600151
 #EXTINF:-1 tvg-id="1090502759" tvg-name="ABB FIA Formula E World Championship" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013179/1767969000060690_ABB_FIA_FormulaE_WC2526_Round_3_Miami_EPRIX_final_Race_9jan_landscape_thumb.jpg" tvg-language="English" group-title="Racing",ENG | Round 3 - Miami E-Prix - Final Race - 31 Jan 2026
-https://sonymtmnew.akamaized.net/hls/live/2022322/DAI18ME-V3/master.m3u8?hdnea=exp=1769905802~acl=/*~id=81358414868689894218092496036514~hmac=bc4b6644059360d9ed7d2cd7eed8f8bc73a76baf803a514018cc7fcafd7ed834|User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; SM-A047F; Build/UP1A.231005.007)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=46947c015db384aa0a886ca1a6600cc5-1769885400133
+https://sonymtmnew.akamaized.net/hls/live/2022322/DAI18ME-V3/master.m3u8?hdnea=exp=1769905802~acl=/*~id=81358414868689894218092496036514~hmac=bc4b6644059360d9ed7d2cd7eed8f8bc73a76baf803a514018cc7fcafd7ed834|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SWTV-21AE; Build/RTM1.210315.047)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=01d11eeaca3ab5c937eddea76c44c540-1769886600151
 
 
 # Playlist from sl-le-2.m3u : 2 stream(s) 
-# [last updated 01-02-2026 00:33 IST ([✓]API verified)] 
+# [last updated 01-02-2026 00:43 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-2.m3u 01-02-2026 00:33 IST ([✓]API verified) ★●----
-http://220.4.21.144/39176629
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-2.m3u 01-02-2026 00:43 IST ([✓]API verified) ★●----
+http://89.24.24.31/27581349
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014668/1769855535899643_Bundesliga_2025_26_Hamburger_SV_vs_Bayern_Munich_landscape_thumb.jpg" group-title="sonyliv-Football", Hamburger SV vs Bayern Munich - MD 20 - 31 Jan 2026 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769929387~acl=/*~id=25418474940400791687268011079139~hmac=4ee7f2c1c28016ee2d9dc748c67a1451feeb5ce2896a1e5212e7759ee44df88a
+https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769929993~acl=/*~id=56100987527251429622729631871714~hmac=13c90e562612c01f5eba1ee219330957ce926a16e6c14e954141054360ed570f
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013179/1767969000060690_ABB_FIA_FormulaE_WC2526_Round_3_Miami_EPRIX_final_Race_9jan_landscape_thumb.jpg" group-title="sonyliv-Racing", Round 3 - Miami E-Prix - Final Race - 31 Jan 2026 [ENG] - ABB FIA Formula E World Championship
-https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769929387~acl=/*~id=25418474940400791687268011079139~hmac=4ee7f2c1c28016ee2d9dc748c67a1451feeb5ce2896a1e5212e7759ee44df88a
+https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769929993~acl=/*~id=56100987527251429622729631871714~hmac=13c90e562612c01f5eba1ee219330957ce926a16e6c14e954141054360ed570f
