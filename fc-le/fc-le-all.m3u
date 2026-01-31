@@ -1,10 +1,10 @@
 #EXTM3U
 
 # Playlist from fc-le-1.m3u : 11 stream(s) 
-# [last updated 31-01-2026 14:35 IST ([✓]API verified)] 
+# [last updated 31-01-2026 14:42 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 31-01-2026 14:35 IST ([✓]API verified) ★●----
-http://185.142.134.148/72405132
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 31-01-2026 14:42 IST ([✓]API verified) ★●----
+http://99.117.229.217/11340563
 #EXTINF:-1 tvg-id="140133" tvg-name="Ireland Vs United Arab Emirates" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-tour-of-UAE-old-match-card-.png" tvg-language="ENGLISH" group-title="Cricket",ENG | Ireland Vs United Arab Emirates
 https://in-mc-fdlive.fancode.com/mumbai/140133_english_hls_f6a6ca5d1458083_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140082" tvg-name="Rajasthan Lions Vs Gurugram Thunders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140082_5928_GT_RLS_FC-Web_1769655566346.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Rajasthan Lions Vs Gurugram Thunders
@@ -33,7 +33,7 @@ https://in-mc-fdlive.fancode.com/mumbai/139897_english_hls_8d0f8dbf7f58784_1ta-d
 # [last updated 31-01-2026 14:18 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-2.m3u 31-01-2026 14:18 IST ([✓]API verified) ★●----
-http://93.95.131.202/44125972
+http://242.32.145.3/69411090
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-tour-of-UAE-old-match-card-.png" group-title="Fancode-Cricket", Ireland vs United Arab Emirates (Ireland tour of United Arab Emirates, 2026)
 https://in-mc-fdlive.fancode.com/mumbai/140133_english_hls_f6a6ca5d1458083_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140082_5928_GT_RLS_FC-Web_1769655566346.jpg" group-title="Fancode-Cricket", Rajasthan Lions vs Gurugram Thunders (World Legends Pro T20 League, 2026)
@@ -60,7 +60,7 @@ https://in-mc-fdlive.fancode.com/mumbai/139897_english_hls_8d0f8dbf7f58784_1ta-d
 # [last updated 31-01-2026 14:23 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-3.m3u 31-01-2026 14:23 IST ([✓]API verified) ★●----
-http://178.191.61.72/95297489
+http://60.13.227.114/05538509
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-tour-of-UAE-old-match-card-.png" group-title="Fancode-Cricket", Ireland vs United Arab Emirates (Ireland tour of United Arab Emirates- 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/140133_english_hls_f6a6ca5d1458083_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140082_5928_GT_RLS_FC-Web_1769655566346.jpg" group-title="Fancode-Cricket", Rajasthan Lions vs Gurugram Thunders (World Legends Pro T20 League- 2026)
@@ -81,12 +81,3 @@ https://bd-mc-fdlive.fancode.com/mumbai/140328_english_hls_d4b56037b620347_1ta-d
 https://bd-mc-fdlive.fancode.com/mumbai/139898_english_hls_e73ad2fd6f57332_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png" group-title="Fancode-Futsal", Thailand vs Vietnam (AFC Futsal Asian Cup- 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/139897_english_hls_8d0f8dbf7f58784_1ta-di_h264/index.m3u8
-
-
-# Playlist from fc-le-4.m3u : 1 stream(s) 
-# [last updated 31-01-2026 14:13 IST ([✓]API verified)] 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-4.m3u 31-01-2026 14:13 IST ([✓]API verified) ★●----
-http://234.136.202.122/18253322
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138759_5800_CTB_ND_fc-web_1766641251700.jpg" group-title="Fancode-Cricket", Canterbury vs Northern Districts (Super Smash- 2025-26)
-https://bd-mc-fdlive.fancode.com/mumbai/138762_english_hls_ca9a13406282789_1ta-di_h264/index.m3u8
