@@ -4,7 +4,7 @@
 # [last updated 31-01-2026 23:20 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-1.m3u 31-01-2026 23:20 IST ([✓]API verified) ★●----
-http://26.182.197.122/42793173
+http://126.57.41.165/80653261
 #EXTINF:-1 tvg-id="1090502782" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014668/1769855535899643_Bundesliga_2025_26_Hamburger_SV_vs_Bayern_Munich_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Hamburger SV vs Bayern Munich - MD 20 - 31 Jan 2026
 https://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/master.m3u8?hdnea=exp=1769905802~acl=/*~id=81358414868689894218092496036514~hmac=bc4b6644059360d9ed7d2cd7eed8f8bc73a76baf803a514018cc7fcafd7ed834|User-Agent=com.sonyliv/6.22.4 (Android 7; en_GB; KB2001; Build/RP1A.201005.001)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8f8794440211b315835e1463a29f665d-1769880600162
 #EXTINF:-1 tvg-id="1090502681" tvg-name="World Legends Pro T20 League 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014664/176985276588391_WLPL26_Dubai-Royals-vs-Pune-Panthers_landscape_thumb.jpg" tvg-language="English" group-title="Cricket",ENG | Dubai Royals vs Pune Panthers - 31 Jan 2026
@@ -23,7 +23,7 @@ https://sonymtmnew.akamaized.net/hls/live/2022322/DAI18ME-V3/master.m3u8?hdnea=e
 # [last updated 31-01-2026 23:42 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-2.m3u 31-01-2026 23:42 IST ([✓]API verified) ★●----
-http://241.230.95.100/41543659
+http://148.74.193.156/04086655
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014668/1769855535899643_Bundesliga_2025_26_Hamburger_SV_vs_Bayern_Munich_landscape_thumb.jpg" group-title="sonyliv-Football", Hamburger SV vs Bayern Munich - MD 20 - 31 Jan 2026 [ENG] - Bundesliga 2025-26
 https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769926359~acl=/*~id=16107064686660819726548959404333~hmac=d31e680f51c88d784f4b119903a0c00c0104f8f296d7ef9c6b559260c38dc9d6
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013179/1767969000060690_ABB_FIA_FormulaE_WC2526_Round_3_Miami_EPRIX_final_Race_9jan_landscape_thumb.jpg" group-title="sonyliv-Racing", Round 3 - Miami E-Prix - Final Race - 31 Jan 2026 [ENG] - ABB FIA Formula E World Championship
