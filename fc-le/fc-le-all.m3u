@@ -1,10 +1,10 @@
 #EXTM3U
 
 # Playlist from fc-le-1.m3u : 12 stream(s) 
-# [last updated 01-02-2026 01:56 IST ([✓]API verified)] 
+# [last updated 01-02-2026 02:00 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 01-02-2026 01:56 IST ([✓]API verified) ★●----
-http://141.162.233.21/50250811
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 01-02-2026 02:00 IST ([✓]API verified) ★●----
+http://222.175.18.248/13363401
 #EXTINF:-1 tvg-id="139771" tvg-name="Trinidad And Tobago Women Vs Barbados Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-Super-50-Cup-2026_Old_match-card_2025_FC-WEB_1-(1).jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Trinidad And Tobago Women Vs Barbados Women
 https://in-mc-fdlive.fancode.com/mumbai/139771_english_hls_c91209300573504_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139770" tvg-name="Leeward Islands Women Vs Jamaica Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-Super-50-Cup-2026_Old_match-card_2025_FC-WEB_2-(1).jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Leeward Islands Women Vs Jamaica Women
@@ -35,7 +35,7 @@ https://in-mc-fdlive.fancode.com/mumbai/140030_english_hls_2df3d9260570747_1ta-d
 # [last updated 01-02-2026 01:48 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-2.m3u 01-02-2026 01:48 IST ([✓]API verified) ★●----
-http://125.100.10.90/94504589
+http://110.115.112.114/93407272
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-Super-50-Cup-2026_Old_match-card_2025_FC-WEB_1-(1).jpg" group-title="Fancode-Cricket", Trinidad and Tobago Women vs Barbados Women (CG United Women's Super 50 Cup 2026)
 https://in-mc-fdlive.fancode.com/mumbai/139771_english_hls_c91209300573504_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-Super-50-Cup-2026_Old_match-card_2025_FC-WEB_2-(1).jpg" group-title="Fancode-Cricket", Leeward Islands Women vs Jamaica Women (CG United Women's Super 50 Cup 2026)
@@ -62,7 +62,7 @@ https://in-mc-fdlive.fancode.com/mumbai/140030_english_hls_2df3d9260570747_1ta-d
 # [last updated 01-02-2026 01:45 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-3.m3u 01-02-2026 01:45 IST ([✓]API verified) ★●----
-http://209.139.19.153/79109319
+http://207.80.81.93/35328628
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-Super-50-Cup-2026_Old_match-card_2025_FC-WEB_1-(1).jpg" group-title="Fancode-Cricket", Trinidad and Tobago Women vs Barbados Women (CG United Women's Super 50 Cup 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/139771_english_hls_c91209300573504_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-Super-50-Cup-2026_Old_match-card_2025_FC-WEB_2-(1).jpg" group-title="Fancode-Cricket", Leeward Islands Women vs Jamaica Women (CG United Women's Super 50 Cup 2026)
@@ -91,6 +91,6 @@ https://bd-mc-fdlive.fancode.com/mumbai/140030_english_hls_2df3d9260570747_1ta-d
 # [last updated 01-02-2026 01:29 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-4.m3u 01-02-2026 01:29 IST ([✓]API verified) ★●----
-http://202.109.196.65/90507028
+http://53.175.189.183/48387071
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131040_5427_LE_ATL_FC-Web.png" group-title="Fancode-Football", Levante vs Atletico de Madrid (LALIGA 2025-26)
 https://bd-mc-fdlive.fancode.com/mumbai/131040_english_hls_86a8497dc77036_1ta-di_h264/index.m3u8
