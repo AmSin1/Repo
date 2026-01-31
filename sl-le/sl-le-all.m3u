@@ -4,7 +4,7 @@
 # [last updated 31-01-2026 19:40 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-1.m3u 31-01-2026 19:40 IST ([✓]API verified) ★●----
-http://130.16.87.165/94741559
+http://86.17.157.159/92770130
 #EXTINF:-1 tvg-id="1090492547" tvg-name="Indian Idol" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014680/1769862987560968_IndianIdol_S16_31jan26_simulcast_landscape_thumb.jpg" tvg-language="Hindi" group-title="Reality, Music",HIN | Indian Idol
 https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-II/master.m3u8?hdnea=exp=1769905802~acl=/*~id=81358414868689894218092496036514~hmac=bc4b6644059360d9ed7d2cd7eed8f8bc73a76baf803a514018cc7fcafd7ed834|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; AKAI  SMART TV; Build/RTM8.240401.091)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a6e03b4ff70325ca50a0f6ab29315691-1769868600128
 #EXTINF:-1 tvg-id="1090502681" tvg-name="World Legends Pro T20 League 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014664/176985276588391_WLPL26_Dubai-Royals-vs-Pune-Panthers_landscape_thumb.jpg" tvg-language="English" group-title="Cricket",ENG | Dubai Royals vs Pune Panthers - 31 Jan 2026
@@ -35,7 +35,7 @@ https://sonymtmnew.akamaized.net/hls/live/2022322/DAI18ME-V3/master.m3u8?hdnea=e
 # [last updated 31-01-2026 19:49 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-2.m3u 31-01-2026 19:49 IST ([✓]API verified) ★●----
-http://131.84.172.28/85533957
+http://18.248.42.63/93900348
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014664/176985276588391_WLPL26_Dubai-Royals-vs-Pune-Panthers_landscape_thumb.jpg" group-title="sonyliv-Cricket", Dubai Royals vs Pune Panthers - 31 Jan 2026 [ENG] - World Legends Pro T20 League 2026
 https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769912366~acl=/*~id=32299539975728527228663101497903~hmac=4624a9c39ee93ca20060536cdc42f829f6f0277b08aa5ca5a50189c6574b8447
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014664/176985276588391_WLPL26_Dubai-Royals-vs-Pune-Panthers_landscape_thumb.jpg" group-title="sonyliv-Cricket", Dubai Royals vs Pune Panthers - 31 Jan 2026 [HIN] - World Legends Pro T20 League 2026
