@@ -4,7 +4,7 @@
 # [last updated 31-01-2026 21:00 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-1.m3u 31-01-2026 21:00 IST ([✓]API verified) ★●----
-http://69.75.109.81/44149335
+http://66.156.130.196/77938613
 #EXTINF:-1 tvg-id="1090492547" tvg-name="Indian Idol" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014680/1769862987560968_IndianIdol_S16_31jan26_simulcast_landscape_thumb.jpg" tvg-language="Hindi" group-title="Reality, Music",HIN | Indian Idol
 https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-II/master.m3u8?hdnea=exp=1769905802~acl=/*~id=81358414868689894218092496036514~hmac=bc4b6644059360d9ed7d2cd7eed8f8bc73a76baf803a514018cc7fcafd7ed834|User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; RMX3521; Build/RKQ1.211119.001)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9f07186937a6aa4f0d5a628414611aee-1769873400190
 #EXTINF:-1 tvg-id="1090502681" tvg-name="World Legends Pro T20 League 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014664/176985276588391_WLPL26_Dubai-Royals-vs-Pune-Panthers_landscape_thumb.jpg" tvg-language="English" group-title="Cricket",ENG | Dubai Royals vs Pune Panthers - 31 Jan 2026
@@ -29,30 +29,28 @@ https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-V3/master.m3u8?hdnea=e
 https://sonymtmnew.akamaized.net/hls/live/2022322/DAI18ME-V3/master.m3u8?hdnea=exp=1769905802~acl=/*~id=81358414868689894218092496036514~hmac=bc4b6644059360d9ed7d2cd7eed8f8bc73a76baf803a514018cc7fcafd7ed834|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; Toshiba TV; Build/RTM9.241015.196)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9f07186937a6aa4f0d5a628414611aee-1769873400190
 
 
-# Playlist from sl-le-2.m3u : 11 stream(s) 
-# [last updated 31-01-2026 19:59 IST ([✓]API verified)] 
+# Playlist from sl-le-2.m3u : 10 stream(s) 
+# [last updated 31-01-2026 21:10 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-2.m3u 31-01-2026 19:59 IST ([✓]API verified) ★●----
-http://212.195.133.87/68856995
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-2.m3u 31-01-2026 21:10 IST ([✓]API verified) ★●----
+http://159.93.139.122/11226153
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014664/176985276588391_WLPL26_Dubai-Royals-vs-Pune-Panthers_landscape_thumb.jpg" group-title="sonyliv-Cricket", Dubai Royals vs Pune Panthers - 31 Jan 2026 [ENG] - World Legends Pro T20 League 2026
-https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769912976~acl=/*~id=16924724202279154147067385766157~hmac=e67d87fe996ed042cc0d694f4bafc9ebc34bf960b7782c38d9b8c887dc4d7f59
+https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769917241~acl=/*~id=26677627323557751537215642773896~hmac=65f826704406df58112d6a23af851c5231c02ad90047c8801896df4e8a4c728b
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014664/176985276588391_WLPL26_Dubai-Royals-vs-Pune-Panthers_landscape_thumb.jpg" group-title="sonyliv-Cricket", Dubai Royals vs Pune Panthers - 31 Jan 2026 [HIN] - World Legends Pro T20 League 2026
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769912976~acl=/*~id=16924724202279154147067385766157~hmac=e67d87fe996ed042cc0d694f4bafc9ebc34bf960b7782c38d9b8c887dc4d7f59
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769917241~acl=/*~id=26677627323557751537215642773896~hmac=65f826704406df58112d6a23af851c5231c02ad90047c8801896df4e8a4c728b
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014076/1769163595027392_Bundesliga_2025_26_Eintracht_Frankfurt_vs_Bayer_Leverkusen_landscape_thumb.jpg" group-title="sonyliv-Football", Eintracht Frankfurt vs Bayer Leverkusen - MD 20 - 31 Jan 2026 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769912976~acl=/*~id=16924724202279154147067385766157~hmac=e67d87fe996ed042cc0d694f4bafc9ebc34bf960b7782c38d9b8c887dc4d7f59
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014659/1769851002511792_WPL26_Mumbai-vs-Bengaluru_landscape_thumb.jpg" group-title="sonyliv-Pickleball", Mumbai Pickle Power vs Bengaluru Jawans - 31 Jan 2026 [ENG] - World Pickleball League 2026
-https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769912976~acl=/*~id=16924724202279154147067385766157~hmac=e67d87fe996ed042cc0d694f4bafc9ebc34bf960b7782c38d9b8c887dc4d7f59
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769917241~acl=/*~id=26677627323557751537215642773896~hmac=65f826704406df58112d6a23af851c5231c02ad90047c8801896df4e8a4c728b
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014520/1769732526010414_pwl_SemiFinal_Semi-Final-2-DelhiDangalWarriors_vs_MaharashtraKesari_Landscapet_thumb.jpg" group-title="sonyliv-Wrestling", Delhi Dangal Warriors vs Maharashtra Kesari - 31 Jan 2026 [ENG] - Pro Wrestling League 2026
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769912976~acl=/*~id=16924724202279154147067385766157~hmac=e67d87fe996ed042cc0d694f4bafc9ebc34bf960b7782c38d9b8c887dc4d7f59
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769917241~acl=/*~id=26677627323557751537215642773896~hmac=65f826704406df58112d6a23af851c5231c02ad90047c8801896df4e8a4c728b
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014520/1769732526010414_pwl_SemiFinal_Semi-Final-2-DelhiDangalWarriors_vs_MaharashtraKesari_Landscapet_thumb.jpg" group-title="sonyliv-Wrestling", Delhi Dangal Warriors vs Maharashtra Kesari - 31 Jan 2026 [HIN] - Pro Wrestling League 2026
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769912976~acl=/*~id=16924724202279154147067385766157~hmac=e67d87fe996ed042cc0d694f4bafc9ebc34bf960b7782c38d9b8c887dc4d7f59
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769917241~acl=/*~id=26677627323557751537215642773896~hmac=65f826704406df58112d6a23af851c5231c02ad90047c8801896df4e8a4c728b
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014076/1769165101192392_Bundesliga_2025_26_RB_Leipzig_vs_Mainz_landscape_thumb.jpg" group-title="sonyliv-Football", RB Leipzig vs Mainz - MD 20 - 31 Jan 2026 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769912976~acl=/*~id=16924724202279154147067385766157~hmac=e67d87fe996ed042cc0d694f4bafc9ebc34bf960b7782c38d9b8c887dc4d7f59
+https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769917241~acl=/*~id=26677627323557751537215642773896~hmac=65f826704406df58112d6a23af851c5231c02ad90047c8801896df4e8a4c728b
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014076/1769165977074392_Bundesliga_2025_26_Werder_Bremen_vs_Borussia_Mgladbach_landscape_thumb.jpg" group-title="sonyliv-Football", Werder Bremen vs Borussia M'gladbach - MD 20 - 31 Jan 2026 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769912976~acl=/*~id=16924724202279154147067385766157~hmac=e67d87fe996ed042cc0d694f4bafc9ebc34bf960b7782c38d9b8c887dc4d7f59
+https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769917241~acl=/*~id=26677627323557751537215642773896~hmac=65f826704406df58112d6a23af851c5231c02ad90047c8801896df4e8a4c728b
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014076/1769163814693392_Bundesliga_2025_26_FC-Augsburg_vs_St_Pauli_landscape_thumb.jpg" group-title="sonyliv-Football", FC Augsburg vs St. Pauli - MD 20 - 31 Jan 2026 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769912976~acl=/*~id=16924724202279154147067385766157~hmac=e67d87fe996ed042cc0d694f4bafc9ebc34bf960b7782c38d9b8c887dc4d7f59
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769917241~acl=/*~id=26677627323557751537215642773896~hmac=65f826704406df58112d6a23af851c5231c02ad90047c8801896df4e8a4c728b
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014076/1769165745837392_Bundesliga_2025_26_Hoffenheim_vs_Union-Berlin_landscape_thumb.jpg" group-title="sonyliv-Football", Hoffenheim vs Union Berlin - MD 20 - 31 Jan 2026 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769912976~acl=/*~id=16924724202279154147067385766157~hmac=e67d87fe996ed042cc0d694f4bafc9ebc34bf960b7782c38d9b8c887dc4d7f59
+https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769917241~acl=/*~id=26677627323557751537215642773896~hmac=65f826704406df58112d6a23af851c5231c02ad90047c8801896df4e8a4c728b
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013179/1767969009718690_ABB_FIA_FormulaE_WC2526_Round_3_Miami_EPRIX_Qualifying_Race_9jan_landscape_thumb.jpg" group-title="sonyliv-Racing", Round 3 - Miami E-Prix - Qualifying Race - 31 Jan 2026 [ENG] - ABB FIA Formula E World Championship
-https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769912976~acl=/*~id=16924724202279154147067385766157~hmac=e67d87fe996ed042cc0d694f4bafc9ebc34bf960b7782c38d9b8c887dc4d7f59
+https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769917241~acl=/*~id=26677627323557751537215642773896~hmac=65f826704406df58112d6a23af851c5231c02ad90047c8801896df4e8a4c728b
