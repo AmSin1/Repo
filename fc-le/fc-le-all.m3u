@@ -1,10 +1,10 @@
 #EXTM3U
 
-# Playlist from fc-le-1.m3u : 9 stream(s) 
-# [last updated 31-01-2026 20:00 IST ([✓]API verified)] 
+# Playlist from fc-le-1.m3u : 8 stream(s) 
+# [last updated 31-01-2026 20:07 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 31-01-2026 20:00 IST ([✓]API verified) ★●----
-http://172.82.12.184/07417889
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 31-01-2026 20:07 IST ([✓]API verified) ★●----
+http://127.58.201.96/14022296
 #EXTINF:-1 tvg-id="140083" tvg-name="Pune Panthers Vs Dubai Royals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140083_5928_DR_PPT_FC-Web_1769805880964.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Pune Panthers Vs Dubai Royals
 https://in-mc-fdlive.fancode.com/mumbai/140083_english_hls_1c689b86ca82425_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140083" tvg-name="Pune Panthers Vs Dubai Royals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140083_5928_DR_PPT_FC-Web_1769805880964.jpg" tvg-language="HINDI" group-title="Cricket",HIN | Pune Panthers Vs Dubai Royals
@@ -21,15 +21,13 @@ https://in-mc-fdlive.fancode.com/mumbai/139769_english_hls_fc8cb32e1e37514_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/131043_english_hls_256ceeb3e71542_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140168" tvg-name="Day 4   Centre Court" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1769529100515.png" tvg-language="ENGLISH" group-title="Live Events",ENG | Day 4   Centre Court
 https://in-mc-fdlive.fancode.com/mumbai/140168_english_hls_735e4dbfcd78236_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="139346" tvg-name="Stoke City F.c. Vs Southampton F.c." tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139346_5489_STK_SOU_FC-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Stoke City F.c. Vs Southampton F.c.
-https://in-mc-fdlive.fancode.com/mumbai/139346_english_hls_8111e79aee87560_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 
 
 # Playlist from fc-le-2.m3u : 8 stream(s) 
 # [last updated 31-01-2026 19:43 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-2.m3u 31-01-2026 19:43 IST ([✓]API verified) ★●----
-http://3.99.106.108/78436100
+http://205.146.186.87/68099113
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140083_5928_DR_PPT_FC-Web_1769805880964.jpg" group-title="Fancode-Cricket", Pune Panthers vs Dubai Royals (World Legends Pro T20 League, 2026)
 https://in-mc-fdlive.fancode.com/mumbai/140083_english_hls_1c689b86ca82425_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg" group-title="Fancode-Cricket", Ajman vs Abu Dhabi (Emirates D10, 2026)
@@ -52,7 +50,7 @@ https://in-mc-fdlive.fancode.com/mumbai/140168_english_hls_735e4dbfcd78236_1ta-d
 # [last updated 31-01-2026 19:48 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-3.m3u 31-01-2026 19:48 IST ([✓]API verified) ★●----
-http://0.245.10.28/18547299
+http://162.72.200.202/62700382
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140083_5928_DR_PPT_FC-Web_1769805880964.jpg" group-title="Fancode-Cricket", Pune Panthers vs Dubai Royals (World Legends Pro T20 League- 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/140083_english_hls_1c689b86ca82425_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg" group-title="Fancode-Cricket", Ajman vs Abu Dhabi (Emirates D10- 2026)
