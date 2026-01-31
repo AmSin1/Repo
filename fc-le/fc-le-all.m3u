@@ -1,10 +1,10 @@
 #EXTM3U
 
 # Playlist from fc-le-1.m3u : 8 stream(s) 
-# [last updated 31-01-2026 12:35 IST ([✓]API verified)] 
+# [last updated 31-01-2026 12:56 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 31-01-2026 12:35 IST ([✓]API verified) ★●----
-http://63.242.47.214/17784940
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 31-01-2026 12:56 IST ([✓]API verified) ★●----
+http://37.58.212.96/97218262
 #EXTINF:-1 tvg-id="138762" tvg-name="Canterbury Vs Northern Districts" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138759_5800_CTB_ND_fc-web_1766641251700.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Canterbury Vs Northern Districts
 https://in-mc-fdlive.fancode.com/mumbai/138762_english_hls_ca9a13406282789_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140133" tvg-name="Ireland Vs United Arab Emirates" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-tour-of-UAE-old-match-card-.png" tvg-language="ENGLISH" group-title="Cricket",ENG | Ireland Vs United Arab Emirates
@@ -27,7 +27,7 @@ https://in-mc-fdlive.fancode.com/mumbai/140328_english_hls_d4b56037b620347_1ta-d
 # [last updated 31-01-2026 11:26 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-2.m3u 31-01-2026 11:26 IST ([✓]API verified) ★●----
-http://198.190.243.143/46019283
+http://143.33.247.226/22872743
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138759_5800_CTB_ND_fc-web_1766641251700.jpg" group-title="Fancode-Cricket", Canterbury vs Northern Districts (Super Smash, 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/138762_english_hls_ca9a13406282789_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-tour-of-UAE-old-match-card-.png" group-title="Fancode-Cricket", Ireland vs United Arab Emirates (Ireland tour of United Arab Emirates, 2026)
@@ -50,7 +50,7 @@ https://in-mc-fdlive.fancode.com/mumbai/140328_english_hls_d4b56037b620347_1ta-d
 # [last updated 31-01-2026 11:28 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-3.m3u 31-01-2026 11:28 IST ([✓]API verified) ★●----
-http://95.13.135.139/89256335
+http://35.3.211.179/15362567
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138759_5800_CTB_ND_fc-web_1766641251700.jpg" group-title="Fancode-Cricket", Canterbury vs Northern Districts (Super Smash- 2025-26)
 https://bd-mc-fdlive.fancode.com/mumbai/138762_english_hls_ca9a13406282789_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-tour-of-UAE-old-match-card-.png" group-title="Fancode-Cricket", Ireland vs United Arab Emirates (Ireland tour of United Arab Emirates- 2026)
