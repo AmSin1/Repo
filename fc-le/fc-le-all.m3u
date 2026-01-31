@@ -1,10 +1,10 @@
 #EXTM3U
 
-# Playlist from fc-le-1.m3u : 9 stream(s) 
-# [last updated 31-01-2026 13:14 IST ([✓]API verified)] 
+# Playlist from fc-le-1.m3u : 10 stream(s) 
+# [last updated 31-01-2026 13:21 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 31-01-2026 13:14 IST ([✓]API verified) ★●----
-http://26.21.136.74/86459537
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 31-01-2026 13:21 IST ([✓]API verified) ★●----
+http://33.202.62.129/01271767
 #EXTINF:-1 tvg-id="138762" tvg-name="Canterbury Vs Northern Districts" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138759_5800_CTB_ND_fc-web_1766641251700.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Canterbury Vs Northern Districts
 https://in-mc-fdlive.fancode.com/mumbai/138762_english_hls_ca9a13406282789_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140133" tvg-name="Ireland Vs United Arab Emirates" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-tour-of-UAE-old-match-card-.png" tvg-language="ENGLISH" group-title="Cricket",ENG | Ireland Vs United Arab Emirates
@@ -23,13 +23,15 @@ https://in-mc-fdlive.fancode.com/mumbai/140329_english_hls_4a364dcc6012120_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/140328_english_hls_d4b56037b620347_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139898" tvg-name="Kuwait Vs Lebanon" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png" tvg-language="ENGLISH" group-title="Futsal",ENG | Kuwait Vs Lebanon
 https://in-mc-fdlive.fancode.com/mumbai/139898_english_hls_e73ad2fd6f57332_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="139897" tvg-name="Thailand Vs Vietnam" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png" tvg-language="ENGLISH" group-title="Futsal",ENG | Thailand Vs Vietnam
+https://in-mc-fdlive.fancode.com/mumbai/139897_english_hls_8d0f8dbf7f58784_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 
 
 # Playlist from fc-le-2.m3u : 8 stream(s) 
 # [last updated 31-01-2026 11:26 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-2.m3u 31-01-2026 11:26 IST ([✓]API verified) ★●----
-http://34.175.9.208/02538214
+http://152.245.173.69/00396258
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138759_5800_CTB_ND_fc-web_1766641251700.jpg" group-title="Fancode-Cricket", Canterbury vs Northern Districts (Super Smash, 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/138762_english_hls_ca9a13406282789_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-tour-of-UAE-old-match-card-.png" group-title="Fancode-Cricket", Ireland vs United Arab Emirates (Ireland tour of United Arab Emirates, 2026)
@@ -52,7 +54,7 @@ https://in-mc-fdlive.fancode.com/mumbai/140328_english_hls_d4b56037b620347_1ta-d
 # [last updated 31-01-2026 11:28 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-3.m3u 31-01-2026 11:28 IST ([✓]API verified) ★●----
-http://152.82.15.44/81655757
+http://246.48.167.99/48242641
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138759_5800_CTB_ND_fc-web_1766641251700.jpg" group-title="Fancode-Cricket", Canterbury vs Northern Districts (Super Smash- 2025-26)
 https://bd-mc-fdlive.fancode.com/mumbai/138762_english_hls_ca9a13406282789_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-tour-of-UAE-old-match-card-.png" group-title="Fancode-Cricket", Ireland vs United Arab Emirates (Ireland tour of United Arab Emirates- 2026)
