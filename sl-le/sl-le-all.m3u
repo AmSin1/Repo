@@ -4,7 +4,7 @@
 # [last updated 31-01-2026 13:00 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-1.m3u 31-01-2026 13:00 IST ([✓]API verified) ★●----
-http://145.170.93.135/52562435
+http://53.115.39.13/84262346
 #EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014575/1769774583494206_AO26_final_stream1_30jan_landscape_thumb.jpg" tvg-language="English" group-title="Tennis",ENG | Stream 1 - 31 Jan 2026
 https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-AO/master.m3u8?hdnea=exp=1769862601~acl=/*~id=94023811122499002538687116489496~hmac=a0d208c289517bdd12280c5d896db80551e159267f5b2a69d5d790a493c387fa|User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; STK-L22; Build/HONORSTK-L22)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=53b7527e902c758fc9bf8d5faa33865c-1769844600144
 #EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014575/1769774583494206_AO26_final_stream1_30jan_landscape_thumb.jpg" tvg-language="Hindi" group-title="Tennis",HIN | Stream 1 - 31 Jan 2026
@@ -22,21 +22,21 @@ https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-AO/master.m3u8?hdnea=e
 
 
 # Playlist from sl-le-2.m3u : 7 stream(s) 
-# [last updated 31-01-2026 12:54 IST ([✓]API verified)] 
+# [last updated 31-01-2026 13:04 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-2.m3u 31-01-2026 12:54 IST ([✓]API verified) ★●----
-http://206.220.15.148/86911683
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014575/1769774583494206_AO26_final_stream1_30jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Stream 1 - 31 Jan 2026 [ENG] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769887481~acl=/*~id=64368449984615642047121548039818~hmac=a6fdd6e6e97f5baa82429fda4b461d90556a26c40165709d04c23228a2c28293
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014575/1769774583494206_AO26_final_stream1_30jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Stream 1 - 31 Jan 2026 [HIN] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769887481~acl=/*~id=64368449984615642047121548039818~hmac=a6fdd6e6e97f5baa82429fda4b461d90556a26c40165709d04c23228a2c28293
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014575/1769774583494206_AO26_final_stream1_30jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Stream 1 - 31 Jan 2026 [TAM] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769887481~acl=/*~id=64368449984615642047121548039818~hmac=a6fdd6e6e97f5baa82429fda4b461d90556a26c40165709d04c23228a2c28293
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014575/1769774583494206_AO26_final_stream1_30jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Stream 1 - 31 Jan 2026 [TEL] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769887481~acl=/*~id=64368449984615642047121548039818~hmac=a6fdd6e6e97f5baa82429fda4b461d90556a26c40165709d04c23228a2c28293
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-2.m3u 31-01-2026 13:04 IST ([✓]API verified) ★●----
+http://146.222.125.177/32395723
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014561/1769771393202979_studio_show_30jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Stream 1 - 31 Jan 2026 [ENG] - Australian Open 2026
+https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769888088~acl=/*~id=47819648212540361678634132663488~hmac=dded7cf9f4a74a3e5f9497a912301ad2c60d7d00d2b7356f3a7efa37168252ce
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014561/1769771393202979_studio_show_30jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Stream 1 - 31 Jan 2026 [HIN] - Australian Open 2026
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769888088~acl=/*~id=47819648212540361678634132663488~hmac=dded7cf9f4a74a3e5f9497a912301ad2c60d7d00d2b7356f3a7efa37168252ce
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014561/1769771393202979_studio_show_30jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Stream 1 - 31 Jan 2026 [TAM] - Australian Open 2026
+https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769888088~acl=/*~id=47819648212540361678634132663488~hmac=dded7cf9f4a74a3e5f9497a912301ad2c60d7d00d2b7356f3a7efa37168252ce
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014561/1769771393202979_studio_show_30jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Stream 1 - 31 Jan 2026 [TEL] - Australian Open 2026
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769888088~acl=/*~id=47819648212540361678634132663488~hmac=dded7cf9f4a74a3e5f9497a912301ad2c60d7d00d2b7356f3a7efa37168252ce
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014625/1769816489071275_SS_mens_FINAL_Northen-Districts-V-Canterbury-Kings_Landscape_thumb.jpg" group-title="sonyliv-Cricket", Northen Brave vs Canterbury Kings - Final - 31 Jan 2026 [ENG] - Super Smash 2025/26 Men's
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769887481~acl=/*~id=64368449984615642047121548039818~hmac=a6fdd6e6e97f5baa82429fda4b461d90556a26c40165709d04c23228a2c28293
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769888088~acl=/*~id=47819648212540361678634132663488~hmac=dded7cf9f4a74a3e5f9497a912301ad2c60d7d00d2b7356f3a7efa37168252ce
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014647/1769843354622671_AO26_Final_Margaret_Court_Arena_Landscape_thumb.jpg" group-title="sonyliv-Tennis", Martin De la Puente vs Tokito Oda - 31 Jan 2026 [ENG] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769887481~acl=/*~id=64368449984615642047121548039818~hmac=a6fdd6e6e97f5baa82429fda4b461d90556a26c40165709d04c23228a2c28293
+https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769888088~acl=/*~id=47819648212540361678634132663488~hmac=dded7cf9f4a74a3e5f9497a912301ad2c60d7d00d2b7356f3a7efa37168252ce
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014573/1769774281955989_AO26_final_stream2_30jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Stream 2 - 31 Jan 2026 [ENG] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769887481~acl=/*~id=64368449984615642047121548039818~hmac=a6fdd6e6e97f5baa82429fda4b461d90556a26c40165709d04c23228a2c28293
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769888088~acl=/*~id=47819648212540361678634132663488~hmac=dded7cf9f4a74a3e5f9497a912301ad2c60d7d00d2b7356f3a7efa37168252ce
