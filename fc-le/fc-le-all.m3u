@@ -1,10 +1,10 @@
 #EXTM3U
 
 # Playlist from fc-le-1.m3u : 8 stream(s) 
-# [last updated 01-02-2026 03:21 IST ([✓]API verified)] 
+# [last updated 01-02-2026 03:28 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 01-02-2026 03:21 IST ([✓]API verified) ★●----
-http://17.40.205.59/76373063
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 01-02-2026 03:28 IST ([✓]API verified) ★●----
+http://108.134.30.167/28349819
 #EXTINF:-1 tvg-id="131041" tvg-name="Elche Cf Vs Fc Barcelona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131041_5427_ELC_BAR_FC-Web.png" tvg-language="ENGLISH" group-title="Football",ENG | Elche Cf Vs Fc Barcelona
 https://in-mc-fdlive.fancode.com/mumbai/131041_english_hls_3cab0967848633_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="131041" tvg-name="Elche Cf Vs Fc Barcelona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131041_5427_ELC_BAR_FC-Web.png" tvg-language="HINDI" group-title="Football",HIN | Elche Cf Vs Fc Barcelona
@@ -27,7 +27,7 @@ https://in-mc-fdlive.fancode.com/mumbai/140030_english_hls_2df3d9260570747_1ta-d
 # [last updated 01-02-2026 03:09 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-2.m3u 01-02-2026 03:09 IST ([✓]API verified) ★●----
-http://232.230.21.12/29983497
+http://167.10.72.73/32935735
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131041_5427_ELC_BAR_FC-Web.png" group-title="Fancode-Football", Elche CF vs FC Barcelona (LALIGA 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/131041_english_hls_3cab0967848633_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" group-title="Fancode-Golf", Main Feed - Day 3 vs Torrey Pines Golf Course (Farmers Insurance Open 2026)
@@ -46,7 +46,7 @@ https://in-mc-fdlive.fancode.com/mumbai/140030_english_hls_2df3d9260570747_1ta-d
 # [last updated 01-02-2026 03:17 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-3.m3u 01-02-2026 03:17 IST ([✓]API verified) ★●----
-http://117.26.128.72/71771549
+http://44.99.213.64/95855560
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131041_5427_ELC_BAR_FC-Web.png" group-title="Fancode-Football", Elche CF vs FC Barcelona (LALIGA 2025-26)
 https://bd-mc-fdlive.fancode.com/mumbai/131041_english_hls_3cab0967848633_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" group-title="Fancode-Golf", Main Feed - Day 3 vs Torrey Pines Golf Course (Farmers Insurance Open 2026)
