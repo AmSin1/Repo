@@ -4,7 +4,7 @@
 # [last updated 31-01-2026 10:40 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-1.m3u 31-01-2026 10:40 IST ([✓]API verified) ★●----
-http://255.101.43.32/54108395
+http://71.138.253.142/48692628
 #EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014624/1769813999455209_AO2026_Landscape_Thumb_Mens_Doubles_Kubler_Polmans_vs_Harrison_Skupsi_SP.jpg" tvg-language="English" group-title="Tennis",ENG | Kubler/Polmans vs Harrison/Skupsi - Final - 31 Jan 2026
 https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-AO/master.m3u8?hdnea=exp=1769862601~acl=/*~id=94023811122499002538687116489496~hmac=a0d208c289517bdd12280c5d896db80551e159267f5b2a69d5d790a493c387fa|User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; Lenovo TB-X605FC; Build/QKQ1.200216.002)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=d8a238d5148a2e41176ed365d425e38c-1769836200115
 #EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014624/1769813999455209_AO2026_Landscape_Thumb_Mens_Doubles_Kubler_Polmans_vs_Harrison_Skupsi_SP.jpg" tvg-language="Hindi" group-title="Tennis",HIN | Kubler/Polmans vs Harrison/Skupsi - Final - 31 Jan 2026
@@ -22,21 +22,21 @@ https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-AO/master.m3u8?hdnea=e
 
 
 # Playlist from sl-le-2.m3u : 7 stream(s) 
-# [last updated 31-01-2026 10:43 IST ([✓]API verified)] 
+# [last updated 31-01-2026 10:53 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-2.m3u 31-01-2026 10:43 IST ([✓]API verified) ★●----
-http://161.106.232.126/57704869
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-2.m3u 31-01-2026 10:53 IST ([✓]API verified) ★●----
+http://239.23.149.85/92255744
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014624/1769813999455209_AO2026_Landscape_Thumb_Mens_Doubles_Kubler_Polmans_vs_Harrison_Skupsi_SP.jpg" group-title="sonyliv-Tennis", Kubler/Polmans vs Harrison/Skupsi - Final - 31 Jan 2026 [ENG] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769879588~acl=/*~id=94297420354694918406859601363023~hmac=81a9f1fe0f2bd5620df9830a0206f6fc8495feb199e3f64f6cbaf09c316496ca
+https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769880195~acl=/*~id=77315681812494826972895327174846~hmac=2b2197464eb18e46505b46c0598804742782b08500f73fceb8bf4f3dadc2a083
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014624/1769813999455209_AO2026_Landscape_Thumb_Mens_Doubles_Kubler_Polmans_vs_Harrison_Skupsi_SP.jpg" group-title="sonyliv-Tennis", Kubler/Polmans vs Harrison/Skupsi - Final - 31 Jan 2026 [HIN] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769879588~acl=/*~id=94297420354694918406859601363023~hmac=81a9f1fe0f2bd5620df9830a0206f6fc8495feb199e3f64f6cbaf09c316496ca
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769880195~acl=/*~id=77315681812494826972895327174846~hmac=2b2197464eb18e46505b46c0598804742782b08500f73fceb8bf4f3dadc2a083
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014624/1769813999455209_AO2026_Landscape_Thumb_Mens_Doubles_Kubler_Polmans_vs_Harrison_Skupsi_SP.jpg" group-title="sonyliv-Tennis", Kubler/Polmans vs Harrison/Skupsi - Final - 31 Jan 2026 [TAM] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769879588~acl=/*~id=94297420354694918406859601363023~hmac=81a9f1fe0f2bd5620df9830a0206f6fc8495feb199e3f64f6cbaf09c316496ca
+https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769880195~acl=/*~id=77315681812494826972895327174846~hmac=2b2197464eb18e46505b46c0598804742782b08500f73fceb8bf4f3dadc2a083
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014624/1769813999455209_AO2026_Landscape_Thumb_Mens_Doubles_Kubler_Polmans_vs_Harrison_Skupsi_SP.jpg" group-title="sonyliv-Tennis", Kubler/Polmans vs Harrison/Skupsi - Final - 31 Jan 2026 [TEL] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769879588~acl=/*~id=94297420354694918406859601363023~hmac=81a9f1fe0f2bd5620df9830a0206f6fc8495feb199e3f64f6cbaf09c316496ca
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769880195~acl=/*~id=77315681812494826972895327174846~hmac=2b2197464eb18e46505b46c0598804742782b08500f73fceb8bf4f3dadc2a083
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014625/1769816489071275_SS_mens_FINAL_Northen-Districts-V-Canterbury-Kings_Landscape_thumb.jpg" group-title="sonyliv-Cricket", Northen Brave vs Canterbury Kings - Final - 31 Jan 2026 [ENG] - Super Smash 2025/26 Men's
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769879588~acl=/*~id=94297420354694918406859601363023~hmac=81a9f1fe0f2bd5620df9830a0206f6fc8495feb199e3f64f6cbaf09c316496ca
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769880195~acl=/*~id=77315681812494826972895327174846~hmac=2b2197464eb18e46505b46c0598804742782b08500f73fceb8bf4f3dadc2a083
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014577/1769774745614353_AO26_final_KIA_Arena_30jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Martin De la Puente vs Tokito Oda - 31 Jan 2026 [ENG] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769879588~acl=/*~id=94297420354694918406859601363023~hmac=81a9f1fe0f2bd5620df9830a0206f6fc8495feb199e3f64f6cbaf09c316496ca
+https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769880195~acl=/*~id=77315681812494826972895327174846~hmac=2b2197464eb18e46505b46c0598804742782b08500f73fceb8bf4f3dadc2a083
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014573/1769774281955989_AO26_final_stream2_30jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Stream 2 - 31 Jan 2026 [ENG] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769879588~acl=/*~id=94297420354694918406859601363023~hmac=81a9f1fe0f2bd5620df9830a0206f6fc8495feb199e3f64f6cbaf09c316496ca
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769880195~acl=/*~id=77315681812494826972895327174846~hmac=2b2197464eb18e46505b46c0598804742782b08500f73fceb8bf4f3dadc2a083
