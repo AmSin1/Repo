@@ -4,7 +4,7 @@
 # [last updated 01-02-2026 15:20 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-1.m3u 01-02-2026 15:20 IST ([✓]API verified) ★●----
-http://143.94.206.171/99244295
+http://118.59.81.118/78739637
 #EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014705/176989270767948_AO_alcaraz_vs_djokovic_final_31jan_landscape_thumb_Live.jpg" tvg-language="English" group-title="Tennis",ENG | Carlos Alcaraz vs Novak Djokovic - Final - 1 Feb 2026
 https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-AO/master.m3u8?hdnea=exp=1769970602~acl=/*~id=75057909265163929955051946474872~hmac=3017f578f8f2ff084187b62fa0d78f219e469959f026f0abfe44784a05b3f124|User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; NM368_818; Build/PPR2.180905.006.A1)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=bdef5ffa776db60c4050ddac7f131897-1769939400119
 #EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014705/176989270767948_AO_alcaraz_vs_djokovic_final_31jan_landscape_thumb_Live.jpg" tvg-language="Hindi" group-title="Tennis",HIN | Carlos Alcaraz vs Novak Djokovic - Final - 1 Feb 2026
@@ -24,10 +24,10 @@ https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/master.m3u8?hdnea=e
 
 
 # Playlist from sl-le-2.m3u : 8 stream(s) 
-# [last updated 01-02-2026 15:21 IST ([✓]API verified)] 
+# [last updated 01-02-2026 15:31 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-2.m3u 01-02-2026 15:21 IST ([✓]API verified) ★●----
-http://158.231.138.82/01475995
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-2.m3u 01-02-2026 15:31 IST ([✓]API verified) ★●----
+http://231.180.3.61/20196168
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014705/176989270767948_AO_alcaraz_vs_djokovic_final_31jan_landscape_thumb_Live.jpg" group-title="sonyliv-Tennis", Carlos Alcaraz vs Novak Djokovic - Final - 1 Feb 2026 [ENG] - Australian Open 2026
 https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769982687~acl=/*~id=05238030148853421513557499524098~hmac=6e01494d677f2971bedb9f10bbc7adfcfa01aa06cdadde44a762ec56adc126f2
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014705/176989270767948_AO_alcaraz_vs_djokovic_final_31jan_landscape_thumb_Live.jpg" group-title="sonyliv-Tennis", Carlos Alcaraz vs Novak Djokovic - Final - 1 Feb 2026 [HIN] - Australian Open 2026
