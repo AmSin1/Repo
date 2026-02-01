@@ -4,7 +4,7 @@
 # [last updated 01-02-2026 12:40 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-1.m3u 01-02-2026 12:40 IST ([✓]API verified) ★●----
-http://239.76.160.207/63741211
+http://100.29.50.255/62972159
 #EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014575/1769774583494206_AO26_final_stream1_30jan_landscape_thumb.jpg" tvg-language="English" group-title="Tennis",ENG | Stream 1 - 1 Feb 2026
 https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-AO/master.m3u8?hdnea=exp=1769949002~acl=/*~id=26595425810487039642334944276895~hmac=94b97a38db3c7a10c07fff51a34eac1003b5624e9871f4c00213f5907efbe71a|User-Agent=com.sonyliv/6.22.4 (Android 6; en_GB; AISEN; Build/MRA58K)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ddd7eb05c63965ca496c89a4a5226172-1769929800108
 #EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014575/1769774583494206_AO26_final_stream1_30jan_landscape_thumb.jpg" tvg-language="Hindi" group-title="Tennis",HIN | Stream 1 - 1 Feb 2026
@@ -16,15 +16,15 @@ https://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-AO/master.m3u8?hdnea=e
 
 
 # Playlist from sl-le-2.m3u : 4 stream(s) 
-# [last updated 01-02-2026 12:39 IST ([✓]API verified)] 
+# [last updated 01-02-2026 12:49 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-2.m3u 01-02-2026 12:39 IST ([✓]API verified) ★●----
-http://150.113.155.42/28013131
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-2.m3u 01-02-2026 12:49 IST ([✓]API verified) ★●----
+http://242.135.117.103/08927336
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014575/1769774583494206_AO26_final_stream1_30jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Stream 1 - 1 Feb 2026 [ENG] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769972975~acl=/*~id=94396528756082840981618839011640~hmac=e52657b15175a276f6d2182d60dc99a552dc6a5a94ae73d290a4e54717397f76
+https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769973580~acl=/*~id=69071383852687090362756622125114~hmac=63cf6ef16943a3cb742657d3e114aa9d2f35828228c04eadcc13e683c3aa0def
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014575/1769774583494206_AO26_final_stream1_30jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Stream 1 - 1 Feb 2026 [HIN] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769972975~acl=/*~id=94396528756082840981618839011640~hmac=e52657b15175a276f6d2182d60dc99a552dc6a5a94ae73d290a4e54717397f76
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769973580~acl=/*~id=69071383852687090362756622125114~hmac=63cf6ef16943a3cb742657d3e114aa9d2f35828228c04eadcc13e683c3aa0def
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014575/1769774583494206_AO26_final_stream1_30jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Stream 1 - 1 Feb 2026 [TAM] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769972975~acl=/*~id=94396528756082840981618839011640~hmac=e52657b15175a276f6d2182d60dc99a552dc6a5a94ae73d290a4e54717397f76
+https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769973580~acl=/*~id=69071383852687090362756622125114~hmac=63cf6ef16943a3cb742657d3e114aa9d2f35828228c04eadcc13e683c3aa0def
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014575/1769774583494206_AO26_final_stream1_30jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Stream 1 - 1 Feb 2026 [TEL] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769972975~acl=/*~id=94396528756082840981618839011640~hmac=e52657b15175a276f6d2182d60dc99a552dc6a5a94ae73d290a4e54717397f76
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769973580~acl=/*~id=69071383852687090362756622125114~hmac=63cf6ef16943a3cb742657d3e114aa9d2f35828228c04eadcc13e683c3aa0def
