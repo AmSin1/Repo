@@ -1,10 +1,10 @@
 #EXTM3U
 
 # Playlist from fc-le-1.m3u : 7 stream(s) 
-# [last updated 01-02-2026 12:56 IST ([✓]API verified)] 
+# [last updated 01-02-2026 13:00 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 01-02-2026 12:56 IST ([✓]API verified) ★●----
-http://62.7.60.113/59405307
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 01-02-2026 13:00 IST ([✓]API verified) ★●----
+http://194.239.241.119/67707788
 #EXTINF:-1 tvg-id="139246" tvg-name="Scotland Women Vs Usa Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png" tvg-language="ENGLISH" group-title="Cricket",ENG | Scotland Women Vs Usa Women
 https://in-mc-fdlive.fancode.com/mumbai/139246_english_hls_39bfc319e228275_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139401" tvg-name="Central Coast Mariners Vs Melbourne Victory" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139401_5802_CCM_MLV_FC-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Central Coast Mariners Vs Melbourne Victory
@@ -25,7 +25,7 @@ https://in-mc-fdlive.fancode.com/mumbai/140331_english_hls_79f72b1c5435_1ta-di_h
 # [last updated 01-02-2026 12:35 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-2.m3u 01-02-2026 12:35 IST ([✓]API verified) ★●----
-http://214.155.182.170/29769973
+http://249.77.110.197/12038582
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png" group-title="Fancode-Cricket", Scotland Women vs USA Women (ICC Women's T20 World Cup Global Qualifier, 2026)
 https://in-mc-fdlive.fancode.com/mumbai/139246_english_hls_39bfc319e228275_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139401_5802_CCM_MLV_FC-Web.jpg" group-title="Fancode-Football", Central Coast Mariners vs Melbourne Victory (A League 2025-26)
@@ -46,7 +46,7 @@ https://in-mc-fdlive.fancode.com/mumbai/140331_english_hls_79f72b1c5435_1ta-di_h
 # [last updated 01-02-2026 12:52 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-3.m3u 01-02-2026 12:52 IST ([✓]API verified) ★●----
-http://172.48.247.121/63881888
+http://31.252.174.85/04660051
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png" group-title="Fancode-Cricket", Scotland Women vs USA Women (ICC Women's T20 World Cup Global Qualifier- 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/139246_english_hls_39bfc319e228275_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139401_5802_CCM_MLV_FC-Web.jpg" group-title="Fancode-Football", Central Coast Mariners vs Melbourne Victory (A League 2025-26)
