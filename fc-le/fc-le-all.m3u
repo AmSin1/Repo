@@ -1,10 +1,10 @@
 #EXTM3U
 
 # Playlist from fc-le-1.m3u : 12 stream(s) 
-# [last updated 01-02-2026 14:14 IST ([✓]API verified)] 
+# [last updated 01-02-2026 14:21 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 01-02-2026 14:14 IST ([✓]API verified) ★●----
-http://214.186.25.169/00775597
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 01-02-2026 14:21 IST ([✓]API verified) ★●----
+http://68.3.212.185/93668653
 #EXTINF:-1 tvg-id="140084" tvg-name="Pune Panthers Vs Maharashtra Tycoons" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pune-Panthers_vs_Maharashtra-Tycoons_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Pune Panthers Vs Maharashtra Tycoons
 https://in-mc-fdlive.fancode.com/mumbai/140084_english_hls_65c2c3cac063114_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140084" tvg-name="Pune Panthers Vs Maharashtra Tycoons" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pune-Panthers_vs_Maharashtra-Tycoons_FC-Web.jpg" tvg-language="HINDI" group-title="Cricket",HIN | Pune Panthers Vs Maharashtra Tycoons
@@ -35,7 +35,7 @@ https://in-mc-fdlive.fancode.com/mumbai/140169_english_hls_6545b6aa6a5824_1ta-di
 # [last updated 01-02-2026 14:16 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-2.m3u 01-02-2026 14:16 IST ([✓]API verified) ★●----
-http://170.215.17.109/90856556
+http://101.47.126.210/40079822
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pune-Panthers_vs_Maharashtra-Tycoons_FC-Web.jpg" group-title="Fancode-Cricket", Pune Panthers vs Maharashtra Tycoons (World Legends Pro T20 League, 2026)
 https://in-mc-fdlive.fancode.com/mumbai/140084_english_hls_65c2c3cac063114_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png" group-title="Fancode-Cricket", Scotland Women vs USA Women (ICC Women's T20 World Cup Global Qualifier, 2026)
@@ -64,7 +64,7 @@ https://in-mc-fdlive.fancode.com/mumbai/140169_english_hls_6545b6aa6a5824_1ta-di
 # [last updated 01-02-2026 13:21 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-3.m3u 01-02-2026 13:21 IST ([✓]API verified) ★●----
-http://76.247.156.171/35127829
+http://225.62.176.179/68034095
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png" group-title="Fancode-Cricket", Scotland Women vs USA Women (ICC Women's T20 World Cup Global Qualifier- 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/139246_english_hls_39bfc319e228275_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139401_5802_CCM_MLV_FC-Web.jpg" group-title="Fancode-Football", Central Coast Mariners vs Melbourne Victory (A League 2025-26)
