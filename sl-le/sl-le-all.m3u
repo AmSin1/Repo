@@ -4,7 +4,7 @@
 # [last updated 01-02-2026 10:40 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-1.m3u 01-02-2026 10:40 IST ([✓]API verified) ★●----
-http://95.140.76.57/90754255
+http://36.49.137.15/35874547
 #EXTINF:-1 tvg-id="1090502848" tvg-name="UFC 325 - Volkanovski vs Lopes" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014568/1769771921646971_UFC_325_landscape_thumb.jpg" tvg-language="English" group-title="Fight Sports",ENG |  UFC 325 - Volkanovski vs Lopes - 1 Feb 2026
 https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-UFC/master.m3u8?hdnea=exp=1769949002~acl=/*~id=26595425810487039642334944276895~hmac=94b97a38db3c7a10c07fff51a34eac1003b5624e9871f4c00213f5907efbe71a|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SWTV-21AE; Build/RTM2.210929.109)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a0c1aaad417c63bf3d0d84dfe9424894-1769922600103
 #EXTINF:-1 tvg-id="1090502848" tvg-name="UFC 325 - Volkanovski vs Lopes" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014568/1769771921646971_UFC_325_landscape_thumb.jpg" tvg-language="Hindi" group-title="Fight Sports",HIN |  UFC 325 - Volkanovski vs Lopes - 1 Feb 2026
@@ -21,6 +21,6 @@ https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-AO/master.m3u8?hdnea=e
 # [last updated 01-02-2026 10:48 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-2.m3u 01-02-2026 10:48 IST ([✓]API verified) ★●----
-http://104.18.206.226/13992745
+http://160.129.233.221/87607538
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014667/1769854559568594_AO2026_Landscape_Thumb_JuniorBoysSinglesFinal_Hance_V_Sesko_SP.jpg" group-title="sonyliv-Tennis", Keaten Hance vs Ziga Sesko - Jr. Boys' Final - 1 Feb 2026 [ENG] - Australian Open 2026
 https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769966318~acl=/*~id=37577236158348539616825213327757~hmac=2b04d57003ef8c50ad369599d55593c37ead7bcf4feb22410001d63f7f1431ef
