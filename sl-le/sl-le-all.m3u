@@ -4,7 +4,7 @@
 # [last updated 01-02-2026 10:40 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-1.m3u 01-02-2026 10:40 IST ([✓]API verified) ★●----
-http://28.128.76.164/43215342
+http://95.140.76.57/90754255
 #EXTINF:-1 tvg-id="1090502848" tvg-name="UFC 325 - Volkanovski vs Lopes" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014568/1769771921646971_UFC_325_landscape_thumb.jpg" tvg-language="English" group-title="Fight Sports",ENG |  UFC 325 - Volkanovski vs Lopes - 1 Feb 2026
 https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-UFC/master.m3u8?hdnea=exp=1769949002~acl=/*~id=26595425810487039642334944276895~hmac=94b97a38db3c7a10c07fff51a34eac1003b5624e9871f4c00213f5907efbe71a|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SWTV-21AE; Build/RTM2.210929.109)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a0c1aaad417c63bf3d0d84dfe9424894-1769922600103
 #EXTINF:-1 tvg-id="1090502848" tvg-name="UFC 325 - Volkanovski vs Lopes" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014568/1769771921646971_UFC_325_landscape_thumb.jpg" tvg-language="Hindi" group-title="Fight Sports",HIN |  UFC 325 - Volkanovski vs Lopes - 1 Feb 2026
@@ -17,18 +17,10 @@ https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-UFC/master.m3u8?hdnea=
 https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-AO/master.m3u8?hdnea=exp=1769949002~acl=/*~id=26595425810487039642334944276895~hmac=94b97a38db3c7a10c07fff51a34eac1003b5624e9871f4c00213f5907efbe71a|User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; XQ-DC72; Build/68.2.A.3.73)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a0c1aaad417c63bf3d0d84dfe9424894-1769922600103
 
 
-# Playlist from sl-le-2.m3u : 5 stream(s) 
-# [last updated 01-02-2026 10:38 IST ([✓]API verified)] 
+# Playlist from sl-le-2.m3u : 1 stream(s) 
+# [last updated 01-02-2026 10:48 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-2.m3u 01-02-2026 10:38 IST ([✓]API verified) ★●----
-http://99.70.138.178/78701027
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014568/1769771921646971_UFC_325_landscape_thumb.jpg" group-title="sonyliv-Fight Sports",  UFC 325 - Volkanovski vs Lopes - 1 Feb 2026 [ENG] - UFC 325 - Volkanovski vs Lopes
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1769965713~acl=/*~id=00796428360080650712022739242565~hmac=a2cd3df6238e078a84c4aaca4d5ee52c92a45a343e3cfa741b6aefbc63bbc083
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014568/1769771921646971_UFC_325_landscape_thumb.jpg" group-title="sonyliv-Fight Sports",  UFC 325 - Volkanovski vs Lopes - 1 Feb 2026 [HIN] - UFC 325 - Volkanovski vs Lopes
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1769965713~acl=/*~id=00796428360080650712022739242565~hmac=a2cd3df6238e078a84c4aaca4d5ee52c92a45a343e3cfa741b6aefbc63bbc083
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014568/1769771921646971_UFC_325_landscape_thumb.jpg" group-title="sonyliv-Fight Sports",  UFC 325 - Volkanovski vs Lopes - 1 Feb 2026 [TAM] - UFC 325 - Volkanovski vs Lopes
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1769965713~acl=/*~id=00796428360080650712022739242565~hmac=a2cd3df6238e078a84c4aaca4d5ee52c92a45a343e3cfa741b6aefbc63bbc083
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014568/1769771921646971_UFC_325_landscape_thumb.jpg" group-title="sonyliv-Fight Sports",  UFC 325 - Volkanovski vs Lopes - 1 Feb 2026 [TEL] - UFC 325 - Volkanovski vs Lopes
-https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1769965713~acl=/*~id=00796428360080650712022739242565~hmac=a2cd3df6238e078a84c4aaca4d5ee52c92a45a343e3cfa741b6aefbc63bbc083
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-2.m3u 01-02-2026 10:48 IST ([✓]API verified) ★●----
+http://104.18.206.226/13992745
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014667/1769854559568594_AO2026_Landscape_Thumb_JuniorBoysSinglesFinal_Hance_V_Sesko_SP.jpg" group-title="sonyliv-Tennis", Keaten Hance vs Ziga Sesko - Jr. Boys' Final - 1 Feb 2026 [ENG] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769965713~acl=/*~id=00796428360080650712022739242565~hmac=a2cd3df6238e078a84c4aaca4d5ee52c92a45a343e3cfa741b6aefbc63bbc083
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769966318~acl=/*~id=37577236158348539616825213327757~hmac=2b04d57003ef8c50ad369599d55593c37ead7bcf4feb22410001d63f7f1431ef
