@@ -4,15 +4,15 @@
 # [last updated 01-02-2026 11:00 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-1.m3u 01-02-2026 11:00 IST ([✓]API verified) ★●----
-http://0.237.8.178/35677505
+http://189.46.116.26/80917884
 #EXTINF:-1 tvg-id="1090498778" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014667/1769854559568594_AO2026_Landscape_Thumb_JuniorBoysSinglesFinal_Hance_V_Sesko_SP.jpg" tvg-language="English" group-title="Tennis",ENG | Keaten Hance vs Ziga Sesko - Jr. Boys' Final - 1 Feb 2026
 https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-AO/master.m3u8?hdnea=exp=1769949002~acl=/*~id=26595425810487039642334944276895~hmac=94b97a38db3c7a10c07fff51a34eac1003b5624e9871f4c00213f5907efbe71a|User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; 2410FPCC5G; Build/UP1A.231005.007)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=1acf617705977f7d8c33d97d3d5d7d4d-1769923800139
 
 
 # Playlist from sl-le-2.m3u : 1 stream(s) 
-# [last updated 01-02-2026 10:58 IST ([✓]API verified)] 
+# [last updated 01-02-2026 11:08 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-2.m3u 01-02-2026 10:58 IST ([✓]API verified) ★●----
-http://249.77.110.197/12038582
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-2.m3u 01-02-2026 11:08 IST ([✓]API verified) ★●----
+http://81.97.41.67/26970318
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014667/1769854559568594_AO2026_Landscape_Thumb_JuniorBoysSinglesFinal_Hance_V_Sesko_SP.jpg" group-title="sonyliv-Tennis", Keaten Hance vs Ziga Sesko - Jr. Boys' Final - 1 Feb 2026 [ENG] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769966923~acl=/*~id=03731262091597369402659743589234~hmac=7a9458274a747476ce25f36b5860de3c908343a26b3a9a76421e517415e443a4
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769967529~acl=/*~id=83791308772751676101791272348611~hmac=a9c20fb95959b89e006681ddcb42ce0190ba724a4076406bc44655254078fb24
