@@ -4,7 +4,7 @@
 # [last updated 01-02-2026 09:20 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-1.m3u 01-02-2026 09:20 IST ([✓]API verified) ★●----
-http://39.142.34.91/69934062
+http://238.60.13.9/70643481
 #EXTINF:-1 tvg-id="1090502848" tvg-name="UFC 325 - Volkanovski vs Lopes" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014568/1769771921646971_UFC_325_landscape_thumb.jpg" tvg-language="English" group-title="Fight Sports",ENG |  UFC 325 - Volkanovski vs Lopes - 1 Feb 2026
 https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-UFC/master.m3u8?hdnea=exp=1769949002~acl=/*~id=26595425810487039642334944276895~hmac=94b97a38db3c7a10c07fff51a34eac1003b5624e9871f4c00213f5907efbe71a|User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; vivo 2015; Build/QP1A.190711.020)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=576498990d0a09ee5bd21122643a5c66-1769917800096
 #EXTINF:-1 tvg-id="1090502848" tvg-name="UFC 325 - Volkanovski vs Lopes" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014568/1769771921646971_UFC_325_landscape_thumb.jpg" tvg-language="Hindi" group-title="Fight Sports",HIN |  UFC 325 - Volkanovski vs Lopes - 1 Feb 2026
@@ -18,10 +18,10 @@ https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-AO/master.m3u8?hdnea=e
 
 
 # Playlist from sl-le-2.m3u : 5 stream(s) 
-# [last updated 01-02-2026 09:27 IST ([✓]API verified)] 
+# [last updated 01-02-2026 09:37 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-2.m3u 01-02-2026 09:27 IST ([✓]API verified) ★●----
-http://7.229.159.220/27164276
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-2.m3u 01-02-2026 09:37 IST ([✓]API verified) ★●----
+http://131.141.179.3/24323099
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014568/1769771921646971_UFC_325_landscape_thumb.jpg" group-title="sonyliv-Fight Sports",  UFC 325 - Volkanovski vs Lopes - 1 Feb 2026 [ENG] - UFC 325 - Volkanovski vs Lopes
 https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1769961471~acl=/*~id=50290075751723348102044923967605~hmac=0a893504a87477f4328fd0ba14ca20304bb6b2ab60f789026b49f19057c6483f
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014568/1769771921646971_UFC_325_landscape_thumb.jpg" group-title="sonyliv-Fight Sports",  UFC 325 - Volkanovski vs Lopes - 1 Feb 2026 [HIN] - UFC 325 - Volkanovski vs Lopes
