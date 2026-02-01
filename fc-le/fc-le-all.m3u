@@ -1,10 +1,10 @@
 #EXTM3U
 
-# Playlist from fc-le-1.m3u : 10 stream(s) 
-# [last updated 01-02-2026 15:35 IST ([✓]API verified)] 
+# Playlist from fc-le-1.m3u : 9 stream(s) 
+# [last updated 01-02-2026 15:42 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 01-02-2026 15:35 IST ([✓]API verified) ★●----
-http://33.135.200.161/94013374
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 01-02-2026 15:42 IST ([✓]API verified) ★●----
+http://146.111.0.146/11677346
 #EXTINF:-1 tvg-id="140084" tvg-name="Pune Panthers Vs Maharashtra Tycoons" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pune-Panthers_vs_Maharashtra-Tycoons_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Pune Panthers Vs Maharashtra Tycoons
 https://in-mc-fdlive.fancode.com/mumbai/140084_english_hls_65c2c3cac063114_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140084" tvg-name="Pune Panthers Vs Maharashtra Tycoons" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pune-Panthers_vs_Maharashtra-Tycoons_FC-Web.jpg" tvg-language="HINDI" group-title="Cricket",HIN | Pune Panthers Vs Maharashtra Tycoons
@@ -21,8 +21,6 @@ https://in-mc-fdlive.fancode.com/mumbai/140333_english_hls_518e0f687f63025_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/140332_english_hls_35577dde3679087_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140331" tvg-name="Day 2   Table 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png" tvg-language="ENGLISH" group-title="Live Events",ENG | Day 2   Table 4
 https://in-mc-fdlive.fancode.com/mumbai/140331_english_hls_79f72b1c5435_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="139902" tvg-name="Tajikistan Vs Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png" tvg-language="ENGLISH" group-title="Futsal",ENG | Tajikistan Vs Australia
-https://in-mc-fdlive.fancode.com/mumbai/139902_english_hls_a71954447d38201_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140169" tvg-name="Day 5   Centre Court" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1769529100515.png" tvg-language="ENGLISH" group-title="Live Events",ENG | Day 5   Centre Court
 https://in-mc-fdlive.fancode.com/mumbai/140169_english_hls_6545b6aa6a5824_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 
@@ -31,7 +29,7 @@ https://in-mc-fdlive.fancode.com/mumbai/140169_english_hls_6545b6aa6a5824_1ta-di
 # [last updated 01-02-2026 15:37 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-2.m3u 01-02-2026 15:37 IST ([✓]API verified) ★●----
-http://221.58.234.127/11952615
+http://2.38.188.2/38729206
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pune-Panthers_vs_Maharashtra-Tycoons_FC-Web.jpg" group-title="Fancode-Cricket", Pune Panthers vs Maharashtra Tycoons (World Legends Pro T20 League, 2026)
 https://in-mc-fdlive.fancode.com/mumbai/140084_english_hls_65c2c3cac063114_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png" group-title="Fancode-Cricket", Scotland Women vs USA Women (ICC Women's T20 World Cup Global Qualifier, 2026)
@@ -50,11 +48,11 @@ https://in-mc-fdlive.fancode.com/mumbai/140331_english_hls_79f72b1c5435_1ta-di_h
 https://in-mc-fdlive.fancode.com/mumbai/140169_english_hls_6545b6aa6a5824_1ta-di_h264/index.m3u8
 
 
-# Playlist from fc-le-3.m3u : 10 stream(s) 
-# [last updated 01-02-2026 15:05 IST ([✓]API verified)] 
+# Playlist from fc-le-3.m3u : 8 stream(s) 
+# [last updated 01-02-2026 15:44 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-3.m3u 01-02-2026 15:05 IST ([✓]API verified) ★●----
-http://79.70.148.249/04826419
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-3.m3u 01-02-2026 15:44 IST ([✓]API verified) ★●----
+http://31.218.159.236/82002920
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pune-Panthers_vs_Maharashtra-Tycoons_FC-Web.jpg" group-title="Fancode-Cricket", Pune Panthers vs Maharashtra Tycoons (World Legends Pro T20 League- 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/140084_english_hls_65c2c3cac063114_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png" group-title="Fancode-Cricket", Scotland Women vs USA Women (ICC Women's T20 World Cup Global Qualifier- 2026)
@@ -69,9 +67,16 @@ https://bd-mc-fdlive.fancode.com/mumbai/140333_english_hls_518e0f687f63025_1ta-d
 https://bd-mc-fdlive.fancode.com/mumbai/140332_english_hls_35577dde3679087_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png" group-title="Fancode-Live Events", Day 2 - Table 4 vs Chennai (Dream Sports Championship Table Tennis 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/140331_english_hls_79f72b1c5435_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1769529100515.png" group-title="Fancode-Live Events", Day 5 - Centre Court vs Madrid- Spain (Hexagon Cup 2026)
+https://bd-mc-fdlive.fancode.com/mumbai/140169_english_hls_6545b6aa6a5824_1ta-di_h264/index.m3u8
+
+
+# Playlist from fc-le-4.m3u : 2 stream(s) 
+# [last updated 01-02-2026 15:17 IST ([✓]API verified)] 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-4.m3u 01-02-2026 15:17 IST ([✓]API verified) ★●----
+http://101.155.7.121/49625680
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png" group-title="Fancode-Futsal", Tajikistan vs Australia (AFC Futsal Asian Cup- 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/139902_english_hls_a71954447d38201_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png" group-title="Fancode-Futsal", Japan vs Uzbekistan (AFC Futsal Asian Cup- 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/139901_english_hls_d715a104ee83494_1ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1769529100515.png" group-title="Fancode-Live Events", Day 5 - Centre Court vs Madrid- Spain (Hexagon Cup 2026)
-https://bd-mc-fdlive.fancode.com/mumbai/140169_english_hls_6545b6aa6a5824_1ta-di_h264/index.m3u8
