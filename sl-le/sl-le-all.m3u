@@ -4,7 +4,7 @@
 # [last updated 01-02-2026 15:40 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-1.m3u 01-02-2026 15:40 IST ([✓]API verified) ★●----
-http://27.242.171.152/60649825
+http://125.128.60.138/40236565
 #EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014705/176989270767948_AO_alcaraz_vs_djokovic_final_31jan_landscape_thumb_Live.jpg" tvg-language="English" group-title="Tennis",ENG | Carlos Alcaraz vs Novak Djokovic - Final - 1 Feb 2026
 https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-AO/master.m3u8?hdnea=exp=1769970602~acl=/*~id=75057909265163929955051946474872~hmac=3017f578f8f2ff084187b62fa0d78f219e469959f026f0abfe44784a05b3f124|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; W-V770; Build/RP1A.200720.011)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e0d446386aa23f8bf3200bb35ca03257-1769940600097
 #EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014705/176989270767948_AO_alcaraz_vs_djokovic_final_31jan_landscape_thumb_Live.jpg" tvg-language="Hindi" group-title="Tennis",HIN | Carlos Alcaraz vs Novak Djokovic - Final - 1 Feb 2026
@@ -24,23 +24,23 @@ https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/master.m3u8?hdnea=e
 
 
 # Playlist from sl-le-2.m3u : 8 stream(s) 
-# [last updated 01-02-2026 15:41 IST ([✓]API verified)] 
+# [last updated 01-02-2026 15:51 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-2.m3u 01-02-2026 15:41 IST ([✓]API verified) ★●----
-http://15.170.120.89/88649850
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-2.m3u 01-02-2026 15:51 IST ([✓]API verified) ★●----
+http://8.69.130.59/83777329
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014705/176989270767948_AO_alcaraz_vs_djokovic_final_31jan_landscape_thumb_Live.jpg" group-title="sonyliv-Tennis", Carlos Alcaraz vs Novak Djokovic - Final - 1 Feb 2026 [ENG] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769983904~acl=/*~id=38591660066886356812105743404787~hmac=57ea8e3d0029205b8b2d5dc3c4a4eda48466308d1675959331a07ed9c5d15f09
+https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769984511~acl=/*~id=69949496088963461068471108576406~hmac=601117131a1f0ace1d4d2c7e9c180ff85be866980472dd2c22aa998aaa17c4f7
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014705/176989270767948_AO_alcaraz_vs_djokovic_final_31jan_landscape_thumb_Live.jpg" group-title="sonyliv-Tennis", Carlos Alcaraz vs Novak Djokovic - Final - 1 Feb 2026 [HIN] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769983904~acl=/*~id=38591660066886356812105743404787~hmac=57ea8e3d0029205b8b2d5dc3c4a4eda48466308d1675959331a07ed9c5d15f09
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769984511~acl=/*~id=69949496088963461068471108576406~hmac=601117131a1f0ace1d4d2c7e9c180ff85be866980472dd2c22aa998aaa17c4f7
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014705/176989270767948_AO_alcaraz_vs_djokovic_final_31jan_landscape_thumb_Live.jpg" group-title="sonyliv-Tennis", Carlos Alcaraz vs Novak Djokovic - Final - 1 Feb 2026 [TAM] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769983904~acl=/*~id=38591660066886356812105743404787~hmac=57ea8e3d0029205b8b2d5dc3c4a4eda48466308d1675959331a07ed9c5d15f09
+https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769984511~acl=/*~id=69949496088963461068471108576406~hmac=601117131a1f0ace1d4d2c7e9c180ff85be866980472dd2c22aa998aaa17c4f7
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014705/176989270767948_AO_alcaraz_vs_djokovic_final_31jan_landscape_thumb_Live.jpg" group-title="sonyliv-Tennis", Carlos Alcaraz vs Novak Djokovic - Final - 1 Feb 2026 [TEL] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769983904~acl=/*~id=38591660066886356812105743404787~hmac=57ea8e3d0029205b8b2d5dc3c4a4eda48466308d1675959331a07ed9c5d15f09
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769984511~acl=/*~id=69949496088963461068471108576406~hmac=601117131a1f0ace1d4d2c7e9c180ff85be866980472dd2c22aa998aaa17c4f7
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014710/1769904626246948_WLP26_PunePanthers_vs_MaharashtraTycoonsLLandscape_thumb.jpg" group-title="sonyliv-Cricket", Pune Panthers vs Maharashtra Tycoons - 1 Feb 2026 [ENG] - World Legends Pro T20 League 2026
-https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769983904~acl=/*~id=38591660066886356812105743404787~hmac=57ea8e3d0029205b8b2d5dc3c4a4eda48466308d1675959331a07ed9c5d15f09
+https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769984511~acl=/*~id=69949496088963461068471108576406~hmac=601117131a1f0ace1d4d2c7e9c180ff85be866980472dd2c22aa998aaa17c4f7
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014710/1769904626246948_WLP26_PunePanthers_vs_MaharashtraTycoonsLLandscape_thumb.jpg" group-title="sonyliv-Cricket", Pune Panthers vs Maharashtra Tycoons - 1 Feb 2026 [HIN] - World Legends Pro T20 League 2026
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769983904~acl=/*~id=38591660066886356812105743404787~hmac=57ea8e3d0029205b8b2d5dc3c4a4eda48466308d1675959331a07ed9c5d15f09
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769984511~acl=/*~id=69949496088963461068471108576406~hmac=601117131a1f0ace1d4d2c7e9c180ff85be866980472dd2c22aa998aaa17c4f7
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014573/1769774281955989_AO26_final_stream2_30jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Carlos Alcaraz vs Novak Djokovic - Final - 1 Feb 2026 [ENG] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769983904~acl=/*~id=38591660066886356812105743404787~hmac=57ea8e3d0029205b8b2d5dc3c4a4eda48466308d1675959331a07ed9c5d15f09
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769984511~acl=/*~id=69949496088963461068471108576406~hmac=601117131a1f0ace1d4d2c7e9c180ff85be866980472dd2c22aa998aaa17c4f7
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014514/1769721599881157_DPworldtour_Bahrain_Championship_day4_28jan_live_landscape_thumb_re1.jpg" group-title="sonyliv-Golf", Bahrain Championship Day 4 - 1 Feb 2026 [ENG] - DP World Tour
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769983904~acl=/*~id=38591660066886356812105743404787~hmac=57ea8e3d0029205b8b2d5dc3c4a4eda48466308d1675959331a07ed9c5d15f09
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769984511~acl=/*~id=69949496088963461068471108576406~hmac=601117131a1f0ace1d4d2c7e9c180ff85be866980472dd2c22aa998aaa17c4f7
