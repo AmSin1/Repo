@@ -1,10 +1,10 @@
 #EXTM3U
 
 # Playlist from fc-le-1.m3u : 12 stream(s) 
-# [last updated 01-02-2026 14:21 IST ([✓]API verified)] 
+# [last updated 01-02-2026 14:28 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 01-02-2026 14:21 IST ([✓]API verified) ★●----
-http://68.3.212.185/93668653
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 01-02-2026 14:28 IST ([✓]API verified) ★●----
+http://123.198.255.31/75642587
 #EXTINF:-1 tvg-id="140084" tvg-name="Pune Panthers Vs Maharashtra Tycoons" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pune-Panthers_vs_Maharashtra-Tycoons_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Pune Panthers Vs Maharashtra Tycoons
 https://in-mc-fdlive.fancode.com/mumbai/140084_english_hls_65c2c3cac063114_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="140084" tvg-name="Pune Panthers Vs Maharashtra Tycoons" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pune-Panthers_vs_Maharashtra-Tycoons_FC-Web.jpg" tvg-language="HINDI" group-title="Cricket",HIN | Pune Panthers Vs Maharashtra Tycoons
@@ -35,7 +35,7 @@ https://in-mc-fdlive.fancode.com/mumbai/140169_english_hls_6545b6aa6a5824_1ta-di
 # [last updated 01-02-2026 14:16 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-2.m3u 01-02-2026 14:16 IST ([✓]API verified) ★●----
-http://101.47.126.210/40079822
+http://203.203.91.243/79909132
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pune-Panthers_vs_Maharashtra-Tycoons_FC-Web.jpg" group-title="Fancode-Cricket", Pune Panthers vs Maharashtra Tycoons (World Legends Pro T20 League, 2026)
 https://in-mc-fdlive.fancode.com/mumbai/140084_english_hls_65c2c3cac063114_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png" group-title="Fancode-Cricket", Scotland Women vs USA Women (ICC Women's T20 World Cup Global Qualifier, 2026)
@@ -60,11 +60,13 @@ https://in-mc-fdlive.fancode.com/mumbai/139901_english_hls_d715a104ee83494_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/140169_english_hls_6545b6aa6a5824_1ta-di_h264/index.m3u8
 
 
-# Playlist from fc-le-3.m3u : 9 stream(s) 
-# [last updated 01-02-2026 13:21 IST ([✓]API verified)] 
+# Playlist from fc-le-3.m3u : 11 stream(s) 
+# [last updated 01-02-2026 14:30 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-3.m3u 01-02-2026 13:21 IST ([✓]API verified) ★●----
-http://225.62.176.179/68034095
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-3.m3u 01-02-2026 14:30 IST ([✓]API verified) ★●----
+http://208.129.27.248/33143729
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pune-Panthers_vs_Maharashtra-Tycoons_FC-Web.jpg" group-title="Fancode-Cricket", Pune Panthers vs Maharashtra Tycoons (World Legends Pro T20 League- 2026)
+https://bd-mc-fdlive.fancode.com/mumbai/140084_english_hls_65c2c3cac063114_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png" group-title="Fancode-Cricket", Scotland Women vs USA Women (ICC Women's T20 World Cup Global Qualifier- 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/139246_english_hls_39bfc319e228275_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139401_5802_CCM_MLV_FC-Web.jpg" group-title="Fancode-Football", Central Coast Mariners vs Melbourne Victory (A League 2025-26)
@@ -83,3 +85,5 @@ https://bd-mc-fdlive.fancode.com/mumbai/140331_english_hls_79f72b1c5435_1ta-di_h
 https://bd-mc-fdlive.fancode.com/mumbai/139902_english_hls_a71954447d38201_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png" group-title="Fancode-Futsal", Japan vs Uzbekistan (AFC Futsal Asian Cup- 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/139901_english_hls_d715a104ee83494_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1769529100515.png" group-title="Fancode-Live Events", Day 5 - Centre Court vs Madrid- Spain (Hexagon Cup 2026)
+https://bd-mc-fdlive.fancode.com/mumbai/140169_english_hls_6545b6aa6a5824_1ta-di_h264/index.m3u8
