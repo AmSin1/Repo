@@ -1,10 +1,10 @@
 #EXTM3U
 
 # Playlist from fc-le-1.m3u : 7 stream(s) 
-# [last updated 01-02-2026 10:28 IST ([✓]API verified)] 
+# [last updated 01-02-2026 10:35 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 01-02-2026 10:28 IST ([✓]API verified) ★●----
-http://45.52.142.211/06114788
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-1.m3u 01-02-2026 10:35 IST ([✓]API verified) ★●----
+http://57.88.66.172/65452389
 #EXTINF:-1 tvg-id="139245" tvg-name="Ireland Women Vs Thailand Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png" tvg-language="ENGLISH" group-title="Cricket",ENG | Ireland Women Vs Thailand Women
 https://in-mc-fdlive.fancode.com/mumbai/139245_english_hls_278f26aeba82824_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="139244" tvg-name="Bangladesh Women Vs Netherlands Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png" tvg-language="ENGLISH" group-title="Cricket",ENG | Bangladesh Women Vs Netherlands Women
@@ -25,7 +25,7 @@ https://in-mc-fdlive.fancode.com/mumbai/140331_english_hls_79f72b1c5435_1ta-di_h
 # [last updated 01-02-2026 10:03 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-2.m3u 01-02-2026 10:03 IST ([✓]API verified) ★●----
-http://124.159.224.89/72214396
+http://64.221.32.238/43424180
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png" group-title="Fancode-Cricket", Ireland Women vs Thailand Women (ICC Women's T20 World Cup Global Qualifier, 2026)
 https://in-mc-fdlive.fancode.com/mumbai/139245_english_hls_278f26aeba82824_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png" group-title="Fancode-Cricket", Bangladesh Women vs Netherlands Women (ICC Women's T20 World Cup Global Qualifier, 2026)
@@ -46,7 +46,7 @@ https://in-mc-fdlive.fancode.com/mumbai/140331_english_hls_79f72b1c5435_1ta-di_h
 # [last updated 01-02-2026 10:21 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ fc-le-3.m3u 01-02-2026 10:21 IST ([✓]API verified) ★●----
-http://29.180.101.126/48638797
+http://93.18.32.78/61713851
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png" group-title="Fancode-Cricket", Ireland Women vs Thailand Women (ICC Women's T20 World Cup Global Qualifier- 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/139245_english_hls_278f26aeba82824_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png" group-title="Fancode-Cricket", Bangladesh Women vs Netherlands Women (ICC Women's T20 World Cup Global Qualifier- 2026)
