@@ -4,7 +4,7 @@
 # [last updated 01-02-2026 07:40 IST ([✓]API verified)] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-1.m3u 01-02-2026 07:40 IST ([✓]API verified) ★●----
-http://138.103.235.40/93860425
+http://167.204.19.230/98657152
 #EXTINF:-1 tvg-id="1090502848" tvg-name="UFC 325 - Volkanovski vs Lopes" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014568/1769771921646971_UFC_325_landscape_thumb.jpg" tvg-language="English" group-title="Fight Sports",ENG |  UFC 325 - Volkanovski vs Lopes - 1 Feb 2026
 https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-UFC/master.m3u8?hdnea=exp=1769949002~acl=/*~id=26595425810487039642334944276895~hmac=94b97a38db3c7a10c07fff51a34eac1003b5624e9871f4c00213f5907efbe71a|User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; V2440; Build/AP3A.240905.015.A2_V000L1)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=b2816d327012db808689d1048d7938e9-1769911800094
 #EXTINF:-1 tvg-id="1090502848" tvg-name="UFC 325 - Volkanovski vs Lopes" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014568/1769771921646971_UFC_325_landscape_thumb.jpg" tvg-language="Hindi" group-title="Fight Sports",HIN |  UFC 325 - Volkanovski vs Lopes - 1 Feb 2026
@@ -18,17 +18,17 @@ https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-AO/master.m3u8?hdnea=e
 
 
 # Playlist from sl-le-2.m3u : 5 stream(s) 
-# [last updated 01-02-2026 07:36 IST ([✓]API verified)] 
+# [last updated 01-02-2026 07:46 IST ([✓]API verified)] 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-2.m3u 01-02-2026 07:36 IST ([✓]API verified) ★●----
-http://16.21.116.86/49565645
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",----●★ sl-le-2.m3u 01-02-2026 07:46 IST ([✓]API verified) ★●----
+http://170.208.30.213/55364849
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014568/1769771921646971_UFC_325_landscape_thumb.jpg" group-title="sonyliv-Fight Sports",  UFC 325 - Volkanovski vs Lopes - 1 Feb 2026 [ENG] - UFC 325 - Volkanovski vs Lopes
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1769954806~acl=/*~id=20412198642936504829012108549318~hmac=4e00df15201aa47fff34e527308a4c3ddee392bc1b12758465b98dda1d9436fb
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1769955411~acl=/*~id=06866891080302038350932673976353~hmac=99e4f0704f42c9363249adaecd823cffad9cb210d49bc2be4908afbb18a63aa6
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014568/1769771921646971_UFC_325_landscape_thumb.jpg" group-title="sonyliv-Fight Sports",  UFC 325 - Volkanovski vs Lopes - 1 Feb 2026 [HIN] - UFC 325 - Volkanovski vs Lopes
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1769954806~acl=/*~id=20412198642936504829012108549318~hmac=4e00df15201aa47fff34e527308a4c3ddee392bc1b12758465b98dda1d9436fb
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1769955411~acl=/*~id=06866891080302038350932673976353~hmac=99e4f0704f42c9363249adaecd823cffad9cb210d49bc2be4908afbb18a63aa6
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014568/1769771921646971_UFC_325_landscape_thumb.jpg" group-title="sonyliv-Fight Sports",  UFC 325 - Volkanovski vs Lopes - 1 Feb 2026 [TAM] - UFC 325 - Volkanovski vs Lopes
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1769954806~acl=/*~id=20412198642936504829012108549318~hmac=4e00df15201aa47fff34e527308a4c3ddee392bc1b12758465b98dda1d9436fb
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1769955411~acl=/*~id=06866891080302038350932673976353~hmac=99e4f0704f42c9363249adaecd823cffad9cb210d49bc2be4908afbb18a63aa6
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014568/1769771921646971_UFC_325_landscape_thumb.jpg" group-title="sonyliv-Fight Sports",  UFC 325 - Volkanovski vs Lopes - 1 Feb 2026 [TEL] - UFC 325 - Volkanovski vs Lopes
-https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1769954806~acl=/*~id=20412198642936504829012108549318~hmac=4e00df15201aa47fff34e527308a4c3ddee392bc1b12758465b98dda1d9436fb
+https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1769955411~acl=/*~id=06866891080302038350932673976353~hmac=99e4f0704f42c9363249adaecd823cffad9cb210d49bc2be4908afbb18a63aa6
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014667/1769854559517594_AO2026_Landscape_Thumb_JuniorGirlsSinglesFinal_Tupitsyna_v_Efremova_SP.jpg" group-title="sonyliv-Tennis",  Tupitsyna vs Efremova - Final - 1 Feb 2026 [ENG] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769954806~acl=/*~id=20412198642936504829012108549318~hmac=4e00df15201aa47fff34e527308a4c3ddee392bc1b12758465b98dda1d9436fb
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769955411~acl=/*~id=06866891080302038350932673976353~hmac=99e4f0704f42c9363249adaecd823cffad9cb210d49bc2be4908afbb18a63aa6
